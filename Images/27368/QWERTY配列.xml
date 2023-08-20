@@ -1,0 +1,214 @@
+<page>
+    <title>QWERTY配列</title>
+    <ns>0</ns>
+    <id>27368</id>
+    <revision>
+      <id>93364716</id>
+      <parentid>93068650</parentid>
+      <timestamp>2023-01-12T12:08:00Z</timestamp>
+      <contributor>
+        <username>Baudanbau20</username>
+        <id>1657559</id>
+      </contributor>
+      <minor />
+      <comment>本文中の自己リンク</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33656" xml:space="preserve">&lt;!--- 文のうち「原典との対応がはっきり解るもの」については、はっきりと分かるように段落を区切った上で、冒頭記述の様にWikipedia:脚注を参考にして&lt;ref&gt;～&lt;/ref&gt;で挟んで原典を明示いただければ幸いです（原典に沿う記述変更を含めて）。Wikipedia:検証可能性への完全適合を目指すため、皆様のご協力をお願いいたします。---&gt;
+'''QWERTY配列'''（'''クワーティ'''はいれつ、クアーティはいれつ、クウェルティはいれつ）は、[[ラテン文字]]が刻印された[[タイプライター]]や[[コンピュータ]]など、文字入力用[[キーボード (コンピュータ)|キーボード]]の&lt;!---殆ど---&gt;多くが採用する（[[デファクトスタンダード]]、[[パソコン]][[キーボード (コンピュータ)|キーボード]]のレイアウトの）[[キー配列]]である。英字最上段の左から6文字がQ, W, E, R, T, Yの並び順であることから「QWERTY」と呼ばれる。
+
+[[1872年]]に[[クリストファー・レイサム・ショールズ]]によって配列の原型が提案され、[[1882年]]に下記の配列が登場した&lt;ref name="yasuoka_20050500_qwerty_reconsideration"&gt;安岡孝一: QWERTY配列再考, 情報管理, Vol.48, No.2(2005年5月), pp.115-118.&lt;/ref&gt;。
+
+[[File:qwerty.png|QWERTY配列]]
+
+== QWERTY配列が完成するまでの過程 ==
+&lt;!--- 文のうち「原典との対応がはっきり解るもの」については、はっきりと分かるように段落を区切った上で、冒頭記述の様にWikipedia:脚注を参考にして&lt;ref&gt;～&lt;/ref&gt;で挟んで原典を明示いただければ幸いです（原典に沿う記述変更を含めて）。Wikipedia:検証可能性への完全適合を目指すため、皆様のご協力をお願いいたします。---&gt;
+クリストファー・レイサム・ショールズが[[1867年]]に製作したタイプライターは、[[ピアノ]]型のキーボードで以下のようにABC順の配列であった（[https://www.google.com/patents?id=ErkAAAAAEBAJ&amp;pg=PP1 アメリカ特許第79868号]）。
+
+{{quotation|&lt;tt&gt;- 3 5 7 9 N O P Q R S T U V W X Y Z&lt;br&gt;&amp;nbsp;2 4 6 8 . A B C D E F G H I J K L M&lt;/tt&gt;}}
+
+入力されたアルファベットを印字する機械としては、[[デイビッド・エドワード・ヒューズ]]と[[ジョージ・メイ・フェルプス]]によって製作された[[印刷電信機]]が、当時すでに実用化されていた。ヒューズとフェルプスの印刷電信機では、ピアノ型のキーボード上に、アルファベットの前半が左から右へ、後半が右から左へ配置されていた（下図、[https://www.google.com/patents?id=dsViAAAAEBAJ&amp;pg=PP1 アメリカ特許第26003号]）。
+
+[[ファイル:U.S.Patent26003.png|ヒューズ＝フェルプス印刷電信機のキー配列]]
+
+&lt;!-- 文のうち「原典との対応がはっきり解るもの」については、はっきりと分かるように段落を区切った上で、冒頭記述の様にWikipedia:脚注を参考にして&lt;ref&gt;～&lt;/ref&gt;で挟んで原典を明示いただければ幸いです（原典に沿う記述変更を含めて）。Wikipedia:検証可能性への完全適合を目指すため、皆様のご協力をお願いいたします。---&gt;
+
+1870年頃からショールズはボタン型のキーによるタイプライターの製作を始めるが、初期段階におけるキー配列は不明である。上記の印刷電信機のキー配列から、母音A・E・I・Y・U・Oが上段に取り出され、最上段に数字が付け加えられた以下に示すようなキー配列であったと推測される&lt;ref name="yasuoka_20080318"&gt;安岡孝一、安岡素子『キーボード配列　QWERTYの謎』、東京、NTT出版、2008年3月、ISBN 978-4-7571-4176-6。&lt;/ref&gt;。
+
+{{quotation|&lt;tt&gt;&amp;nbsp;2 3 4 5 6 7 8 9 -&lt;br&gt;&amp;nbsp;&amp;nbsp;A E I . ? Y U O ,&lt;br&gt;B C D F G H J K L M&lt;br&gt;&amp;nbsp;Z X W V T S R Q P N&lt;/tt&gt;}}
+
+1872年8月10日の『サイエンティフィック・アメリカン』に掲載されたショールズのタイプライターの図からは以下のようなキー配列が読み取れる&lt;ref name="yasuoka_20080318" /&gt;。
+
+{{quotation|&lt;tt&gt;2 3 4 5 6 7 8 9 - , ' &lt;br&gt;&amp;nbsp;Q W E . T Y I U O _&lt;br&gt;&amp;nbsp;&amp;nbsp;A S D F G H J K L M&lt;br&gt;&amp;nbsp;&amp; Z C X V B N ? ; R P&lt;/tt&gt;}}
+
+I(数字の1にも使用される)が8の隣に移動されたのは、当時の年号「1871」を打ちやすくするためであり、SがZとEの間に移動されたのは、当時のアメリカの[[モールス符号]]においてZが「・・・　・」で表されることから、ZとSEの判別がしばしば困難となり、続く文字を受信してからZあるいはSEをすばやく打つためである&lt;ref&gt;[[誠文堂新光社]]、[[子供の科学]]、2010年9月号、46頁&lt;/ref&gt;。
+
+1874年7月に発売された『[[ショールズ・アンド・グリデン・タイプライター]]』のキー配列では、数字としても使用されるIとOが隣り合うように配置され、右下に置かれていたPとRが現在と同じ位置に移動している（[https://www.google.com/patents?id=8F1HAAAAEBAJ&amp;pg=PA2 アメリカ特許第207559号]）&lt;ref name="yasuoka_20080318" /&gt;。
+
+[[File:Remington No. 1 typewriter, made by Remington &amp; Songs, Ilion, NY, 1873-1878, the first Sholes &amp; Glidden model typewriter made by Remington - Wisconsin Historical Museum - DSC02806.JPG|thumb|ショールズ・アンド・グリデン・タイプライター]]
+[[ファイル:QWERTY_1878.png|ショールズ・アンド・グリデン・タイプライターのキー配列]]
+
+1882年には、MとCとXのキー位置が変更された『レミントン・スタンダード・タイプライターNo. 2』が発売され、現在のQWERTY配列が完成した&lt;ref name="yasuoka_20050500_qwerty_reconsideration" /&gt;。
+
+== QWERTY配列誕生の諸説 ==
+
+* QWERTYはタイプライターの技術的な限界から打鍵速度を落としてアームの衝突を防ぐために考え出された配列だという説&lt;ref name="David, P.A. 1985"&gt;{{cite journal|last=David|first=Paul|date=May, 1985|title=Clio and the Economics of QWERTY|journal=[[American Economic Review|The American Economic Review]] |volume=75|issue=2|pages=332–337|url=http://www.jstor.org/stable/1805621}}&lt;/ref&gt;
+
+* タイプライターのセールスマンが、顧客に対して簡単に美しく「typewriter」という単語の打鍵を披露できるようにしたものだという説&lt;!--（QWERTY配列では「typewriter」という文字は横一列に並んでいるので素早く打鍵できる、という説）{{要出典}}--&gt;。最上段のキーのみで、「typewriter」のほかにも「property」のスペルが打てる&lt;ref&gt;Pitman's Typewriter Manual, 2nd Edition, London: Sir Isaac Pitman &amp; Sons, 1897.&lt;/ref&gt;。
+
+* 最も続けて打つことが多い文字、TとHのタイプバー(アームとも呼ばれる[[:en:Typebar|Typebar]])を遠くに離すことで、内部の機械の故障を起こしにくくしたという説&lt;ref name="David, P.A. 1986"&gt;David, P.A. (1986): Understanding the Economics of QWERTY: the Necessity of History. In: Parker, William N.: Economic History and the Modern Economist. Basil Blackwell, New York and Oxford.&lt;/ref&gt;&lt;ref name="Consider QWERTY"&gt;{{cite web |url= http://home.earthlink.net/~dcrehr/whyqwert.html |title= Consider QWERTY |accessdate= 2008-06-18 |last= |first= |date= |year= |month= |work= |publisher= |pages= |archiveurl= |archivedate= |quote= If two typebars were near each other in the circle, they would tend to clash into each other when typed in succession. So, Sholes figured he had to take the most common letter pairs such as "TH" and make sure their typebars hung at safe distances. ……  QWERTY's effect, by reducing those annoying clashes, was to speed up typing rather than slow it down. }}&lt;/ref&gt;
+
+* 元々あった英文タイプライターの配列の数字を英字に置き換えた(1がI、0がOなど)のが基盤で、そこからモールス電信用途に改良した説&lt;ref&gt;{{Cite web|url=https://hardware.srad.jp/story/18/06/19/0553241/|title=キーボードがなぜQWERTYになったかの歴史的経緯|accessdate=2018/06/19|publisher=}}&lt;/ref&gt;
+* 上記の補足にもなるが、既存配列に特許が絡み、それを回避していく内に現在の配列になった説&lt;ref&gt;{{Cite web|url=https://kotobaken.jp/qa/yokuaru/qa-35/|title=パソコンのキーボードは,なぜABC順・五十音順ではないのですか|accessdate=2018/06/15|publisher=}}&lt;/ref&gt;
+
+== QWERTYが普及した理由 ==
+&lt;!--- 文のうち「原典との対応がはっきり解るもの」については、はっきりと分かるように段落を区切った上で、冒頭記述の様にWikipedia:脚注を参考にして&lt;ref&gt;～&lt;/ref&gt;で挟んで原典を明示いただければ幸いです（原典に沿う記述変更を含めて）。Wikipedia:検証可能性への完全適合を目指すため、皆様のご協力をお願いいたします。---&gt;
+
+タイプライター用鍵盤配列は、1880年代にはレミントンのQWERTY配列に対して、アメリカンライティングマシンのカリグラフ配列というライバルがあった。1882年に発売された『カリグラフ No. 2』のキー配列を以下に示す。特許の関係でシフト機構を用いず大文字と小文字を独立したキーに割り当てる方式を用いている&lt;ref name="yasuoka_20080318" /&gt;。
+
+{{quotation|&lt;tt&gt;V W 2 3 4 5 6 7 8 9 J K&lt;br&gt;&amp;nbsp;R T E ( $ q &amp; z ) U G H&lt;br&gt;A S w t r e y u i o I O&lt;br&gt;&amp;nbsp;D F a s d f g h c k N L&lt;br&gt;B C j x v b n l m p M P&lt;br&gt;&amp;nbsp;Q X : ; ' ? " . , - Y Z&lt;/tt&gt;}}
+
+双方は「科学的根拠」を持ち出して宣伝合戦を繰り広げるとともに&lt;ref name="yasuoka_20050500_qwerty_reconsideration"&gt;安岡孝一: QWERTY配列再考, 情報管理, Vol.48, No.2(2005年5月), pp.115-118.&lt;/ref&gt;、「どちらの配列を使えば、より素早く入力できるのか」を競うための打鍵速度コンテストも行っていた。コンテストではそれぞれの入力方式を操るユーザが少なくとも一度勝っており&lt;ref&gt;Typewriters Contest for a Prize. The New-York Times, Vol.37, No.11521, 1888, p.2.&lt;/ref&gt;&lt;ref&gt;Wonderful Typewriting. The New-York Times. Vol.38, No.11701, 1889, p.8.&lt;/ref&gt;、速度面での優劣を示すことはできないままとなっていた。
+
+1893年3月30日、レミントンとアメリカンライティングマシンを含む大手タイプライター会社5社を傘下に収める形でユニオン・タイプライター・カンパニーが設立され「タイプライター・トラスト」という寡占行為が行われた。&lt;ref name="yasuoka_20050500_qwerty_reconsideration"&gt;安岡孝一: QWERTY配列再考, 情報管理, Vol.48, No.2(2005年5月), pp.115-118.&lt;/ref&gt;。
+
+英文入力用鍵盤配列の差に由来する性能競争はタイプライター・トラストの実行によって、性能面での最終決戦を行わないままに、競争の意味そのものを失った。タイプライター・トラストの優位性を確立する手段の1つとして、キー配列がQWERTY配列に統一された。大手のタイプライターメーカーがタイプライター・トラストに基づき、揃ってQWERTY配列を採用したタイプライターを製造し続けた。その結果、タイプライター市場ではQWERTY配列がデファクトスタンダードとなった&lt;ref name="yasuoka_20050500_qwerty_reconsideration"&gt;安岡孝一: QWERTY配列再考, 情報管理, Vol.48, No.2(2005年5月), pp.115-118.&lt;/ref&gt;。
+
+&lt;!--- ==タイプライターと鍵盤配列の関係== ---&gt;
+&lt;!--- 文のうち「原典との対応がはっきり解るもの」については、はっきりと分かるように段落を区切った上で、冒頭記述の様にWikipedia:脚注を参考にして&lt;ref&gt;～&lt;/ref&gt;で挟んで原典を明示いただければ幸いです（原典に沿う記述変更を含めて）。Wikipedia:検証可能性への完全適合を目指すため、皆様のご協力をお願いいたします。---&gt;
+
+== QWERTYと「全指タイピング」「全指タッチ・タイピング」の関係 ==
+&lt;!--- 文のうち「原典との対応がはっきり解るもの」については、はっきりと分かるように段落を区切った上で、冒頭記述の様にWikipedia:脚注を参考にして&lt;ref&gt;～&lt;/ref&gt;で挟んで原典を明示いただければ幸いです（原典に沿う記述変更を含めて）。Wikipedia:検証可能性への完全適合を目指すため、皆様のご協力をお願いいたします。---&gt;
+
+QWERTY鍵盤は、全指&lt;ref name="全指"&gt;[[ノート:QWERTY配列#「全指」について。]]&lt;/ref&gt;タイピング（10本の手指を用いて[[タッチタイプ|タッチ・タイピング]]する技法）と、全指タッチ・タイピング（鍵盤を見ることなく文字入力を行う技法）が成立する前に設計された&lt;ref name="yasuoka_20050500_qwerty_reconsideration"&gt;安岡孝一: QWERTY配列再考, 情報管理, Vol.48, No.2(2005年5月), pp.115-118.&lt;/ref&gt;。そのため、基本的には全指タイピングや全指タッチ・タイピングで操作されることを前提とした設計であるかどうかが不明である。
+
+[[エリザベス・マーガレット・ベイター・ロングリー]]は、いずれも1882年にQWERTY配列向けの運指法と「カリグラフ」向けの全指タイピング法を発表した&lt;ref name="M.V.Longley_18820000_Type-Writer_Lessons"&gt;Mrs. M. V. Longley: Type-Writer Lessons for the Use of Teachers and Learners Adapted to Remington's Perfected Type-Writers, Cincinnati, 1882.&lt;/ref&gt;&lt;ref name="M.V.Longley_18820000_Caligraph_Lessons"&gt;Mrs. M. V. Longley: Caligraph Lessons for the Use of Teachers and Learners Designed to Develop Accurate and Reliable Operators, Cincinnati, 1882.&lt;/ref&gt;。
+
+[[フランク・エドワード・マッガリン]]は、{{独自研究範囲|1889年に全指タッチ・タイピング法を発表した|date=2012年7月}}。(左手の親指は使わない九指タッチ・タイピング法&lt;ref name="全指" /&gt;。)
+
+== タイプライター用鍵盤から印刷電信機（テレタイプ）用鍵盤へ ==
+[[ファイル:DonaldMurray with Telegraphic Typewriter.jpg|サムネイル|325x325ピクセル|ドナルド・マレー]]&lt;!--- 文のうち「原典との対応がはっきり解るもの」については、はっきりと分かるように段落を区切った上で、冒頭記述の様にWikipedia:脚注を参考にして&lt;ref&gt;～&lt;/ref&gt;で挟んで原典を明示いただければ幸いです（原典に沿う記述変更を含めて）。Wikipedia:検証可能性への完全適合を目指すため、皆様のご協力をお願いいたします。---&gt;
+
+かつての[[印刷電信機]]は、[[デイビッド・エドワード・ヒューズ]]による[[鍵盤 (楽器)|ピアノ鍵盤]]様のもの・[[ジャン・モーリス・エミール・ボード]]による5キー同時打鍵方式によるものであった&lt;ref name="yasuoka_20060210_p29-p59_character_code"&gt;安岡孝一・安岡素子　『文字符号の歴史　欧米と日本編』　共立出版、2006年、29-59頁、ISBN 4-320-12102-3。&lt;/ref&gt;。{{仮リンク|ドナルド・マレー|en|Donald Murray (Inventor)}}は、1901年に発表したテレタイプに対し、QWERTY配列を基本とした鍵盤配列を搭載した&lt;ref name="yasuoka_20050500_qwerty_reconsideration"&gt;安岡孝一: QWERTY配列再考, 情報管理, Vol.48, No.2(2005年5月), pp.115-118.&lt;/ref&gt;&lt;ref name="yasuoka_20060210_p29-p59_character_code"&gt;安岡孝一・安岡素子　『文字符号の歴史　欧米と日本編』　共立出版、2006年、29-59頁、ISBN 4-320-12102-3。&lt;/ref&gt;。
+マレーのテレタイプ用鍵盤配列は、数字入力に専用のキーを持たず、[[シフトキー]]と英字キーを組み合わせて数字を表現する仕掛けを採用した。QWERTY鍵盤配列の「文字」並び順と「数字」並び順がここで紐付けされたため、それ以外の鍵盤配列をテレタイプへと採用することが、事実上不可能という状況となった&lt;ref name="yasuoka_20050500_qwerty_reconsideration"&gt;安岡孝一: QWERTY配列再考, 情報管理, Vol.48, No.2(2005年5月), pp.115-118.&lt;/ref&gt;。
+
+== 印刷電信機用鍵盤から電子計算機用鍵盤へ ==
+&lt;!--- 文のうち「原典との対応がはっきり解るもの」については、はっきりと分かるように段落を区切った上で、冒頭記述の様にWikipedia:脚注を参考にして&lt;ref&gt;～&lt;/ref&gt;で挟んで原典を明示いただければ幸いです（原典に沿う記述変更を含めて）。Wikipedia:検証可能性への完全適合を目指すため、皆様のご協力をお願いいたします。---&gt;
+
+コンピュータの黎明期、入出力装置としてのタイプライタ類は、設計者による手作りで自作のものもあれば&lt;ref&gt;日本では[[FUJIC]]の場合&lt;/ref&gt;、自社で特別に製造することもあれば&lt;ref&gt;日本では[[FACOM]]の場合&lt;/ref&gt;、[[テレタイプ端末]]が流用されることもあった（[[EDSAC]]の出力の場合。EDSACの入力自体は鑽孔紙テープであり、その紙テープを作るのがテレタイプ端末であった）。既存機器の流用のため、その元の配列がテレタイプ端末などQWERTY配列の場合には、QWERTY配列が使われる、ということになった&lt;ref name="yasuoka_20050500_qwerty_reconsideration"&gt;安岡孝一: QWERTY配列再考, 情報管理, Vol.48, No.2(2005年5月), pp.115-118.&lt;/ref&gt;。
+
+&lt;!-- ==普及後の肯定論と否定論==
+ここから、「記述」と「出典」の対応関係を紐付けしづらい文面のため、一旦コメントアウトさせていただきます……お手数おかけしますが、復帰される場合には【「記述」と「出典」の対応関係を紐付けしつつ】出典がある物のみを「普及後の肯定論」もしくは「普及後の否定論」の各節へと復帰いただくようお願いいたします。
+{{出典の明記}}
+QWERTY配列は一見したところ様々な字種が鍵盤上の各所に散在しており、如何なる意図を持って配置したのかが判りづらい。そういったこともあり、以下のような批判が為されてきた。
+
+#発明された当初の[[タイプライター]]のキー配列はABC順であったが、高速でのキー入力をすると、文字を紙面にたたきつけるためのタイプ・バー同士が絡み合って故障してしまう。このため、文字の組み合わせの内よく使われるものは離し、わざとタイピングしにくいような配列になっている。
+#この配列は[[印刷]]工場の、[[植字|植字工]]の現場で採用されていた[[活字]]ケースの配列に由来しており、「文字を拾う」ならばともかく、「打つ」ための配列としては適していない。
+#この配列の開発過程において、当初最下段にあった「R」が上から2段目に移動していると伝えられる。これは商品名である「TYPE WRITER」の文字列をセールスマンが素早く入力して見せるために同じ列に集中させるのが目的である。すなわち販売戦略のための配列であり、文章入力に関して最適化されたものではない。
+
+このように（特に第1の論に基づいて）考えると、タイプ・バーという物理的制約を持たない現代においてはQWERTY配列に拘る必要は無く、よりタイピングしやすいものを標準として定める必要があろう。過去にもそういった議論は存在したが、完全に標準化してしまったこの配列を放棄することには繋がらず、現在に至るまで"悪しき"[[デファクトスタンダード]]として存続している、という。（このため、「標準化」の悪しき弊害の好例として繰り返し引用される）
+
+だがこの説明には幾つもの反対意見がある。一方無論のこととして、それに対する再反論も存在する。
+#QWERTYは和文の入力に於いては確かに非能率的だが、英語の単語の並びを前提として、それを入力する際には有用な配列である。フランス語圏でQWERTYを少しだけ入れ替えたAZERTY配列が普及しているのは、その言語での文字の出現の仕方の特性に応じたものが有用ということではないか。
+#:→だがその英語圏に於いて[[Dvorak配列]]が考案され、より高速かつ疲労度の少ない入力を可能にするものとして一部に熱狂的に受け入れられていることの説明がつかない。
+#打鍵位置が散らばっているのは、むしろ入力をし易くする工夫である。運動生理学上、同じ手での連続打鍵よりも、左右の手による交互打鍵のほうが高速な入力が可能であることは明らか（太鼓を叩くところを想像すると良い）である。また同手同指よりも同手異指の連続操作のほうが、指の位置を動かすことによるタイムロス・タイプミスを減少せしめる効果は大きい。
+#:→QWERTY配列は英文の入力に際しても左右の手に均等に散ってはおらず、左手偏重の配列となっている。
+#:※（これについては開発者が左利きであったという説や、右利きのタイピストにとって使いづらいようにしたといった説などがある。）
+#この議論の前提には大きな間違いがある。そもそもQWERTY配列のタイプライターが[[1873年]]に市場に登場したのに対し、現代のように両手の指全部を使って入力する[[タッチタイピング]]が登場したのはそれから約10年後であり、当時はホームポジションという概念すらなかった。当初は2本指による打鍵が行われており、現在目にするような高速入力というもの自体が存在しなかったのだから、それによってバーが絡むなどの説は牽強付会に過ぎない。
+#:→確かにタッチタイプを前提として「わざと打ちづらくした」と捉える説は間違っているかもしれない。しかし逆に、2本指打鍵用の配列であるQWERTYが十本指打鍵に適していないことを補強するのではないか。
+#連続打鍵するキーを離したというならば、なぜ「er」や「ty」、「ed」といった、英文入力で連続して打たれることの多い2文字が隣接しているのか、説明がつかない。
+#:→その説のとおりに、QWERTY配列はそういった意味で快適な入力を志向したものかもしれない。だがそれは上述のように二本指による「拾い打ち」のための配列であり、タッチタイプの左右交互打鍵の思想とは相反する。やはり時代に応じた新しい配列を採用すべきであろう。Dvorak配列はこれらの文字の組み合わせが左右の手に散るように設計されている。
+#'''TYPEWRITER'''の文字列を高速入力するためならば、全体の2段目ではなく3段目に配置したほうが打ちやすいのではないか?
+#:→上の説明に基づくと、当時は現代のようなホームポジションという概念がなかったということになる。そうすると逆にこの部分について論駁できよう。手を離して打つのだから、英字最上段に揃っていることはプラスはあってもマイナス面はないのではないか。
+#そもそも当時の商標は'''TYPE-WRITER'''であって'''TYPEWRITER'''ではないのではないか?
+#:→当時もハイフンは1段目にあったが、商標は文献によって'''TYPE WRITER'''であったり'''TYPE-WRITER'''であったり'''TYPEWRITER'''であったりしていることから、必ずしも'''TYPE-WRITER'''が最有力であったという訳ではない。
+
+なお、初発であったゆえに市場を席巻したと一般に語られるこの配列であるが、当初よりその位置を占めたわけではなく、タイピスト養成学校で採用されたタイプライターの配列が偶々これであったために独占の座を占めるに至ったとの説明もなされる。
+
+一方、五本指タイピングの創始者の1人として知られるシンシナティのロングリー夫人 (Mrs. Margaret Vater Longley) は、自身のタイピスト養成学校で、QWERTY配列とCaligraph配列の両方を教えていたことが明らかになっている&lt;ref name="yasuoka_20050500_qwerty_reconsideration"&gt;安岡孝一: QWERTY配列再考, 情報管理, Vol.48, No.2（2005年5月）, pp.115-118.&lt;/ref&gt;。
+
+「記述」と「出典」の対応関係を紐付けする必要がある文面、ここまで。 ---&gt;
+
+== QWERTY配列の亜種とその他のキーボード配列 ==
+&lt;!--- 文のうち「原典との対応がはっきり解るもの」については、はっきりと分かるように段落を区切った上で、冒頭記述の様にWikipedia:脚注を参考にして&amp;lt;ref&gt;～&amp;lt;/ref&gt;で挟んで原典を明示いただければ幸いです（原典に沿う記述変更を含めて）。Wikipedia:検証可能性への完全適合を目指すため、皆様のご協力をお願いいたします。---&gt;
+
+QWERTY配列は（[[ラテン文字|欧文アルファベット]]入力用として）世界の大多数で採用されていたキー配列であるが、各国の言語事情に合わせて改良型が導入された。フランス語圏においては[[AZERTY配列]]が、ドイツ語圏・チェコ語圏において[[QWERTZ配列]]が作られるなど、QWERTY配列の亜種も存在する。またそれぞれも国によって細かい違いが存在する。
+[[File:Latin keyboard layouts by country in Europe map.PNG|thumb|270px|ヨーロッパでのキーボード配列の地理的分布:&lt;br /&gt;
+{{Legend|MediumSeaGreen|'''QWERTY配列'''}}
+{{Legend|DarkOrange|[[QWERTZ配列]]}}
+{{Legend|CornFlowerBlue|[[AZERTY配列]]}}
+{{Legend|Yellow|固有の配列 (トルコ [https://commons.wikimedia.org/wiki/File:KB_Turkey_f_yeni.svg FGĞIOD]配列）、ラトヴィア（ŪGJRMV配列）、リトアニア（[http://www.ims.mii.lt/EK%C5%BD/a/%C4%84%C5%BDERTY%20klaviat%C5%ABra.html ĄŽERTY]配列）}}
+{{Legend|#B3B3B3|非ラテン文字圏}}]]
+
+また、[[ラテン文字|アルファベット]]ではない文字を、主に母語の表記で用いる国の中には、アルファベット入力用としてQWERTYを用いつつ、母語の構造に適応する配列を上乗せして、切り替えながら使用する例がある。日本語、韓国語、中国語などの例がそれに当たる。
+
+[[オーガスト・ドヴォラック]]は、1933年に[[Dvorak配列|Dvorak Simplified Keyboard]]を発表した。この鍵盤配列はQWERTYとは異なり、はじめから全指タイピング法を目指して設計されていた&lt;ref name="yasuoka_20050500_qwerty_reconsideration"&gt;安岡孝一: QWERTY配列再考, 情報管理, Vol.48, No.2(2005年5月), pp.115-118.&lt;/ref&gt;。
+
+== 参考文献 ==
+&lt;!---&lt;ref&gt;～&lt;/ref&gt;タグで挟まれた文献の自動挿入、ここから。---&gt;
+&lt;references/&gt;
+&lt;!---&lt;ref&gt;～&lt;/ref&gt;タグで挟まれた文献の自動挿入、ここまで。---&gt;
+&lt;!---以下は、まだ対応付けが行われていない参考文献なので、一旦コメントアウトします。
+*The Type Writer, Scientific American, Vol.27, No.5 (1872年8月10日), p.79.
+*The Improved Type-Writer, The Type-Writer Magazine, Vol.2, No.1 (1878年1月), pp.10-11,17,19-24.
+*Edward F. Underhill: Hand-Book of Instruction for the Type-Writer, Evelyn T. Underhill, New York, 1880.
+*Remington Standard Type-Writer, Scientific American, Vol.48, No.24 (1883年6月16日), p.380.
+*The Remington Type Writer, Scientific American, Vol.54, No.19 (1886年5月8日), p.289.
+*Typewriter Contest for a Prize, The New-York Times, Vol.37, No.11521 (1888年8月2日), p.2, l.4.
+*The Remington Typewriter, Scientific American, Vol.59, No.24 (1888年12月15日), pp.374-375.
+*Bates Torrey: Practical Typewriting by the All-Finger Method Which Leads to Operation by Touch, Fowler &amp; Wells, New York, 1889.
+*Mr. Sholes Dead, The Milwaukee Sentinel, No.15692 (1890年2月18日), p.1, l.7.
+*Chas. H. McGurrin: McGurrin's Method of Typewriting, Ihling Bros. &amp; Everard, Kalamazoo, 1893.
+*The Typewriter ― Its Birth and Development, The Typewriter World, Vol.1, No.1 (1897年9月), pp.16-18; No.2 (1897年10月), pp.50-53; No.3 (1897年11月), pp.76-68; No.4 (1897年12月), pp.94-95; No.5 (1898年1月), pp.103-104; No.6 (1898年2月), pp.129-130; Vol.2, No.1 (1898年3月), p.6; No.2 (1898年4月), p.27.
+*Geo. Carl Mares: Art of Typewriting, Guilbert Pitman, London, 1908
+*G. C. Mares: The History of the Typewriter, Guilbert Pitman, London, 1909.
+*Chas. E. Weller: The Early History of the Typewriter, La Porte, 1921.
+*A Condensed History of the Writing Machine, Typewriter Topics, Vol.55, No.2 (1923年10月), pp.9-154.
+*The Story of the Typewriter 1873-1923, Herkimer County Historical Society, Herkimer, 1923.
+*Willis L. Uhl and August Dvorak: Cost of Teaching Typewriting Can Be Greatly Reduced, The Nation's Schools, Vol.11, No.5 (1933年5月), pp.39-42.
+*August Dvorak, Nellie L. Merrick, William L. Dealey, Gertrude Catherine Ford: Typewriting Behavior, American Book Company, New York, 1936.
+*August Dvorak: There Is a Better Typewriter Keyboard, National Business Education Quarterly, Vol.12, No.2 (1943年12月), pp.51-58,66.
+*John A. Zellers: The Typewriter ― A Short History, on Its 75th Aniversary, The Newcomen Society of England American Branch, New York, 1948.
+*Roy T. Griffith: The Minimotion Typewriter Keyboard, Journal of the Franklin Institute, Vol.248, No.5 (1949年11月), pp.399-436.
+*Bruce Bliven, Jr.: The Wonderful Writing Machine, Random House, New York, 1954.
+*Richard N. Current: The Typewriter and the Men Who Made It, The University of Illinois Press, Urbana, 1954.
+*E. Lohse: Proposed USA Standard ― General Purpose Alphanumeric Keyboard Arrangement for Information Interchange, Communications of the ACM, Vol.11, No.2 (1968年2月), pp.126-129.
+*Joseph P. Ancona, Stuart M. Garland, and John J. Tropsa: At Last: Standards for Keyboards, Datamation, Vol.17, No.5 (1971年3月1日), pp.32-36.
+*Robert Parkinson: The Dvorak Simplified Keyboard: Forty Years of Frustration, Computers and Automation, Vol.21, No.11 (1972年11月), pp.18-25.
+*Wilfred A. Beeching: Century of the Typewriter, Heinemann, London, 1974.
+*Hisao Yamada: A Historical Study of Typewriters and Typing Methods: from the Position of Planning Japanese Parallels, Journal of Information Processing, Vol.2, No.4 (1980年2月), pp.175-202.
+*Jan Noyes: The QWERTY Keyboard: A Review, International Journal of Man-Machine Studies, Vol.18, No.3 (1983年3月), pp.265-281.
+*Paul A. David: Clio and the Economics of QWERTY, The American Economic Review, Vol.75, No.2 (1985年5月), pp.332-337.
+*Stephen Jay Gould: The Panda's Thumb of Technology, Natural History, Vol.96, No.1 (1987年1月), pp.14-23.
+*Richard E. Dickerson: Did Sholes and Densmore Know What They Were Doing When They Designed Their Keyboard?, ETCetera, No.6 (1989年2月), pp.6-9.
+*S. J. Liebowitz and Stephen E. Margolis: The Fable of the Keys, The Journal of Law &amp; Economics, Vol.33, No.1 (1990年4月), pp.1-25.
+*Michael Shermer: Exorcising Laplace's Demon: Chaos and Antichaos, History and Metahistory; History and Theory, Vol.34, No.1 (1995年2月), pp.59-83.
+*QWERTY Revisited, ETCetera, No.38 (1997年3月), pp.4-5.
+*Jan Noyes: QWERTY ― The Immortal Keyboard, Computing &amp; Control Engineering Journal, Vol.9, No.3 (1998年6月), pp.117-122.
+*山田尚勇: 日本語をどう書くか ―入力法および表記法のヒューマン・インターフェース学入門― II 文章入力作業の歴史と人間工学, SCCS Technical Report, No.1999-2-03 (2000年1月25日).
+---&gt;
+
+== 関連項目 ==
+{{Commonscat|QWERTY keyboard layouts}}
+*[[AZERTY配列]]
+*[[QWERTZ配列]]
+*[[Dvorak配列]]
+*[[キー配列]]
+*[[キーボード (コンピュータ)]]
+*[[タッチタイピング]]
+*[[デファクトスタンダード]]
+*[[くぁwせdrftgyふじこlp]] - QWERTYを使った[[インターネットスラング]]。
+*[[QWERTY腹痛]] - キーボードの[[細菌]]によって引き起こされる腹痛。QWERTYをキーボード全体の[[代名詞]]として使っている。
+
+== 外部リンク ==
+*[http://slashdot.jp/~yasuoka/journal/280542 QWERTY配列に対する誤解]
+*[http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/publications/JST2005-5.pdf QWERTY配列再考](PDF)
+*[http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/publications/ISCIE2004.pdf キー配列の規格制定史 アメリカ編 ― ANSIキー配列の制定に至るまで](PDF)
+*[http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/publications/ISCIE2003.pdf キー配列の規格制定史 日本編 ― JISキー配列の制定に至るまで](PDF)
+
+{{DEFAULTSORT:QWERTYはいれつ}}
+[[Category:各言語のキー配列]]</text>
+      <sha1>f9acyb740xraivgzntqmrnexhbs2gfo</sha1>
+    </revision>
+  </page>
+  

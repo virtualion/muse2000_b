@@ -1,0 +1,174 @@
+<page>
+    <title>バリオン</title>
+    <ns>0</ns>
+    <id>27616</id>
+    <revision>
+      <id>94877118</id>
+      <parentid>82368601</parentid>
+      <timestamp>2023-04-21T17:23:18Z</timestamp>
+      <contributor>
+        <username>V Melville</username>
+        <id>1236077</id>
+      </contributor>
+      <minor />
+      <comment>主なバリオン表の名称にリンクを追加</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9155" xml:space="preserve">{{otheruses|重粒子|[[黒岩よしひろ]]の漫画|魔神竜バリオン}}
+{{出典の明記|date=2019-01-27}}
+'''バリオン'''（{{lang-en-short|baryon}}）とは、3つの[[クォーク]]から構成される[[亜原子粒子]]である。[[素粒子物理学]]の[[標準模型]]では、[[ハドロン]]の一種である。'''重粒子'''（じゅうりゅうし）ともいう。
+
+== 概要 ==
+バリオンは、3つの[[クォーク]]から構成される[[ハドロン]]である。ハドロンの重要な2つのグループのうち1つで、もう1つは1つのクォークと1つの[[反粒子|反]]クォークからなる[[メソン]]（中間子）である。
+
+「バリオン」とは[[ギリシャ語]]の barys（「重い」の意）に由来する。この名はバリオンが、かつて[[素粒子]]と考えられていたバリオン、メソン、[[レプトン_(素粒子)|レプトン]]の中で最も大きな質量を持つことからついた。
+
+バリオンは[[強い相互作用|強く相互作用]]する[[フェルミ粒子]]である。言い換えると、強い[[核力]]を受けていて、[[パウリの排他原理]]に従うすべての粒子に適用される[[フェルミ・ディラック統計]]によって記述される。これは、パウリの排他原理に従わない[[ボース粒子]]とは大きく異なる。
+
+日本語では重粒子と呼ぶこともあるが、現在では素粒子物理学者が重粒子と呼ぶことはほとんどなく、英語名のままバリオンと呼んでいる。
+
+医療分野では陽子より大きな質量を持った原子核からなるイオン線を「重粒子線」と呼ぶがバリオンとは異なる。
+
+== バリオンの種類 ==
+バリオンは、構成するクォークの組合せのほか、[[アイソスピン]] ''I'' 、アイソスピンのz成分 ''I''&lt;sub&gt;z&lt;/sub&gt;、[[全角運動量]]の[[パリティ (物理学)|パリティ]]成分 ''J''&lt;sup&gt;P&lt;/sup&gt; などの[[量子数]]で区別される。なお、クォークの[[色荷|色]]は[[グルーオン]]の交換により頻繁に交代するため、個々のクォークの色ではバリオンを区別できない。
+
+=== u・d・sからなるバリオン ===
+[[File:Octeto bariônico.png|thumb|バリオン8重項。Qは[[電荷]]、Sは[[ストレンジネス]]。]]
+[[File:Decupleto bariônico.png|thumb|バリオン10重項。]]
+
+[[アップクォーク]]、[[ダウンクォーク]]、[[ストレンジクォーク]]からなるバリオンは18種類あり、''J''&lt;sup&gt;P&lt;/sup&gt; = 1/2 のバリオン8重項と ''J''&lt;sup&gt;P&lt;/sup&gt; = 3/2 のバリオン10重項に分類される。それらは、最も軽い[[核子]] N （[[陽子]] p と[[中性子]] n）を始め、[[デルタ粒子]] Δ、[[ラムダ粒子]] Λ、[[シグマ粒子]] Σ、[[グザイ粒子]]（カスケード粒子） Ξ、[[オメガ粒子]] Ω と呼ばれる。核子とデルタ粒子以外はストレンジを含み、[[ハイペロン]]と総称される。
+
+名前を付ける際、原則としてアイソスピンの成分では区別しない。つまり、アップとダウンは区別しない。記号では[[電荷]]で区別する。たとえば、デルタ粒子は Δ&lt;sup&gt;++&lt;/sup&gt; (uuu)、Δ&lt;sup&gt;+&lt;/sup&gt; (uud)、Δ&lt;sup&gt;0&lt;/sup&gt; (udd)、Δ&lt;sup&gt;&amp;minus;&lt;/sup&gt; (ddd) の4種類のバリオンの総称である。例外として、核子には N&lt;sup&gt;+&lt;/sup&gt; (uud) と N&lt;sup&gt;0&lt;/sup&gt; (udd) の2種類があるが、それぞれに固有の名前と記号、つまり陽子 p と中性子 n がある。
+
+バリオンの ''J''&lt;sup&gt;P&lt;/sup&gt; には1/2と3/2があるが、名前では区別せず、''J''&lt;sup&gt;P&lt;/sup&gt; = 3/2のほうの記号に*を付ける。たとえば、シグマ粒子には Σ&lt;sup&gt;±&lt;/sup&gt;、Σ&lt;sup&gt;0&lt;/sup&gt; (''J''&lt;sup&gt;P&lt;/sup&gt; = 1/2) と Σ&lt;sup&gt;*±&lt;/sup&gt;、Σ&lt;sup&gt;*0&lt;/sup&gt; (''J''&lt;sup&gt;P&lt;/sup&gt; = 3/2) がある。ただし、 ''J''&lt;sup&gt;P&lt;/sup&gt; = 3/2 しかない場合はオメガ粒子 Ω のように何も付けない。例外として、核子 (''J''&lt;sup&gt;P&lt;/sup&gt; = 1/2) に対応する ''J''&lt;sup&gt;P&lt;/sup&gt; = 3/2 のバリオンには、デルタ粒子 Δ という固有の名前と記号がある。
+
+アイソスピン ''I'' が異なるバリオンは、アップ、ダウン、ストレンジのみで構成されたバリオンでの中では、ラムダ粒子 Λ&lt;sup&gt;0&lt;/sup&gt;（uds、''I'' = 0）と中性シグマ粒子 Σ&lt;sup&gt;0&lt;/sup&gt;（uds、''I'' = 1）のみで、別の名前が付いている。&lt;!--より重いバリオンの場合に詳しい人、補足お願いします--&gt;
+
+=== c・b・tを含むバリオン ===
+[[チャームクォーク|チャーム]]、[[ボトムクォーク|ボトム]]、[[トップクォーク|トップ]]を1個含むバリオンは、そのクォークの代わりにストレンジを含むバリオンに チャームド (c)、ボトム (b) 、トップ (t) を付ける。たとえば、ラムダ粒子 Λ&lt;sup&gt;0&lt;/sup&gt; (uds) に対しチャームドラムダ粒子 Λ&lt;sub&gt;c&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt; (udc) のようにする。複数個含むバリオンは、たとえば、クサイ粒子 Ξ&lt;sup&gt;0&lt;/sup&gt; (uss)・Ξ&lt;sup&gt;&amp;minus;&lt;/sup&gt; (dss) に対しダブリーチャームド（またはダブルチャームド）クサイ粒子 Ξ&lt;sub&gt;cc&lt;/sub&gt;&lt;sup&gt;++&lt;/sup&gt; (ucc)（未発見）・Ξ&lt;sub&gt;cc&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt; (dcc)、チャームドボトムクサイ粒子 Ξ&lt;sub&gt;cb&lt;/sub&gt;&lt;sup&gt;0&lt;/sup&gt; (ucb)・Ξ&lt;sub&gt;cb&lt;/sub&gt;&lt;sup&gt;&amp;minus;&lt;/sup&gt; (dcb) （共に未発見）のようにする。
+
+全部で数十種類のバリオンが発見されているが、そのほとんどはせいぜいチャームを2つかボトムを1つ含むだけの、比較的軽いバリオンである。[[標準理論]]ははるかに多くの重いバリオンを予想する。
+
+== バリオンの一覧 ==
+{{Main|バリオンの一覧}}
+
+主なバリオンについての一覧を以下に示す。
+
+{| class="wikitable" lang="en" eml:lang="en"
+|+ '''主なバリオン'''&lt;ref&gt;Eidelman, S. et al. (2004). “Review of Particle Physics.” ''Phys. Lett. B'' '''592''': 1–5. {{doi|10.1016/j.physletb.2004.06.001}}.&lt;/ref&gt;
+|-
+! 名称
+! 記号
+! 構成
+! 静止質量 ([[MeV]])
+! 平均寿命 ([[秒|s]])
+! 発見年・発見者
+|-
+| [[陽子]]
+| p
+| uud
+| style="text-align: right" | 938.27203 ± 0.00008
+| style="text-align: right" | 10&lt;sup&gt;31&lt;/sup&gt;から10&lt;sup&gt;33&lt;/sup&gt;[[年]]より大きい（モデル依存性あり）
+| [[1911年]]、[[アーネスト・ラザフォード]]
+|-
+| [[中性子]]
+| n
+| udd
+| style="text-align: right" | 939.56536 ± 0.00008
+| style="text-align: right" | 885.7 ± 0.8
+| [[1932年]]、[[ジェームズ・チャドウィック]]
+|-
+| [[ラムダ粒子|Λ粒子]]
+| Λ
+| uds
+| style="text-align: right" | 1115.683 ± 0.006
+| style="text-align: right" | (2.632 ± 0.020) × 10&lt;sup&gt;−10&lt;/sup&gt;
+| [[1947年]]、ロチェスター、バトラー
+|-
+| rowspan="4" | [[デルタ粒子|Δ粒子]]
+| Δ&lt;sup&gt;++&lt;/sup&gt;
+| uuu
+| rowspan="4" style="text-align: right" | Breit-Wigner型の質量分布を仮定すると&lt;br/&gt;1230から1234
+| rowspan="4" style="text-align: right" | (1.58–1.72) × 10&lt;sup&gt;−15&lt;/sup&gt;
+| rowspan="4" | 1951年、フェルミ他、シカゴグループ
+|-
+| Δ&lt;sup&gt;+&lt;/sup&gt;
+| uud
+|-
+| Δ&lt;sup&gt;0&lt;/sup&gt;
+| udd
+|-
+| Δ&lt;sup&gt;−&lt;/sup&gt;
+| ddd
+|-
+| rowspan="3" | [[シグマ粒子|Σ粒子]]
+| Σ&lt;sup&gt;+&lt;/sup&gt;
+| uus
+| style="text-align: right" | 1189.37 ± 0.07
+| style="text-align: right" | (0.8018 ± 0.0026) × 10&lt;sup&gt;−10&lt;/sup&gt;
+| [[1953年]]、ミラノグループ
+|-
+| Σ&lt;sup&gt;0&lt;/sup&gt;
+| uds
+| style="text-align: right" | 1192.642 ± 0.024
+| style="text-align: right" | (7.4 ± 0.7) × 10&lt;sup&gt;−20&lt;/sup&gt;
+| [[1953年]]、フォウラーら
+|-
+| Σ&lt;sup&gt;−&lt;/sup&gt;
+| dds
+| style="text-align: right" | 1197.449 ± 0.030
+| style="text-align: right" | (1.479 ± 0.011) × 10&lt;sup&gt;−10&lt;/sup&gt;
+| [[1953年]]、フォウラーら
+|-
+| rowspan="2" | [[グザイ粒子|Ξ粒子]]
+| Ξ&lt;sup&gt;0&lt;/sup&gt;
+| uss
+| style="text-align: right" | 1314.83 ± 0.20
+| style="text-align: right" | (2.90 ± 0.09) × 10&lt;sup&gt;−10&lt;/sup&gt;
+| [[1959年]]、アルバレスら
+|-
+| Ξ&lt;sup&gt;−&lt;/sup&gt;
+| dss
+| style="text-align: right" | 1321.31 ± 0.13
+| style="text-align: right" | (1.639 ± 0.015) × 10&lt;sup&gt;−10&lt;/sup&gt;
+| [[1952年]]、バトラー、マンチェスターグループ
+|-
+| [[オメガ粒子|Ω粒子]]
+| Ω&lt;sup&gt;−&lt;/sup&gt;
+| sss
+| style="text-align: right" | 1672.45 ± 0.29
+| style="text-align: right" | (0.821 ± 0.011) × 10&lt;sup&gt;−10&lt;/sup&gt;
+| 1964年、サミオス他、ブルックヘイヴングループ
+|-
+| Λ&lt;sub&gt;c&lt;/sub&gt;粒子
+| Λ&lt;sub&gt;c&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;
+| udc
+| style="text-align: right" | 2284.9 ± 0.6
+| style="text-align: right" | (200 ± 6) × 10&lt;sup&gt;−15&lt;/sup&gt;
+|-
+| Λ&lt;sub&gt;b&lt;/sub&gt;粒子
+| Λ&lt;sub&gt;b&lt;/sub&gt;&lt;sup&gt;0&lt;/sup&gt;
+| udb
+| style="text-align: right" | 5624 ± 9
+| style="text-align: right" | (1.229 ± 0.080) × 10&lt;sup&gt;−12&lt;/sup&gt;
+|}
+
+== 異種バリオン ==
+{{main|異種バリオン}}
+
+== 出典 ==
+&lt;references/&gt;
+
+== 関連項目 ==
+* [[素粒子物理学]]
+* [[ペンタクォーク]]
+
+{{粒子の一覧}}
+{{Normdaten}}
+{{DEFAULTSORT:はりおん}}
+[[Category:亜原子粒子]]
+[[Category:バリオン|*]]</text>
+      <sha1>bmj7qqgnulfd399cwdo1dxjbdx2s5xn</sha1>
+    </revision>
+  </page>
+  

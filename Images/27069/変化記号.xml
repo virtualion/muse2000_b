@@ -1,0 +1,105 @@
+<page>
+    <title>変化記号</title>
+    <ns>0</ns>
+    <id>27069</id>
+    <revision>
+      <id>91073491</id>
+      <parentid>81338693</parentid>
+      <timestamp>2022-08-20T12:08:40Z</timestamp>
+      <contributor>
+        <username>Mugenpman</username>
+        <id>1880673</id>
+      </contributor>
+      <comment>画像変更、注釈追加。</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5619" xml:space="preserve">{{出典の明記| date = 2020年8月17日 (月) 15:10 (UTC)}}
+
+'''変化記号'''（へんかきごう）とは、西洋音楽の楽譜記譜にあたって、音符の音を[[半音]]単位で高くしたり低くしたりするための記号である。
+
+== 種類 ==
+{{特殊文字|対象=節|説明=変化記号}}
+
+{| class="wikitable" style="text-align:left; font-size:small;"
+|-
+!記述例
+!名称
+!効力
+!備考
+|-
+|[[File:Music-sharp.svg|70px|シャープ]]
+! style="white-space:nowrap" align=center|[[シャープ (記号)|シャープ]]&lt;br /&gt;（嬰記号）
+|音を半音高める。
+|[[デスクトップミュージック|DTM]]ではしばしば[[番号記号|#]]で代用される。
+|-
+|[[File:Music-flat.svg|70px|フラット]]
+! style="white-space:nowrap" align=center|[[フラット (記号)|フラット]]&lt;br /&gt;（変記号）
+|音を半音低める。
+|DTMではしばしば[[b]]で代用される。
+|-
+|[[File:Music-doublesharp.svg|70px|ダブルシャープ]]
+! style="white-space:nowrap" align=center|ダブルシャープ&lt;br /&gt;（重嬰記号）
+|シャープで半音上げた音をさらに半音上げる。または全音上げる
+|
+|-
+|[[File:Music-doubleflat.svg|70px|ダブルフラット]]
+! style="white-space:nowrap" align=center|ダブルフラット&lt;br /&gt;（重変記号）
+|フラットで半音下げた音をさらに半音下げる。または全音下げる
+|
+|-
+|[[File:Music-natural.svg|70px|ナチュラル]]
+! style="white-space:nowrap" align=center|[[ナチュラル (記号)|ナチュラル]]&lt;br /&gt;（本位記号）
+|変化記号で変えられた音を元来の高さに戻す（[[File:Doublesharp001.png]]や[[File:Doubleflat.png]]を戻す場合でも2つ並べて書く必要はない）。厳密には、ナチュラルは変化記号に含まれない。
+|
+|}
+
+=== 文字コード ===
+
+{| class="wikitable" style="text-align:center;"
+!記号!![[Unicode]]!![[JIS X 0213]]!![[文字参照]]!!名称
+{{CharCode|9837|266D|1-2-85|フラット&lt;br /&gt;{{smallcaps|music flat sign}}}}
+{{CharCode|9838|266E|1-2-90|ナチュラル&lt;br /&gt;{{smallcaps|music natural sign}}|font=JIS2004フォント}}
+{{CharCode|9839|266F|1-2-84|シャープ&lt;br /&gt;{{smallcaps|music sharp sign}}}}
+{{CharCode|119082|1D12A|-|ダブルシャープ&lt;br /&gt;{{smallcaps|musical symbol double sharp}}|font=個別|family=Musica,Symbola,Quivira}}
+{{CharCode|119083|1D12B|-|ダブルフラット&lt;br /&gt;{{smallcaps|musical symbol double flat}}|font=個別|family=Musica,Symbola,Quivira}}
+{{CharCode|119084|1D12C|-|{{smallcaps|musical symbol flat up}}|font=個別|family=Musica,Symbola,Quivira}}
+{{CharCode|119085|1d12D|-|{{smallcaps|musical symbol flat down}}|font=個別|family=Musica,Symbola,Quivira}}
+{{CharCode|119086|1D12E|-|{{smallcaps|musical symbol natural up}}|font=個別|family=Musica,Symbola,Quivira}}
+{{CharCode|119087|1D12F|-|{{smallcaps|musical symbol natural down}}|font=個別|family=Musica,Symbola,Quivira}}
+{{CharCode|119088|1D130|-|{{smallcaps|musical symbol sharp up}}|font=個別|family=Musica,Symbola,Quivira}}
+{{CharCode|119089|1d131|-|{{smallcaps|musical symbol sharp down}}|font=個別|family=Musica,Symbola,Quivira}}
+{{CharCode|119090|1d132|-|{{smallcaps|musical symbol quarter tone sharp}}|font=個別|family=Musica,Symbola,Quivira}}
+{{CharCode|119091|1d133|-|{{smallcaps|musical symbol quarter tone flat}}|font=個別|family=Musica,Symbola,Quivira}}
+|}
+
+== 効力 ==
+[[調号]]の効力は、[[オクターブ]]にかかわらず、その五線の同じ[[音名]]のすべての音に及ぶが、[[臨時記号]]においては、その効力は全く同じ音に限られ、違うオクターブの音には効力が及ばない。ただし、[[タイ (音楽記号)|タイ]]で結ばれた次の音（小節線をまたいだ先にある音を含む）には、効力が及ぶ。
+
+同一小節内において、ダブルシャープ（ダブルフラット）によって全音高められた（低められた）音の後でシャープ（フラット）で半音高められた（低められた）音を使う場合、古くは「{{JIS2004フォント|&amp;#9838;}}♯（{{JIS2004フォント|&amp;#9838;}}{{flat}}）」のように書いていたが、現在では「♯（{{flat}}）」のように変化記号を1つだけ書くのが通例である。
+
+調号と臨時記号が競合する場合は、臨時記号の効力を優先的に解釈し、調号を無効とする。
+
+== 記号の由来 ==
+かつて、西洋音楽の音階に
+
+A B C D E F G{{efn|これは必ずしも現在使われている音名とは一致していない。}}
+
+という音で構成される音階が存在したが、このうち、とくにB音は場合によって少し低めの音をとる場合があった。はじめ両者の区別は感覚的なものだったが、しだいに両者を厳密に区別する必要に迫られたため、高いほうのB音を「角ばったb」、低いほうのB音を「丸まったb」で表現する方法が考え出された。これがさらに発展して、「角ばったb」は'''♯'''や{{JIS2004フォント|&amp;#9838;}}へと形を変え、また「丸まったb」は'''{{flat}}'''へと形を変えた。これが記号の由来である{{要出典|date=2011年2月}}。
+
+また、ドイツ系で、ロ音をH、変ロ音をBと表現するのも、同じく「角ばったb」と「丸まったb」に由来するものと考えられている{{誰|date=2011年2月}}。
+
+== 脚注 ==
+=== 注釈 ===
+{{Notelist}}
+=== 出典 ===
+{{Reflist}}
+
+{{Musical notation}}
+
+{{DEFAULTSORT:へんかきこう}}
+[[Category:記譜法]]
+[[Category:変化]]</text>
+      <sha1>hrwz2lcxyqlgl7seniftk6c7upgkqbz</sha1>
+    </revision>
+  </page>
+  

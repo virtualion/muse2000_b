@@ -1,0 +1,302 @@
+<page>
+    <title>畜産</title>
+    <ns>0</ns>
+    <id>27461</id>
+    <revision>
+      <id>95813102</id>
+      <parentid>94969707</parentid>
+      <timestamp>2023-06-29T08:29:44Z</timestamp>
+      <contributor>
+        <username>Early correct</username>
+        <id>2035289</id>
+      </contributor>
+      <minor />
+      <comment>曖昧さ回避ページ[[カキ]]へのリンクを解消、リンク先を[[カキ (貝)]]に変更([[User:ネイ/DisamAssist|DisamAssist]]使用)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="74489" xml:space="preserve">{{農業}}{{ウィキプロジェクトリンク|農業}}
+'''畜産'''（ちくさん）は、[[動物]]のうち[[家畜]]・[[家禽]]を[[繁殖]]、[[飼育]]または肥育し、[[乳製品]]、[[肉]]、[[卵]]、[[皮革]]など畜産物を得て生活に役立てる[[産業]]である。飼育する動物が水棲生物である場合は、[[養殖業|養殖]]と呼ぶことが一般的である。畜産を営む[[農家]]は、特に畜産農家または畜産家と呼ばれる。
+
+[[放牧]]により畜産をする場合には[[牧畜]]とも言う。[[乳]]を得ることを目的とする場合には[[酪農]]と言う。
+
+畜産業を営むためには、「[[化製場等に関する法律]]」に基づく[[保健所]]（[[都道府県]]）の許可が必要になる。業としない場合でも、同一地域に一定数以上の家畜を飼育する際には該当する。
+
+畜産は食糧確保の手段である一方で、後述するように、[[環境問題]]や[[倫理学|倫理問題]]等の指摘もある。
+
+==歴史==
+{{Further|農業の歴史}}
+===畜産の誕生===
+{{main |新石器革命}}
+[[File:Fat tailed sheep, Afghanistan, 1976.jpg|thumb|left|反すう動物の家畜化は、アフガニスタンのこれらの脂尾羊のように、中東と中央アジアの遊牧民に信頼できる食料源を提供した。|alt=Fat-tailed sheep in Afghanistan]]
+動物の家畜化は、狩猟が非生産的であったときに食料を手に入れる必要性によって推進された。家畜の望ましい特徴は、飼い主にとって有用であり、健康に育つ事ができ、自在に繁殖させることができ、容易に世話できるべきである&lt;ref name=Clutton-Brock&gt;{{cite book |last=Clutton-Brock |first=Juliet |author-link=Juliet Clutton-Brock |title=A Natural History of Domesticated Mammals |url=https://books.google.com/books?id=cgL-EbbB8a0C&amp;pg=PR1 |year=1999 |publisher=Cambridge University Press |isbn=978-0-521-63495-3 |pages=1–2}}&lt;/ref&gt;。
+
+動物の[[家畜化]]は単一の事象ではなく、異なる場所で異なる時期に繰り返される過程で起きた事象である。羊と山羊は中東の[[遊牧民]]に同行した動物であり、牛と豚はより定住したコミュニティと関連していた&lt;ref name=Historyworld&gt;{{cite web |url=http://www.historyworld.net/wrldhis/PlainTextHistories.asp?historyid=ab57 |title=History of the domestication of animals |publisher=Historyworld |access-date=3 June 2017}}&lt;/ref&gt;。
+
+家畜化された最初の野生動物は犬であった。おそらく若い個体から始まる半野生の犬は、害獣の[[腐肉食動物]]や天敵として許容されていた可能性がある。犬は群れで狩りをする{{仮リンク|パックハンダー|en|Pack hunter}}であり、人間の群れの一部となって狩りに加わる傾向があった。被食動物であるヒツジ、ヤギ、ブタおよびウシは、農業の歴史の初期に徐々に家畜化された&lt;ref name=Historyworld/&gt;。
+
+紀元前8500年から8000年にかけて、豚は近東で家畜化され&lt;ref&gt;{{cite journal|title=Insights into early pig domestication provided by ancient DNA analysis|date=16 March 2017|first=Amke|last=Caliebe|display-authors=etal|journal=Scientific Reports|volume=7|page=44550|doi=10.1038/srep44550|pmid=28300151|pmc=5353713}}&lt;/ref&gt;、 紀元前8500年ごろには肥沃な三日月地帯の中または近くのヒツジとヤギ&lt;ref&gt;{{cite web|url=https://www.cardiff.ac.uk/news/view/1128739-new-light-shed-on-the-domestication-history-of-sheep-and-goats|title=New light shed on the domestication history of sheep and goats|publisher=Cardiff University|date=20 March 2018|first=Pablo|last=Orozco-terWengel|accessdate=2020-02-13}}&lt;/ref&gt;、 紀元前8500年ごろには現在のトルコとパキスタンの地域の野生のオーロックスのウシが家畜化された&lt;ref name="McTavish"&gt;{{cite journal |last1=McTavish |first1=E.J. |last2=Decker |first2=J.E. |last3=Schnabel |first3=R.D. |last4=Taylor |first4=J.F. |last5=Hillis |first5=D.M. |year=2013 |title=New World cattle show ancestry from multiple independent domestication events |journal=PNAS |volume=110 |issue=15 |pages=1398–1406 |doi=10.1073/pnas.1303367110 |pmid=23530234 |publisher=[[National Academy of Sciences]] |pmc=3625352 |bibcode=2013PNAS..110E1398M|doi-access=free }}&lt;/ref&gt;
+
+牛は村の人にとって大きな利点であった。というのも、牛は子牛が必要とする以上に多くの乳を生産していたからである。強い力は働く動物として使うことができ、作物の生産を増やすために鋤を引いたり、作物を畑から家に持ち帰るためにそりを引いたり、後に荷車を引いたりすることもできたからである。最初に輓獣が使われたのは紀元前約4000年の中東で、農業生産は計り知れないほど増加した&lt;ref name=Historyworld/&gt; 。南アジアでは、象は紀元前6000年までに家畜化された&lt;ref name=gupta&gt;{{Cite journal|和書 | author=Anil K. Gupta | year=2004 | title=Origin of agriculture and domestication of plants and animals linked to early Holocene climate amelioration | journal=Current Science | volume=87 | issue=1 | pages=59 | publisher=Indian Academy of Sciences | jstor=24107979 | ref=harv }}&lt;/ref&gt;。
+
+紀元前5040年の化石化されたニワトリの骨が中国北東部で発見されている。彼らの野生の祖先が熱帯アジアのジャングルに住んでいた場所からは遠く離れているが、考古学者たちは家畜化の本来の目的は[[闘鶏]]のスポーツであったと考えている&lt;ref&gt;{{cite news |title=How the Chicken Conquered the World |last1=Adler |first1=Jerry |last2=Lawler |first2=Andrew |url=http://www.smithsonianmag.com/history/how-the-chicken-conquered-the-world-87583657/ |newspaper=Smithsonian Magazine |date=1 June 2012 |access-date=5 June 2017}}&lt;/ref&gt;。
+
+一方、南米では、[[ラマ]]と[[アルパカ]]は、おそらく紀元前3000年以前に、重荷を運ぶため、また羊毛のために家畜化されていた。どちらも、[[新世界]]の農業の発展を制限する[[鋤]]を引くほど強くはなかった&lt;ref name=Historyworld/&gt;。
+
+馬は中央アジアの草原に自然に生息しており、紀元前3000年ごろに黒海やカスピ海地方で家畜化されたのは、もともとは食肉用であり、また、荷物を運ぶ[[駄獣]]として、人を運ぶ乗馬用に使われていた。同じころ、野生のロバがエジプトで飼いならされていた。その後すぐにラクダが飼いならされ&lt;ref name="Sapir-Hen 2013 277–285"&gt;{{cite journal |last1=Sapir-Hen |first1=Lidar |last2=Ben-Yosef |first2=Erez |title=The Introduction of Domestic Camels to the Southern Levant: Evidence from the Aravah Valley |journal=Tel Aviv |year=2013 |volume=40 |issue=2 |pages=277–85 |url=http://archaeology.tau.ac.il/ben-yosef/pub/Pub_PDFs/Sapir-Hen&amp;Ben-Yosef13_CamelAravah_TelAviv.pdf |doi=10.1179/033443513x13753505864089 |s2cid=44282748}}&lt;/ref&gt;、モンゴルのフタコブラクダとアラブのラクダは荷物運びのための家畜となった。紀元前1000年までに、アラブのラクダのキャラバンがインドをメソポタミアや地中海に結びつけていました&lt;ref name=Historyworld/&gt;。
+
+===古代文明===
+[[File:Egyptian Domesticated Animals.jpg|thumb |古代エジプトの乳牛|alt=古代エジプトの乳牛]]
+
+古代エジプトでは、牛が最も重要な家畜であり、羊、やぎ、豚も飼われていた。アヒル、ガチョウ、ハトなどの家禽は、網で捕獲されて農場で飼育され、そこで強制的に練粉を与えられて肥えさせたとされる&lt;ref&gt;{{cite book |year=1998 |last=Manuelian |first=Peter der |title=Egypt: The World of the Pharaohs |location=Cologne |publisher=Könemann |isbn=978-3-89508-913-8 |page=381}}&lt;/ref&gt;。
+
+[[ナイル川]]は魚の豊富な供給源であった。ミツバチは少なくとも旧王国から家畜化され、[[蜂蜜]]と[[蜜蝋]]を供給していた&lt;ref&gt;{{cite book |last=Nicholson |first=Paul T. |title=Ancient Egyptian Materials and Technology |publisher=Cambridge University Press |location=Cambridge |year=2000 |isbn=978-0-521-45257-1 |page=409}}&lt;/ref&gt;。
+
+古代ローマでは、古代エジプトで知られていたすべての家畜が利用可能であった。さらに、ウサギは紀元前1世紀までに食物として家畜化されていた。ウサギを巣穴から追い出すために、ケナガイタチは[[フェレット]]として家畜化された。この方法は[[ガイウス・プリニウス・セクンドゥス]]によって提唱されたものである&lt;ref&gt;{{cite book |last=Clutton-Brock |first=Juliet |author-link=Juliet Clutton-Brock |title=Domesticated animals from early times |url=https://books.google.com/books?id=dbfuAAAAMAAJ |year=1981 |publisher=Heinemann |page=145|isbn=9780434139507 }}&lt;/ref&gt;
+
+===中世の畜産業===
+&lt;div&gt;[[File:Sheep in pen medieval France 15th century MS Douce 195.jpg|thumb|left|羊飼いと編み柵で飼われる羊。中世フランス。15世紀MS Douce 195。|alt=Painting of shepherd with sheep]]&lt;/div&gt;
+ヨーロッパ北部では、ローマ帝国が崩壊したとき、畜産を含む農業が衰退した。しかし、動物の放牧などのいくつかの側面がこの期間も続き、11世紀までに経済は回復し、地方は再び生産的を取り戻した&lt;ref&gt;{{cite journal |last=O'Connor |first=Terry |title=Livestock and animal husbandry in early medieval England |journal=Quaternary International |date=30 September 2014 |volume=346 |pages=109–18 |doi=10.1016/j.quaint.2013.09.019 |bibcode=2014QuInt.346..109O |url=https://doi.org/10.1016/j.quaint.2013.09.019}}&lt;/ref&gt;
+
+ヨーロッパの中世における畜産の改良は他の発展と密接に関係していた。[[プラウ]]([[鋤]])の改良は土壌をより深く耕すことを可能にした。馬は牽引力の主な供給者として牛に取って代わり、[[輪作]]に関する新しい考え方が発達し、冬の飼料用の作物の栽培が盛んになった。&lt;ref&gt;{{cite web |url=http://www.ecifm.rdg.ac.uk/history.htm |title=The progress of farming in Medieval Europe |work=History of Agriculture |publisher=University of Reading |access-date=28 May 2017}}&lt;/ref&gt; 。豆(beans)、えんどう豆(pea)や[[ナヨクサフジ|ヘアリーベッチ]](vetches)が一般的になった。これらは窒素固定によって土壌の肥沃度を増加させ、より多くの家畜を飼養することを可能にした&lt;ref name=Campbell&gt;{{cite journal |last1=Campbell |first1=Bruce M.S. |last2=Overton |first2=M. |title=A New Perspective on Medieval and Early Modern Agriculture: Six Centuries of Norfolk Farming, c. 1250 – c. 1850 |journal=Past and Present |year=1993 |volume=141 |pages=38–105 |doi=10.1093/past/141.1.38}}&lt;/ref&gt;。&lt;/div&gt;
+
+===コロンブス交換===
+{{main |コロンブス交換}}
+
+南北アメリカ大陸の開拓と植民地化の結果、トウモロコシ、ジャガイモ、サツマイモ、[[キャッサバ]]（manioc）などの作物がヨーロッパに導入され、一方、[[旧世界]]の主要な家畜である牛、馬、羊、山羊は、小麦、大麦、米、カブとともに初めて[[新世界]]に導入された&lt;ref&gt;{{cite web |url=http://www.gilderlehrman.org/history-by-era/american-indians/essays/columbian-exchange |title=The Columbian Exchange |publisher=The Gilder Lehrman Institute of American History |work=History Now |last=Crosby |first=Alfred |access-date=28 May 2017}}&lt;/ref&gt;
+
+===農業革命===
+{{main |農業革命}}
+[[File:o aye.jpg|thumb |リンカーンロングウールは、18世紀にロバートベイクウェルによって品種改良された。|alt=Lincoln Longwool Sheep]]
+
+[[人為選択]]・[[品種改良]]は、18世紀のイギリスの農業革命の間に{{仮リンク|ロバート・ベイクウェル|en|Robert Bakewell (agriculturalist)}}によって科学的な実践として確立された。彼の最も重要な繁殖計画の一つは羊を利用したものであった。彼はネイティブストック（native stock ）を使って、長くて光沢のある羊毛を持つ、大きくて良い骨格の羊を素早く選ぶことができた。リンカーンロングウール はベイクウェルによって改良され、次に{{仮リンク|リンカーンロングウール|en|Lincoln Longwool }}はニューレスター(New Leicester. またはディシュリーレスターDishley Leicester)と呼ばれ、その後の品種の開発に使われた。それらには{{仮リンク|角無し|en|Polled livestock}}、四角い体つきで、頭に真っ直ぐな線があった&lt;ref&gt;{{cite web |title=Robert Bakewell (1725–1795) |url=https://www.bbc.co.uk/history/historic_figures/bakewell_robert.shtml |publisher=BBC History |access-date=20 July 2012}}&lt;/ref&gt;。これらの羊は広く輸出され、多くの近代的な品種に貢献してきた。彼の影響で、イギリスの農民は主に肉用に家畜を繁殖させるようになった。長い角のある未経産牛をウェストモーランドの雄牛と交配して、{{仮リンク|デイシュリーロングホーン|en|English Longhorn|Dishley Longhorn}}を作った&lt;ref&gt;{{cite web |title=English Longhorn |url=http://www.thecattlesite.com/breeds/beef/61/english-longhorn/ |website=The Cattle Site |access-date=26 May 2017}}&lt;/ref&gt;。
+
+ヨーロッパの伝統的な農法によって形成された肥料を撒かない半天然の牧草は、放牧や草刈りによって管理されていた。この土地管理戦略の生態学的影響は、[[山火事]]のような自然の[[攪乱]]の影響と類似しているので、この農業システムは、[[生物多様性]]の促進を含む多くの有益な特性を自然生息地と共有している。しかし、この戦略は、今日のヨーロッパでは農業の強化によって衰退しつつある。その結果、農業の機械化や化学的手法などの原因により生物多様性を衰退させている&lt;ref name="Pykala2000"&gt;{{cite journal |last=Pykala |first=Juha |title=Mitigating Human Effects of European Biodiversity Through Traditional Animal Husbandry |journal=Conservation Biology |year=2000 |volume=14 |issue=3 |pages=705–12 |doi=10.1046/j.1523-1739.2000.99119.x}}&lt;/ref&gt;。
+
+==農業 ==
+{{Further|家畜}}
+===システム===
+{{Further|農業#畜産システム |集約畜産}}
+[[File:Herdwicks Lake District.jpg|thumb|left|イギリス、湖水地方の広大な丘陵農業システムにおけるハードウィックシープ|alt=Herdwick sheep]]
+伝統的に畜産は自給農業者の生活様式の一部であって家族が必要とする食物だけでなく燃料、肥料、衣服、輸送および畜力を生産していた。食料のために動物を殺すことは二次的な考慮事項であり、可能な限り羊毛、卵、乳および血液([[マサイ族#生活・文化・習慣]])のような生産物は動物がまだ生きている間に収穫された&lt;ref name=Webster&gt;{{cite book |last=Webster |first=John |title=Animal Husbandry Regained: The Place of Farm Animals in Sustainable Agriculture |url=https://books.google.com/books?id=D6v-Tdhm5SgC&amp;pg=PA5 |year=2013 |publisher=Routledge |isbn=978-1-84971-420-4 |pages=4–10}}&lt;/ref&gt; 。伝統的な移牧では、人と家畜は季節的に固定された夏の牧草地と冬の牧草地の間を移動していた。山岳地域では夏の牧草地は山にあり、冬の牧草地は谷にあった&lt;ref&gt;{{cite book |last=Blench |first=Roger |title='You can't go home again' – Pastoralism in the new millennium |publisher=Overseas Development Institute |location=London, UK |date=17 May 2001 |page=12 |url=http://www.odi.org.uk/work/projects/pdn/eps.pdf}}&lt;/ref&gt;。
+
+動物は広範囲または集中的に飼育することができる。広範なシステムでは、動物が自由に、または牧者の監督下で、しばしば捕食者から保護するために移動する。米国西部の放牧は、公共および民間の土地を広く放牧する大規模な牛群を含む&lt;ref name=Starrs&gt;{{cite book |last=Starrs |first=Paul F. |title=Let the Cowboy Ride: Cattle Ranching in the American West |url=https://books.google.com/books?id=WHfnaQLGIx4C&amp;pg=PA1 |year=2000 |publisher=JHU Press |isbn=978-0-8018-6351-6 |pages=1–2}}&lt;/ref&gt;。 南アメリカやオーストラリアなど、土地が広く降雨量の少ない地域にも同様の{{仮リンク|キャトルステーション|en|cattle station}}と呼ばれる拠点があり、牧羊システムはヒツジ、シカ、ダチョウ、エミュー、ラマ、アルパカに用いられている&lt;ref name=Levinson&gt;{{cite book |last1=Levinson |first1=David |last2=Christensen |first2=Karen |title=Encyclopedia of Community: From the Village to the Virtual World |url=https://books.google.com/books?id=t1geOjQ6R0MC&amp;pg=PA1139 |year=2003 |publisher=Sage |isbn=978-0-7619-2598-9 |page=1139}}&lt;/ref&gt;。
+
+イギリスの高地では、春になると生えてくる豊富な山草を手入れせずに羊を放牧し、年の終わりには低い高度に連れてきて、冬には補助的に餌を与える&lt;ref&gt;{{cite book |title=The Shepherd's Life |last=Rebanks |first=James |year=2015 |publisher=Penguin: Random House |isbn=978-0-14-197936-6 |page=286}}&lt;/ref&gt;。農村部では、豚や家禽の餌を抑えながら、多くの栄養を得ている、アフリカの地域では、雌鶏は何ヶ月も餌を与えられずに生活し、週に1、2個の卵を生むことがある&lt;ref name=Webster/&gt;。
+
+[[File:Hog confinement barn interior.jpg|thumb |米国中西部 、豚の[[集約畜産]]|alt=Pigs in a barn]]
+もう一方の極端な例として、世界のより発展した地域では、動物の多くは集約的に管理され、乳牛はすべての飼料を牛舎で与え放牧しない状態で飼育され、また、肉牛は高密度の飼養場で飼育される&lt;ref&gt;{{cite journal |last1=Silbergeld |first1=Ellen K. |last2=Graham |first2=Jay |last3=Price |first3=Lance B. |title=Industrial food animal production, antimicrobial resistance, and human health |journal=Annual Review of Public Health |year=2008 |volume=29 |pages=151–169 |doi=10.1146/annurev.publhealth.29.020907.090904 |doi-access=free |pmid=18348709}}&lt;/ref&gt;。 豚は気温制御された建物で飼育されており、一切屋外に出ないこともある&lt;ref&gt;{{cite web |url=http://swine.missouri.edu/facilities/PIH-11.PDF |title=Swine Growing-Finishing Units |last1=Meyer |first1=Vernon M. |last2=Driggers |first2=L. Bynum |last3=Ernest |first3=Kenneth |last4=Ernest |first4=Debra |work=Pork Industry handbook |publisher=Purdue University Cooperative Extension Service |access-date=17 May 2017}}&lt;/ref&gt;。家禽は[[養鶏#鶏舎の種類|鶏舎]]で飼育され、照明制御された条件下で産卵する鳥としてケージに入れられていることがある。これらの両極端の間には、半集約的でしばしば家族経営の農場があり、そこでは家畜が一年の大部分を外部で放牧され、牧草が成長しなくなる時期をカバーするために[[サイレージ]]または[[干し草]]が作られ、肥料、飼料その他の投入材が外部から農場に持ち込まれる&lt;ref name=Blount&gt;{{cite book |last=Blount |first=W. P. |title=Intensive Livestock Farming |url=https://books.google.com/books?id=UyHLBAAAQBAJ&amp;pg=PA360 |year=2013 |publisher=Elsevier |isbn=978-1-4831-9565-0 |pages=360–362}}&lt;/ref&gt;。
+
+===給餌===
+{{main |飼料}}
+[[File:Cattle round a feeder with Avon Farm - geograph.org.uk - 1563342.jpg|thumb|left|屋外給餌器の周りの牛。|alt=Cattle around an outdoor feeder]]
+家畜に利用される動物は草食が多く、雑食である豚と家禽は例外である。草食動物は、種子、果実、栄養価の高い若葉を選択的に食べる「[[濃厚飼料]]選択」、草を主に食べる「草食」、利用可能な植物材料の全範囲から餌を選ぶ「中間食」に分けられる。ウシ、ヒツジ、ヤギ、シカ、[[レイヨウ]]は反すう動物であり、食物を2段階に分けて消化する。最初は普通に[[咀嚼]]と[[嚥下]]を行い、その後、半消化された反芻食塊を逆流させて再び咀嚼し、最大の食物価値を抽出する&lt;ref name=Dryden&gt;{{cite book |last=Dryden |first=Gordon McL. |title=Animal Nutrition Science |url=https://books.google.com/books?id=OG6qrtVKwTEC |year=2008 |publisher=CABI |isbn=978-1-78064-056-3 |pages=1–3}}&lt;/ref&gt;。
+
+これらの動物の食事の必要性は大部分が草を食べることによって満たされる。草は葉の基部から成長し、大量に草を食べたり切ったりしても成長することができる&lt;ref&gt;{{cite book |title=The Living Planet |first=David |last=Attenborough |publisher=[[British Broadcasting Corporation]] |isbn=978-0-563-20207-3 |year=1984 |author-link=David Attenborough |pages=113–14 |title-link=The Living Planet}}&lt;/ref&gt;。
+
+多くの気候では、例えば温帯の夏や熱帯の雨季など、牧草の成長は季節的なものであるため、作物の一部の地域は刈り取って、保存するために干し草またはサイレージ(発酵させた草)として確保されている&lt;ref&gt;{{cite book |author=&lt;nowiki&gt;United States Agricultural Research Service, Animal Husbandry Research Division&lt;/nowiki&gt; |title=Hay crop silage |url=https://books.google.com/books?id=eDBHAQAAIAAJ |year=1959}}&lt;/ref&gt; 他の飼料作物も栽培されており、これらの多くは、作物残渣と同様に、痩せた時期の家畜の栄養需要のギャップを埋めるために確保することができる&lt;ref&gt;{{cite web |url=http://www.fao.org/docrep/005/Y1936E/y1936e08.htm |title=Ensiling crop residues |last1=Jianxin |first1=Liu |last2=Jun |first2=Guo |work=Animal production based on crop residues |publisher=FAO |access-date=18 May 2017}}&lt;/ref&gt;。
+
+[[File:LeinPresskuchen-CBIO.jpg|thumb |圧搾された[[亜麻仁]]の牛飼料ペレット|alt=牛飼料ペレット]]
+
+広範囲に飼育された動物は完全にまぐさだけで生活しているかもしれないが、より集中的に飼育された家畜はさらにエネルギーとタンパク質に富む飼料を必要とするであろう。エネルギーは主に穀物と穀物の副産物、油分と糖分に富む食物に由来し、タンパク質は[[魚粉]]や[[肉骨粉]]（BSE流行以降牛への使用は禁止されている）、[[ホエー]]などの乳製品、豆類およびその他の植物性食品、多くは植物油抽出の副産物に由来する&lt;ref name="Dryden2008"&gt;{{cite book |last=Dryden |first=Gordon McL. |title=Animal Nutrition Science |url=https://books.google.com/books?id=Qf_RZOt8pwAC&amp;pg=PA16 |year=2008 |publisher=CABI |isbn=978-1-84593-412-5 |pages=16–19}}&lt;/ref&gt;豚と家禽は非反芻動物であり、草やその他の牧草の[[セルロース]]を消化することができないため、完全に穀物やその他の高エネルギー食品を与えられている。動物の飼料の原料は農場で栽培することもできるし、異なる種類の家畜、それらの成長段階および特定の栄養所要量のために特別に調合された複合食品をペレット状またはキューブ状のものを購入する。ビタミンとミネラルは食事のバランスをとるために添加される&lt;ref name=FSA&gt;{{cite web |url=https://www.food.gov.uk/business-industry/farmingfood/animalfeed/what-farm-animals-eat |title=What farm animals eat |publisher=Food Standards Agency |access-date=18 May 2017}}&lt;/ref&gt; Farmed fish are usually fed pelleted food.&lt;ref name=FSA/&gt;。
+
+=== 育種===
+{{main |繁殖}}
+家畜の繁殖は自然発生的に行われることはほとんどないが、望ましいと考えられる特性を与える目的で農業者によって管理されている。これらには、丈夫さ、繁殖性、従順性、マザーリング能力、速い成長速度、成長単位当たりの低い飼料消費量、より良い体の割合、より高い収量およびより良い繊維品質が含まれる。また、健康の欠陥および攻撃性などの望ましくない特性が選別される&lt;ref name=Turner&gt;{{cite book |last=Turner |first=Jacky |title=Animal Breeding, Welfare and Society |url=https://books.google.com/books?id=YdYm1zsNkFQC |year=2010 |publisher=Routledge |isbn=978-1-136-54187-2 |page=Introduction}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |first1=M.R. |last1=Jarman |first2=Grahame |last2=Clark |first3=Caroline |last3=Grigson |first4=H.P. |last4=Uerpmann |first5=M.L. |last5=Ryder |title=Early Animal Husbandry |journal=Philosophical Transactions of the Royal Society of London, Series B |year=1976 |volume=275 |issue=936 |pages=85–97 |doi=10.1098/rstb.1976.0072 |bibcode=1976RSPTB.275...85J |doi-access=free}}&lt;/ref&gt;。
+
+選択的繁殖は生産性の大幅な増加の原因となってきた。例えば、2007年には、8週齢の典型的な[[ブロイラー]]の体重は、1957年には同齢の鶏の4.8倍であった&lt;ref name=Turner/&gt;、また、2007年までの30年間に米国の乳牛の平均乳量はほぼ2倍になった&lt;ref name=Turner/&gt;。
+
+===動物の健康===
+{{Further|獣医学}}
+[[File:Vaccination of goat in Niger.jpg|thumb|left|[[ニジェール]]のヤギの予防接種|alt=Vaccination of a goat]]
+良好な畜産、適切な給餌および衛生管理は、農場における動物の健康に寄与する主な要因であり、最大化された生産を通じて経済的利益をもたらしている。これらの予防措置にもかかわらず、動物が依然として病気になった場合には、農業者および獣医によって動物用医薬品で治療される。欧州連合では、農業者が自らの動物を治療する場合には、治療のためのガイドラインに従い、与えられた治療を記録することが要求される&lt;ref&gt;{{cite web |title=Farmers |url=http://www.epruma.eu/audience/farmers.html |publisher=European Platform for the Responsible Use of Medicines in Animals |access-date=18 May 2017 |date=2010 |archive-url=https://web.archive.org/web/20170526145928/http://www.epruma.eu/audience/farmers.html |archive-date=26 May 2017 |url-status=dead}}&lt;/ref&gt;。 動物は、その健康に影響を及ぼす可能性のある多くの[[疾患]]および状態に影響を受けやすい。[[豚コレラ]]&lt;ref&gt;{{cite web |url=http://www.cfsph.iastate.edu/Factsheets/pdfs/classical_swine_fever.pdf |title=Classical swine fever |publisher=The Center for Food Security and Public Health |access-date=20 May 2017}}&lt;/ref&gt;およびヒツジやヤギ類の神経系を冒す [[スクレイピー]]&lt;ref&gt;{{cite web |url=http://www.eradicatescrapie.org/About%20Scrapie/Fact%20Sheet.html |title=Scrapie Fact Sheet |year=2001 |publisher=National Institute for Animal Agriculture |access-date=6 June 2018}}&lt;/ref&gt;のように、ある種の家畜に特異的なものもあれば、[[口蹄疫]]のようにすべての[[偶蹄目]]に影響を及ぼすものもある&lt;ref&gt;{{cite web |url=http://www.thecattlesite.com/diseaseinfo/243/footandmouth |title=Foot-and-mouth |publisher=The Cattle Site |access-date=20 May 2017}}&lt;/ref&gt;。集約的な条件下で飼育される動物は体内および外寄生者になりやすい、[[チョウ (甲殻類)|ウオジラミ]]の数の増加は[[スコットランド]]の養殖サケに影響を与えている&lt;ref&gt;{{cite news |title=Scottish salmon farming's sea lice 'crisis' |last=Fraser |first=Douglas |url=https://www.bbc.co.uk/news/uk-scotland-38966188 |newspaper=BBC |date=14 February 2017 |access-date=20 May 2017}}&lt;/ref&gt;。家畜の寄生虫の負担を減らすことは生産性と収益性の向上につながる&lt;ref&gt;{{cite web |url=http://animalhealthireland.ie/?page_id=403 |title=Parasite control |publisher=Animal Health Ireland |access-date=20 May 2017}}&lt;/ref&gt;。
+
+状況が深刻な場合、政府は輸出入、在庫の移動、検疫制限、疑わしい症例の報告に規制を課している。ワクチンは特定の疾患に対して利用可能であり、抗生物質は適切な場合に広く使用されている。かつては、成長を促進するために特定の複合食品に抗生物質が日常的に添加されていたが、現在では多くの国で、家畜やヒトの[[薬剤耐性|抗菌薬耐性 ]]につながるリスクがあるため、この慣行は非難されている&lt;ref&gt;{{Cite journal |last1=Innes |first1=Gabriel K. |last2=Randad |first2=Pranay R. |last3=Korinek |first3=Anton |last4=Davis |first4=Meghan F. |last5=Price |first5=Lance B. |last6=So |first6=Anthony D. |last7=Heaney |first7=Christopher D. |date=2020-04-02 |title=External Societal Costs of Antimicrobial Resistance in Humans Attributable to Antimicrobial Use in Livestock |journal=Annual Review of Public Health |volume=41 |pages=141–157 |doi=10.1146/annurev-publhealth-040218-043954 |issn=0163-7525 |pmc=7199423 |pmid=31910712}}&lt;/ref&gt;
+
+[[File:Farmyard Drawing.jpg|thumb|身近な家畜:牛、馬、豚、鶏を飼育した農家の水彩画（1869年）|alt=牛、馬、豚、鶏を飼育した農家の水彩画]]
+政府は[[人獣共通感染症]]、すなわち人間が動物から感染する可能性のある病気に関心を持っている。野生動物の集団は、家畜に影響を及ぼす可能性のある病気を保有している可能性があり、それは不十分な感染対策の結果としてそれらに感染する可能性がある。1999年の[[マレーシア]]における[[ニパウイルス]]の集団感染は、ブタが果物を食べる[[オオコオモリ]]の便および尿と接触した後に病気になったことに遡る。ブタはその感染をヒトに伝えた&lt;ref name=chua&gt;{{cite journal |last1=Chua |first1=K.B. |last2=Chua |first2=B.H. |last3=Wang |first3=C.W. |title=Anthropogenic deforestation, El Niño and the emergence of Nipah virus in Malaysia |journal=The Malaysian Journal of Pathology |volume=24 |issue=1 |pages=15–21 |year=2002 |pmid=16329551}}&lt;/ref&gt;。[[鳥インフルエンザ]][[H5N1]]は野鳥の集団に存在し、渡り鳥によって長距離を移動することができる。このウイルスは、家禽およびその近傍に住むヒトに容易に伝播する。野生動物、家畜およびヒトに影響を及ぼすその他の感染症には、[[狂犬病]]、[[レプトスピラ症]]、[[ブルセラ症]]、[[結核]]および[[旋毛虫症]]がある&lt;ref name=Norrgren&gt;{{cite book |last1=Norrgren |first1=Leif |last2=Levengood |first2=Jeffrey M. |title=Ecology and Animal Health |url=https://books.google.com/books?id=4KcCZmJTt_QC&amp;pg=PA183 |year=2012 |publisher=Baltic University Press |isbn=978-91-86189-12-9 |pages=103–04}}&lt;/ref&gt;
+
+===種の範囲===
+{{main |家畜一覧 |養殖業#養殖品目 |昆虫食}}
+どの種が家畜であるかについては、普遍的に合意された単一の定義は存在しない。広く合意されている家畜の種類には、牛肉および乳用の牛、羊、山羊、豚および家禽が含まれる。他の様々な種が馬などの家畜とみなされることもあるが&lt;ref&gt;{{cite web |title=Welcome to Equine Research, Education, and Outreach |url=http://afs.ca.uky.edu/equine |publisher=University of Kentucky |access-date=18 August 2017}}&lt;/ref&gt;、家禽鳥類は除外されることもある。世界の一部の地域では、家畜には水牛、南米のラクダ、アルパカおよびラマなどの種が含まれる&lt;ref&gt;{{cite web |last1=Ferguson |first1=W. |last2=Ademosun |first2=A.A. |last3=von Kaufmann |first3=R. |last4=Hoste |first4=C. |last5=Rains |first5=A. Blair |title=5. Livestock resources and management|url=http://www.fao.org/wairdocs/ilri/x5539e/x5539e06.htm |publisher=Food and Agriculture Organization |access-date=24 May 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Livestock Species |url=https://animalscience.tamu.edu/livestock-species/ |publisher=Texas A&amp;M University Department of Agriculture and Life Sciences |access-date=24 May 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |last1=Steinfeld |first1=H. |last2=Mäki-Hokkonen |first2=J. |title=A classification of livestock production systems |url=http://www.fao.org/docrep/V8180T/v8180T0y.htm |publisher=Food and Agriculture Organization |access-date=24 May 2017}}&lt;/ref&gt;。一部の当局は、人間の消費のために飼育されたミツバチからコオロギに至る昆虫だけでなく、水産養殖における魚、ウサギのようなマイクロ家畜、モルモットのような[[齧歯類]]を含むなどより広い定義を使用している&lt;ref&gt;{{cite web |last1=Myers |first1=Melvin L. |title=Chapter 70 – Livestock Rearing |url=http://www.ilocis.org/documents/chpt70e.htm |publisher=Encyclopaedia of Occupational Health and Safety |access-date=24 May 2017}}&lt;/ref&gt;。
+
+==== 飼育される主な動物 ====
+; [[ウシ]]
+: 母牛を飼育し、交配させて子牛を得てそれを販売する農家を繁殖農家と言い、子牛を購入して飼養し、主に[[ウシ#家畜としてのウシ|肉牛]]として販売する農家を肥育農家と言う。[[乳牛]]を飼養し、乳を主に販売する農家については酪農家と言うが、乳牛の加齢等により乳の生産量が採算水準を下回ると乳牛を廃牛にし、肉用として販売することが多い。[[アメリカ大陸]]では大需要地である都市から遠く離れた経費の低い地方で繁殖を行い、ある程度育った若牛を群にして数人の騎乗の牧人が数週間をかけて都市に近い[[牧場]]へ輸送し、そこで肥育してから[[屠畜場]]に送るというスタイルをとる場合も多い。
+; [[ブタ]]
+: [[養豚]]（ようとん）。飼育された豚は、ほとんどが食肉（[[豚肉]]）用として出荷される。ペット用の品種である[[ミニブタ]]の繁殖・販売については、養豚扱いする自治体としない自治体がある。また、[[イノブタ]]というブタと[[イノシシ]]のハーフも存在し、発祥地である[[和歌山県]]が主産地になっている。
+; [[ニワトリ]]
+: [[養鶏]]（ようけい）。主に採卵（[[鶏卵]]）を目的とする場合と、食肉（[[鶏肉]]）を目的とする場合。そしてそれらの種鶏を得る種鶏場がある。採卵目的のニワトリが産卵率の低下により廃鶏とされると、通常の食肉にされることはほとんどなく、主に[[加工食品]]に利用される。（ごく稀にだが）ペット用として観光牧場やニワトリスト（愛鶏家）に引き取られることもある。また、[[チャボ (鶏)|チャボ]]などの愛玩鶏の繁殖・販売は、愛玩鶏の多くが[[天然記念物]]に指定されている品種が多く、「種保存の意味合い」で養鶏にあたる。
+; [[ヒツジ|めん羊]]
+: [[ウール|羊毛]]・食肉（[[羊肉]]）・乳を目的とする。[[オーストラリア]]や[[ニュージーランド]]に多く、[[日本]]では少ない。
+; [[ヤギ]]
+: [[毛 (動物)|毛]]・食肉・乳を目的とする。観光展示用に飼っている所もある。
+; [[ウマ]]
+: [[アメリカ合衆国]]とオーストラリアが中心。乗用（[[乗馬]]）や[[競馬]]用の[[ウマ#軽種|軽種馬]]・[[ウマ#中間種|中間種]]の繁殖・育成が多い。その他、観光用・肉用（[[馬肉]]）など雑多。日本では、[[北海道]][[日高振興局|日高地方]]と[[鹿児島県]][[大隅半島|大隅地方]]が軽種馬の代表的な産地である。一方、肉用馬は[[青森県]][[南部地方 (青森県)|南部地方]]（県の東部）・[[山梨県]]・[[長野県]]・[[熊本県]]が主産地。
+; [[ラクダ]]
+: [[中東]]諸国が中心。肉・乳・毛の採取以外にも、乗用や[[競駝]]としての利用がある。
+; [[ダチョウ]]
+: 肉・[[ダチョウ革|革]]・{{仮リンク|ダチョウの卵|en|Ostrich egg|label=卵}}・観光用。
+; [[アヒル]]
+: 肉・卵・観光用。
+; [[ホロホロチョウ]]
+: 肉・観光用。和歌山県の名産品。
+; [[ミツバチ]]
+: [[養蜂]]（ようほう）。[[蜂蜜]]や[[蜜蝋]]などを採取するほか、[[園芸]]栽培において'''受粉'''をするために飼育する農家も存在する。[[岐阜県]]が近代養蜂の発祥地。
+; [[カイコ]]
+: [[養蚕業|養蚕]]（ようさん）。[[絹|絹糸]]や[[蚕沙]]を採取する。日本の行政では、養蚕は畜産扱いされていない&lt;ref group="注釈"&gt;[[農林水産省]]生産局には農産部と畜産部があり、[https://elaws.e-gov.go.jp/document?lawid=412CO0000000253#489 農林水産省組織令第54条]第1号により、蚕糸の生産等に関することは[[工芸作物|工芸農作物]]、[[芋|いも]]類と同じ農産部地域作物課の所掌事務とされている。&lt;/ref&gt;。衰退気味であるが、{{いつ範囲|近年は|date=2021年10月}}[[血管バイパス術#人工血管|人工血管]]や手術用の糸（[[縫合糸]]）などの医療用材料として再注目され始めている。
+; [[カブトムシ]]
+: 幼虫の頃から養殖し、成虫になってまもなく全国の[[百貨店|デパート]]等に出荷する。
+; [[イヌ]]
+: [[番犬]]・[[盲導犬]]・[[警察犬]]など用途は多数。
+; [[ガチョウ]]
+: 肉・卵・[[羽毛]]を目的とする。また、ガチョウの[[脂肪肝]]化した[[肝臓]]が[[世界三大一覧#食生活|世界三大珍味]]の一つとして知られる[[フォアグラ]]であるが、生産過程で[[強制摂食|強制給餌]]を伴うことから、[[動物虐待]]に当たるとして生産や販売を禁止する動きが広がっている。
+
+===製品===
+{{main |食肉|乳製品|動物繊維}}
+[[File:Merino shearing.jpg|thumb |羊毛のためにメリノ羊の毛を刈る様子|alt=メリノ羊の毛刈り]]
+動物は、主に肉、羊毛、乳、卵などの多種多様な製品のために飼育されているが、[[動物性脂肪]]、[[アイシングラス (食材)|アイシングラス]]、[[レンネット]]も含まれる&lt;ref&gt;{{cite book |last=Unklesbay |first=Nan |title=World Food and You |publisher=Routledge |year=1992 |pages=179ff}}&lt;/ref&gt;&lt;ref&gt;{{cite book |last=Walling |first=Philip |title=Counting Sheep: A Celebration of the Pastoral Heritage of Britain |url=https://books.google.com/books?id=LhklAwAAQBAJ&amp;pg=PT16 |year=2014 |publisher=Profile Books |isbn=978-1-84765-803-6 |page=16}}&lt;/ref&gt;。動物はまた、医療用の[[ワクチン]]や&lt;ref&gt;{{cite journal |journal=Arch Pharm Res |year=2009 |volume=32 |issue=4 |pages=465–80 |title=Innovative vaccine production technologies: the evolution and value of vaccine production technologies |last1=Bae |first1=K. |last2=Choi |first2=J. |last3=Jang |first3=Y. |last4=Ahn |first4=S. |last5=Hur |first5=B. |pmid=19407962 |doi=10.1007/s12272-009-1400-1 |s2cid=9066150}}&lt;/ref&gt; 、[[抗血清]]([[抗体]]を含む)を製造するなど、より特殊な目的のために飼育されている&lt;ref&gt;{{cite journal |last1=Leenaars |first1=Marlies |last2=Hendriksen |first2=Coenraad F.M. |title=Critical Steps in the Production of Polyclonal and Monoclonal Antibodies: Evaluation and Recommendations |journal=ILAR Journal |date=2005 |volume=46 |issue=3 |pages=269–79 |doi=10.1093/ilar.46.3.269 |pmid=15953834 |doi-access=free}}&lt;/ref&gt; 。飼料やその他の作物が動物とともに栽培される場合、[[厩肥]]は肥料としての役割を果たし、半閉鎖的な有機システムでミネラルや有機物を土壌に戻すことができる。&lt;ref&gt;{{cite web |last1=Godinho |first1=Denise |title=Animal Husbandry in Organic Agriculture |url=http://teca.fao.org/read/8378 |publisher=Food and Agriculture Organization |access-date=25 May 2017 |archive-url=https://web.archive.org/web/20170518042900/http://teca.fao.org/read/8378 |archive-date=2017-05-18 |url-status=dead}}&lt;/ref&gt;
+
+== 流通業の進出 ==
+{{出典の明記|date=2022-2}}
+畜産は、もともと[[農業]]の一部として行われていたが、{{いつ範囲|近年|date=2021年10月}}[[流通|流通業]]の食肉加工業者が幅広く契約農家を育成してきたことから、単独で畜産業を営む場合が増えている。食肉加工業者は、将来の出荷量を見越して契約農家に[[飼料]]を提供し、飼育させている。契約農家では、自らの投資を押さえた上で経営の拡大を進めることができ、安定した出荷先を確保することができる。
+
+契約農家以外でも、{{いつ範囲|近年の|date=2021年10月}}消費量の拡大により[[市場]]が発達したため、大規模化・集約化を進めることにより畜産業専業の経営を行えるようになった。なお、既存の田畑は、[[飼料|飼料作物]]の生産に当てている場合が多い。
+
+また畜産業でも分業が進んでおり、繁殖用の雌畜に良質な子畜を産ませて出荷する畜産農家（→子取り農家）、前記の農家から子畜を買い入れて食用として肥育してから出荷する畜産農家、繁殖から肥育までを一貫して行なう畜産農家などに分かれて専業としている場合もある。
+
+養鶏や養豚といった中小家畜々産は、{{いつ範囲|近年|date=2021年10月}}急速な企業化が進み、企業化した[[農業法人]]が事業として行うケースが急増している。
+
+==部門==
+===酪農===
+{{main |酪農}}
+[[File:2014-07-25 Melkkarussel - Hemme Milch (5).jpg|thumb|left|ドイツの近代的なロータリー[[ミルキングパーラー  ]]|alt=ロータリーミルキングパーラー  ]]
+すべての哺乳類は子供に栄養を与えるために乳を生産するが、牛は主に世界中で人間が消費するための乳と乳製品を生産するために使用されている。この目的のためにそれほど使用されていないその他の動物には、ヒツジ、ヤギ、ラクダ、バッファロー、ヤク、トナカイ、馬、ロバなどがある&lt;ref name=FAOdairy&gt;{{cite web |url=http://www.fao.org/agriculture/dairy-gateway/milk-production/dairy-animals/en/ |title=Dairy animals |work=Dairy production and products |publisher=FAO |access-date=23 May 2017}}&lt;/ref&gt;。
+
+これらのすべての動物は何世紀にもわたって家畜化されてきており、繁殖力、生産性、従順さ、一般的な条件下で繁栄する能力などの望ましい特性のために飼育されてきた。以前は牛は複数の機能を持っていたが、現代の乳牛の繁殖は、経済的に大量の乳を生産する特殊なホルスタイン・フリージャン種を生み出した。人工授精は、農家がその状況に適した特定の特性を選択できるようにするために広く利用可能である&lt;ref name=FAObreeding&gt;{{cite web |url=http://www.fao.org/agriculture/dairy-gateway/milk-production/breeding/en/ |title=Breeding |work=Dairy production and products |publisher=FAO |access-date=23 May 2017}}&lt;/ref&gt;。
+
+過去には、牛は家族農場の小さな群れで飼われ、牧草地に放牧され、冬には干し草を与えられていたが、今日では、より大きな牛群、より集約的なシステム、サイレージの給与、および年間を通じて草が刈り取られて牛に運ばれるシステムである「無放牧」の傾向がある&lt;ref&gt;{{cite web |url=http://www.ruaf.org/sites/default/files/Zero%20Grazing%20Housing_1.pdf |title=Housing in a zero grazing system |publisher=Republic of Kenya: Ministry of Livestock Development |access-date=5 June 2017 |archive-url=https://web.archive.org/web/20180128063505/http://www.ruaf.org/sites/default/files/Zero%20Grazing%20Housing_1.pdf |archive-date=28 January 2018 |url-status=dead}}&lt;/ref&gt;。
+
+多くの地域社会では、乳の生産は動物を飼育する目的の一部でしかない。動物は、重荷の動物として、または鋤を引くために、または繊維、肉および皮革の生産のために使用され、は燃料または[[土壌肥沃度]]の向上のために使用される。ヒツジおよびヤギは、乳牛に適さない気候および条件下での乳生産に有利である&lt;ref name=FAOdairy/&gt;。
+
+===肉===
+[[File:Hereford bull large.jpg|thumb |[[ヘレフォード種]]は丈夫な肉用牛で、現在世界中の多くの国で飼育されている。|alt=ヘレフォード牛]]
+{{main |食肉 |ウシ|ヒツジ |養豚}}
+
+肉は主に家畜からのもので、世界中の食物タンパク質の主要な源であり、平均してヒトのエネルギー摂取の約8%である。実際に食べられる種類は、地域の好み、利用可能性、コスト、その他の要因によって異なり、牛、羊、豚、山羊が主要な種である。牛は一般に1年に1頭の子を産むが、それは成熟するのに1年以上かかる。ヒツジとヤギはしばしば双子を産み、これらは1年以内に食肉にされる。豚はより多産で、毎年約11頭[60]の子豚を1回以上産む&lt;ref&gt;{{cite web |last1=Aherne |first1=Frank |last2=Kirkwood |first2=Roy |title=Factors Affecting Litter Size |url=http://www.thepigsite.com/articles/304/factors-affecting-litter-size/ |website=The Pig Site |date=16 February 2001|accessdate=2022-02-13}}&lt;/ref&gt; の子豚を年1回以上産む&lt;ref name=Gregory&gt;{{cite book |last1=Gregory |first1=Neville G. |last2=Grandin |first2=Temple |title=Animal Welfare and Meat Production |url=https://books.google.com/books?id=RTeyiR0rSEwC&amp;pg=PA1 |year=2007 |publisher=CABI |isbn=978-1-84593-216-9 |pages=1–2}}&lt;/ref&gt;。馬、ロバ、シカ、バッファロー、ラマ、アルパカ、グアナコ、ビクーニャは様々な地域で食肉用に飼育されている。肉用に飼育された動物のいくつかの望ましい特性には、多産性、丈夫さ、速い成長速度、管理の容易さおよび高い食品変換効率が含まれる。世界の肉の約半分は、放牧地または閉鎖された牧草地で放牧されている動物から生産されており、残りの半分は様々な工場営農システムで集中的に生産されている。これらはほとんどが牛、豚または家禽であり、多くは屋内で、典型的には高密度で飼育されている&lt;ref name=Miller&gt;{{cite book |last1=Miller |first1=G. Tyler |last2=Spoolman |first2=Scott |title=Sustaining the Earth |url=https://books.google.com/books?id=oxEeCgAAQBAJ&amp;pg=PT159 |year=2014 |publisher=Cengage Learning |isbn=978-1-285-76949-3 |page=138}}&lt;/ref&gt;。
+
+===家禽===
+[[File:Battery hens -Bastos, Sao Paulo, Brazil-31March2007.jpg|thumb|upright |ブラジル、[[バタリーケージ]]の鶏|alt=[[バタリーケージ]]の鶏]]
+{{main |養鶏}}
+
+卵と肉のために飼われている家禽類には、[[ニワトリ]]、[[シチメンチョウ]]、[[ガチョウ]]、[[アヒル]]が含まれる。産卵に使われる産卵鳥の大多数はニワトリである。産卵に使われる採卵用鶏 は、自由に歩き回ることができるが、夜間は保護のために室内で飼われる自由な範囲のシステムから、納屋に飼われ、止まり木、敷わら、ある程度の移動の自由がある半集約的なシステム、ケージで飼われる集約的なシステムまでの様々な方法がある。[[バタリーケージ]]は、複数の層に長い列に配置され、外部の給餌器、飲水器、採卵設備を備えている。これは最も労力を節約し、経済的な産卵方法であるが、鶏は通常の行動をすることができないので動物福祉の見地から批判されている&lt;ref&gt;{{cite web |url=https://www.ciwf.org.uk/farm-animals/chickens/egg-laying-hens |title=About egg laying hens |publisher=Compassion in World Farming |access-date=26 May 2017}}&lt;/ref&gt;。
+
+先進国では、肉用に飼育されている家禽の大部分は屋内の大きな小屋で、環境を制御した自動化された装置を用いて飼育されている。この方法で飼育されるニワトリの多くはブロイラーとして知られており、遺伝的改良により、孵化後6~7週間以内に出荷可能体重まで成長させることができるようになっている。新たに孵化した雛は、狭い場所で飼育され、補助的に暖房が与えられる。飼料と水が自動的に供給され、照明が制御される。鳥は数回にわたって収穫されるか、小屋全体が一度に収穫される&lt;ref&gt;{{cite web |url=http://www.chicken.org.au/page.php?id=6 |title=Growing meat chickens |year=2013 |publisher=Australian Chicken Meat Federation |access-date=26 May 2017 |archive-url=https://web.archive.org/web/20170515090315/http://www.chicken.org.au/page.php?id=6 |archive-date=2017-05-15 |url-status=dead}}&lt;/ref&gt;。
+
+同様の飼育システムは通常、七面鳥にも用いられるが、七面鳥はニワトリよりも丈夫ではないが、成長に時間がかかり、最終的には別個の肥育ユニットに移動されることが多い&lt;ref&gt;Sherwin, C.M. (2010). "Turkeys: Behavior, Management and Well-Being". In ''The Encyclopaedia of Animal Science''. Wilson G. Pond and Alan W. Bell (Eds). Marcel Dekker. pp. 847–49&lt;/ref&gt;。 アヒルはアジアとオーストラリアで特に人気があり、商業的な条件下では7週間で食肉にすることができる&lt;ref&gt;{{cite web |url=http://www.poultryhub.org/species/commercial-poultry/duck |title=Duck |website=Poultry Hub |access-date=26 May 2017}}&lt;/ref&gt;。
+
+===養殖===
+[[File:Bassins de la pisciculture de la Calonne.jpg|thumb|left|フランスの淡水魚の養殖|alt=淡水魚養殖場]]
+{{main |養殖業}}
+
+養殖は「魚、[[軟体動物]]、[[甲殻類]]および水生植物を含む水生生物の養殖であり、定期的な貯蔵、給餌、捕食者からの保護など、生産を強化するための育成プロセスへの何らかの形の介入を意味する。養殖はまた、養殖される資源の個人または企業の所有を意味する」と定義されている&lt;ref&gt;{{cite web |url=http://www.fao.org/fishery/statistics/global-aquaculture-production/en |title=Global Aquaculture Production |work=Fishery Statistical Collections |publisher=Food and Agriculture Organization of the United Nations |access-date=26 May 2017}}&lt;/ref&gt;。 実際には、それは海または淡水で起こり、広範囲または集中的である。湾全体、湖または池は養殖に充てられるか、養殖動物は生簀、人工礁、棚または縄(貝類)に保持される。魚とエビは自然に到着するかまたは導入されるかのいずれかで水田で栽培することができ、両方の作物を一緒に収穫することができる&lt;ref&gt;{{cite web |url=http://www.fao.org/docrep/field/003/AC180E/AC180E01.htm |title=Fish culture in rice fields |work=Fishery Statistical Collections |publisher=Food and Agriculture Organization of the United Nations |access-date=26 May 2017}}&lt;/ref&gt;。
+
+魚類の孵化場では、幼魚や稚魚、甲殻類、貝類が養殖システムに利用される。これらが十分な大きさになった場合、それらは成長タンクに移され収穫量に達すると養魚場で出荷サイズまで育養される。孵化場で一般的に飼育されている種には、[[エビ]]、[[サケ]]、[[ティラピア]]、[[カキ (貝)|カキ]]および[[ホタテ]]などがある。同様の施設は、保護の必要がある種を野生に放流するための飼育や、釣りのための魚を養殖するために利用される。これらの初期段階での畜産の重要な側面には、繁殖株の選択、水質および栄養の管理が含まれる。野生では、稚魚の段階での大量の死亡率があり、養殖業者はこれを最小限に抑えると同時に成長率を最大にするようにしている&lt;ref name=Mosig&gt;{{cite book |last1=Mosig |first1=John |last2=Fallu |first2=Ric |title=Australian Fish Farmer: A Practical Guide to Aquaculture |url=https://books.google.com/books?id=ZWQI5SNViXcC&amp;pg=PA25 |year=2004 |publisher=Landlinks Press |isbn=978-0-643-06865-0 |pages=25–28}}&lt;/ref&gt;。
+
+===昆虫===
+[[File:Bolikhamxay Thabok Crickets.JPG|thumb |養殖される[[コオロギ]]（[[タイ王国|タイ]]）|alt=コオロギ]]
+{{further|養蜂|昆虫食|養蚕業}}
+
+ミツバチは、少なくとも5000年前のエジプト第一王朝&lt;ref&gt;{{cite web |url=http://reshafim.org.il/ad/egypt/timelines/topics/beekeeping.htm |title=Ancient Egypt: Bee-keeping |website=Reshafim.org.il |date=6 June 2003 |access-date=22 May 2017}}&lt;/ref&gt;以来、巣に入れられてきた。人間はそのずっと前から野生のハチミツを収穫していた。固定された巣箱は世界の多くの地域で使用されており、地域で入手可能なあらゆる材料から作られている&lt;ref&gt;{{cite web |url=http://www.beesfordevelopment.org/portal/topic.php?id=15&amp;p=101 |archive-url=https://web.archive.org/web/20110518171416/http://beesfordevelopment.org/portal/topic.php?id=15&amp;p=101 |publisher=Bees for Development |archive-date=18 May 2011 |title=Fixed combs |access-date=22 May 2017}}&lt;/ref&gt;。より先進的な経済では、ミツバチの系統が従順さと生産性のために選択され、様々なデザインの巣が使用されている。そこでは、ハチミツの加工と抽出のために巣枠を取り除くことができる。ミツバチは、彼らが生産するハチミツと蜜蝋を生産する以外にも、作物や野生植物の重要な花粉媒介者として重要であり、多くの地域で、受粉を助けるために巣箱を移動させる&lt;ref&gt;{{cite news |title=The Mind-Boggling Math of Migratory Beekeeping |last=Jabr |first=Ferris |url=https://www.scientificamerican.com/article/migratory-beekeeping-mind-boggling-math/ |newspaper=Scientific American |date=1 September 2013 |access-date=22 May 2017}}&lt;/ref&gt;。
+
+[[養蚕]]は、最初に中国人が[[唐]]の時代に採用したもの&lt;ref&gt;{{cite book |title=Prehistoric textiles: the development of cloth in the Neolithic and Bronze Ages with special reference to the Aegean |last=Barber |first=E.J.W. |year=1992 |publisher=Princeton University Press |isbn=978-0-691-00224-8 |page=31 |url=https://books.google.com/books?id=HnSlynSfeEIC&amp;pg=PA31}}&lt;/ref&gt;。商業的に栽培されている唯一の種は、家畜化された[[カイコガ]]。カイコが繭を紡ぐとき、それぞれの幼虫は非常に長く細い[[絹糸]]を産生する。幼虫は桑の葉を食べる。また、ヨーロッパでは、[[桑]]は落葉樹なので、1年に1世代しか飼育されない。しかし、中国、韓国、日本では2世代が普通で、熱帯地方では複数世代が可能であると考えられる。絹糸の生産のほとんどは極東で行われ、日本では蚕を育てるために合成飼料が使われている&lt;ref name=Hill&gt;{{cite book |last=Hill |first=Dennis S. |title=The Economic Importance of Insects |url=https://books.google.com/books?id=6qvsCAAAQBAJ&amp;pg=PA21 |year=2012 |publisher=Springer Science &amp; Business Media |isbn=978-94-011-5348-5 |pages=21–22}}&lt;/ref&gt;。
+
+昆虫は多くの文化において人間の食事の一部を形成している&lt;ref name="Carrington2010"&gt;{{cite news |last=Carrington |first=Damian |url=https://www.theguardian.com/environment/2010/aug/01/insects-food-emissions |title=Insects could be the key to meeting food needs of growing global population |work=[[The Guardian]] |date=1 August 2010}}&lt;/ref&gt;。タイでは、コオロギは国の北部でこの目的のために飼育されており、[[ヤシオオオサゾウムシ]]の幼虫は国の南部で飼育されている。コオロギは檻や箱または引き出しに入れて飼育され、市販のペレット状の飼料が与えられている。ヤシゾウムシの幼虫はキャベツやソテツの木に生息しており、これらの木が成長する地域に限られている&lt;ref name=Bangkok&gt;{{cite book |title=Six-legged Livestock: Edible insect farming, collection and marketing in Thailand |year=2013 |publisher=Food and Agriculture Organization of the United Nations |location=Bangkok |isbn=978-92-5-107578-4 |url=http://www.fao.org/docrep/017/i3246e/i3246e.pdf}}&lt;/ref&gt;。この地域のもう一つの珍味は{{仮リンク|タケムシ|en|Omphisa fuscidentalis|bamboo caterpillar}}であり、半自然生息地での最良の飼育と収穫技術が研究されている&lt;ref name=Bangkok/&gt;。
+
+==環境負荷==
+{{See also|家畜#家畜と環境}}[[File:Bezerros de IATF.jpg|thumb|家畜の生産には広い土地が必要。|alt=ウシ]]
+
+Worldwatch Institute{{Fontsize|77.7%|（[[:en:Worldwatch Institute|英語版]]）}}によると、「先進国の食肉消費量の大幅な削減は、[[公衆衛生]]を改善し、[[健康|健康管理]]の負担を緩和し、[[牧草地|放牧地]]や[[穀倉地帯]]の負担を減らし農業資源の再生を促す。また、土地と水資源をより効率的に利用すると同時に、世界の飢えた人々に安い価格で[[穀物]]を供給できる」としている&lt;ref&gt;{{Cite web|url=https://web.archive.org/web/20080517050751/http://www.worldwatch.org/press/news/1998/07/02/ |title=United States Leads World Meat Stampede |publisher=Worldwatch Institute |accessdate=2018-10-02|date=1997-7-2}}&lt;/ref&gt;。畜産には次のような問題があると言われている。
+
+=== 資源の消費 ===
+畜産は淡水使用の20%から33%を占め&lt;ref&gt;{{Cite journal|author=Mesfin M. Mekonnen, Arjen Y. Hoekstra |url=http://waterfootprint.org/media/downloads/Mekonnen-Hoekstra-2012-WaterFootprintFarmAnimalProducts.pdf |format=PDF |title=A Global Assessment of the Water Footprint of Farm Animal Products |date=2012 |journal=Ecosystems |volume=15 |page=401-415 |doi=10.1007/s10021-011-9517-8 }}&lt;/ref&gt;、肥沃な土地の3分の1を使用し&lt;ref&gt;{{Cite news|author=増谷康 |title=フィンテックの次にフードテック・ブームが来ると確信できる10の理由 |url=https://forbesjapan.com/articles/detail/21177 |accessdate=2018-10-03 |publisher=[[フォーブス (雑誌)|フォーブス]]日本}}&lt;/ref&gt;&lt;!--科学データにふさわしくない出典--&gt;、食用作物の収穫量のうち36%が畜産の飼料にされたという報告がある&lt;ref name=":13"/&gt;。
+
+1970年代、[[フランシス・ムア・ラッペ]]は、畜産は[[タンパク質]]を得る目的としては効率が悪いと述べた。植物から畜産物へのタンパク質変換効率は、鶏肉が40%、豚肉が10%、牛肉が5%というデータがある。また、肉１kgの生産に必要な穀物の量は、牛肉が11kg、豚肉が7kg、鶏肉が4kg（鶏卵なら3kg）とも言われている&lt;ref&gt;{{Cite web |url=https://www.maff.go.jp/j/zyukyu/zikyu_ritu/ohanasi01/01-04.html |title=その4：お肉の自給率 |accessdate=20220129 |publisher=農林水産省}}&lt;/ref&gt;。
+
+穀物や[[牧草]]を家畜飼料にして得られる食肉より、同じ土地面積に人間が直接食べる農作物を作付けする方がより多くの人の食料を生産できる。食用作物を全て人間が直接食べることで、人口扶養力が世界平均[[ヘクタール]] (ha) あたり6人（[[バイオ燃料]]等その他消費を飼料の4分の1含む）から10.1人に上昇するという試算がある&lt;ref name=":13"&gt;{{Cite web|url=http://lib.ruralnet.or.jp/nisio/?p=2979 |title=No.244 穀物を家畜でなく人間が直接食べれば、世界の人口扶養力が向上 |date=2014-1-24 |accessdate=2018-05-10 |website=西尾道徳の環境保全型農業レポート }}&lt;/ref&gt;。飼料生産のために消費される[[化石燃料]]（[[温室効果ガス]]放出の原因となる）や水資源（[[仮想水]]を参照）も節約できる。[[コーネル大学]]の David Pimentel 教授は、「[[豆腐]]タンパク質1[[カロリー]]を生産するのに化石燃料は2カロリーしか必要としないが、牛肉タンパク質1カロリーを生産するのには化石燃料が40カロリー必要だ」としている。Water Education Foundation{{Fontsize|77.7%|（[[:en:Water Education Foundation|英語版]]）}}は、「[[カリフォルニア州]]では1[[ポンド (質量)|ポンド]]の牛肉を生産するのに2,464[[ガロン]]の水が必要」としているが、1ポンドの[[コムギ|小麦]]を生産するために必要な水はわずか25ガロンである&lt;ref&gt;{{Cite news|author=Lillie Ogden |title=The Environmental Impact of a Meat-Based Diet |url=https://www.vegetariantimes.com/life-garden/the-environmental-impact-of-a-meat-based-diet |date2017-4-4 |accessdate=2018-5-16 |work=[[:en:Vegetarian Times|Vegetarian Times]]}}&lt;/ref&gt;。
+
+ただし、家畜飼料稲は人間の食用種とは品種が異なるため、食用農作物を育てることが難しい土地でも飼料用農作物を作付けすることができる場合もある&lt;ref name=":13" /&gt;。
+
+=== 地球温暖化 ===
+[[国際連合食糧農業機関|FAO（国際連合食糧農業機関）]]の報告によると、地球温暖化ガスの14.5％は、[[家畜]]に由来する&lt;ref&gt;{{Cite web |url=https://www.afpbb.com/articles/-/3000579 |title=地球温暖化ガスの14.5％、家畜に由来 FAO報告書 |access-date=20200425}}&lt;/ref&gt;。世界最大の食肉会社であるJBSの炭素排出量は2021年までの5年間で50％以上増加しており、排出量が[[イギリス]]とほぼ同じ大きさであるとの試算もある&lt;ref&gt;{{Cite web |url=https://www.ft.com/content/92904829-3a28-4d6e-aab7-467c625497c7?FTCamp=engage/CAPI/alert/Channel_signal//B2B |title=Meatpacker JBS comes under fire over 50% emissions rise |access-date=20220425}}&lt;/ref&gt;。農畜産業からの排出量は温室効果ガスの9～14％を占め&lt;ref name="ipcc202102"&gt;{{Cite report | author = ipcc | authorlink = 気候変動に関する政府間パネル | title = SPECIAL REPORT: SPECIAL REPORT ON CLIMATE CHANGE AND LAND -CH05 Food Security- | date = 2021-02-08 | url = https://www.ipcc.ch/srccl/chapter/chapter-5/ | ref = harv }}&lt;/ref&gt;、そのうち、反芻家畜の消化管内発酵が40%（CO2等価）、家畜糞尿が16%と農畜産業全体の56%と畜産からの排出が多く&lt;ref&gt;{{Cite report | author = 国際連合食糧農業機関（FAO） | author2 = 国際農林業協働協会 | title = 世界食料農業白書 2016年報告 | year = 2016 | pages = 38 | url = http://www.fao.org/3/i6030ja/I6030JA.pdf | ref = harv }}&lt;/ref&gt;、中でも牛のメタン排出量は最も多く消化管内発酵の65-77%を占めている&lt;ref name="ipcc202102"/&gt;。
+
+また、ウシやヒツジ、ヤギなどの[[反芻]]家畜は、[[温室効果ガス]]である[[メタン]]ガスの主要な発生源の一つとされている。家畜から排出されるメタンガス抑制法についてはさまざまな研究が行われているが、決定的な解決法はまだ見つかっていない&lt;ref name="FAO2006"&gt;{{Cite report|author=国連食糧農業機関（FAO）|authorlink=国連食糧農業機関|title=LIVESTOCK'S LONG SHADOW|date=2006|url=http://www.fao.org/3/a0701e/a0701e00.htm|ref=harv}}&lt;/ref&gt;。
+
+=== 森林破壊 ===
+[[アマゾン熱帯雨林|アマゾン]]では伐採された森林の7割が畜産の放牧によるもので&lt;ref name="FAO2006"/&gt;、[[牧草地]]になった面積は45万km&lt;sup&gt;2&lt;/sup&gt;という&lt;ref&gt;{{Cite web|url=https://globalforestatlas.yale.edu/amazon/land-use/cattle-ranching |title=Cattle Ranching in the Amazon Region
+ | Global Forest Atlas|accessdate=2018-5-16 |website=Global Forest Atlas }} [[イェール大学]]&lt;/ref&gt;。牛肉が主な輸出品となっている[[中央アメリカ|中米]]の[[ニカラグア]]では、2011年から2016年の5年間に540km&lt;sup&gt;2&lt;/sup&gt;の森林が草地に変わり、牛の放牧が広く見られる&lt;ref&gt;{{Cite web|author=Wilder Pérez R. |url=https://news.mongabay.com/2017/03/cattle-ranching-threatens-core-of-biosphere-reserve-of-southeast-nicaragua/ |title=Cattle ranching threatens core of Biosphere Reserve of Southeast Nicaragua |date=2017-3-27 |accessdate=2018-05-10 |website=[[:en:Mongabay|Mongabay]] }}&lt;/ref&gt;。
+
+=== 水源汚染（糞尿問題） ===
+畜産業の発達と郊外の都市化が進んだことにより、畜産農家が排出する大量の[[糞尿]]、[[悪臭|臭気]]および[[ハエ]]などの[[害虫]]が住宅街に影響を与える場合が増えている。その土地で長年畜産業を営んできているにもかかわらず、後から移り住んだ者が農家に対して苦情を申し出ている場合が多いが、糞尿の消臭・処理対策に限界があり、後継者不足も伴って廃業を余儀なくされるなど根本的な解決手段は見つかっていない。畜産動物の糞尿の不適正処理で、[[クリプトスポリジウム]]や[[硝酸態窒素|硝酸性窒素]]等による河川や地下水等が汚染される&lt;ref&gt;{{Cite web |author=佐藤弘康 |url=http://lin.alic.go.jp/alic/month/dome/1998/jun/nosui.htm |title=畜産環境問題の現状と対策について 畜産の情報 1998年6月 |accessdate=2018-5-9 |publisher=[[農畜産業振興機構|農畜産業振興事業団]]}}&lt;/ref&gt;。
+
+== 問題 ==
+{{中立|date=2023年4月|section=1}}
+=== 飢餓 ===
+栄養を十分に取れない飢餓人口は、2014年時点で約8億人に達している&lt;ref&gt;{{Cite news|title=世界の飢餓人口は減少、しかし今だ8億500万人が慢性的に栄養不足 |date=2014-9-19 |publisher=[[国際連合世界食糧計画|UN World Food Programme]] |url=http://ja.wfp.org/news-release/140919 |accessdate=2018-5-16 }}&lt;/ref&gt;。1997年から2003年の世界の食用作物41品目の収穫物のうち、36%は家畜飼料とされた&lt;ref name=":13"/&gt;。ミリオンセラーとなり各国で翻訳された[[フランシス・ムア・ラッペ]]の著書『{{仮リンク|小さな惑星の緑の食卓|en|Diet for a Small Planet}}』は、飢餓は食糧不足ではなく、効果のない食糧政策によって引き起こされると主張し、食肉産業が世界的な食糧不足の一因となっていることを指摘した最初の本でもある&lt;ref&gt;フランシス・ムア・ラッペ『小さな惑星の緑の食卓』 奥沢喜久栄訳、講談社、1982年。16～17、62～63頁。&lt;/ref&gt;。[[フランシス・ムア・ラッペ]]は、彼女の多くの著書を通して、世界の飢餓は食糧の不足によって引き起こされるのではなく、飢えた人々が世界に存在する豊富な食糧や食糧生産資源にアクセスできないことによって引き起こされる政治的な問題だと指摘すると同時に、菜食主義のライフスタイルを実践することを主張している。
+
+===動物福祉===
+[[ファイル:乳牛の繋ぎ飼育、日本.jpg|サムネイル|乳牛の[[乳牛#つなぎ飼い|つなぎ飼い]]、日本]]
+{{仮リンク|ウィッテンバーグ大学|en|Wittenberg University}}の社会学教授である{{仮リンク|デイビット・ニバート|en|David Nibert}} は、他の動物の知覚と知性についての民俗学者と生物学者による現代の研究に基づいて、「他の動物の捕獲、奴隷化、使用、殺しの経験は、ほとんどの場合、苦しみと暴力の一つであったと考えられる」と考えている。これには直接的な身体的暴力が含まれていたが、組織的な抑圧と奴隷化のような構造的暴力も含まれていた。その結果、彼らは基本的なニーズを満たすことができなくなり、自己決定権を失い、自然な方法で生きる機会を失ったのである」と彼は言う。考古学的な発掘の間に発見された何千年も前の家畜の残骸は、多くの骨の病変を明らかにし、それは極度の苦しみをあたえた証拠だとした。
+
+{{Quote|「紀元前8500年に発掘されたものは、奴隷にされたヤギや牛の骨の変形を明らかにし、「おそらくこれらの初期の家畜が飼養されていた条件が原因で、ある程度のストレスの兆候がみられた」。青銅器時代初期のヒツジやヤギの骨は、「栄養不足と集中的な搾乳の複合効果の結果として」カルシウム欠乏を反映して、骨の太さが著しく減少している&lt;ref&gt;{{cite book |last=Nibert |first=David |date=2013 |title=Animal Oppression and Human Violence: Domesecration, Capitalism, and Global Conflict |location= |publisher=[[Columbia University Press]] |page=11 |isbn=978-0231151894}}&lt;/ref&gt;}}次のような畜産慣行は、[[動物福祉]]の問題が提起されている。
+* 牛 - [[乳牛#つなぎ飼い|つなぎ飼い]]、[[ウシ#去勢|去勢]]、[[ウシ#鼻環（鼻ぐり）|鼻環]]・耳標、[[ウシ#断角／除角|断角・除角]]、[[乳牛#親子の引き離し|子牛と母牛の引き離し]]、[[乳牛#断尾|断尾]]、[[ハラール#食肉に関する規則|ハラール屠畜]]
+* 豚 - [[ブタ#断尾|断尾]]、[[養豚#麻酔なしでの尾と歯の切断、耳刻|歯の切断]]、[[妊娠ストール]]、[[養豚#麻酔なしでの去勢|去勢]]
+* 鶏 - [[バタリーケージ|バタリケージ]]、[[屠殺#食鳥処理場での長期保管|屠殺場での夜間放置]]、[[ブロイラー#飼育方法|過密飼育]]、[[養鶏#クチバシの切断|クチバシの切断]]、[[屠殺#生きた鳥の熱湯処理|放血不良]]
+* かも、アヒル - [[フォアグラ#動物愛護の観点から規制される飼育方法|フォアグラ]]
+
+=== 動物の権利 ===
+{{Seealso|動物の権利}}
+現代倫理学では[[集約畜産|工場畜産]]は否定されている&lt;ref name=":2"&gt;{{Cite journal|和書|author=[[伊勢田哲治]]|date=2016-12|title=動物福祉と供養の倫理|url=https://hdl.handle.net/2433/217849|journal=関西実験動物研究会会報|issue=第127回研究会|pages=6-22|publisher=関西実験動物研究会}}&lt;/ref&gt;。
+
+動物倫理学は動物と人間の関係を扱うもので、動物解放論はその主要な立場であり&lt;ref name=":2" /&gt;、代表的な論者として功利主義の[[ピーター・シンガー|P.シンガー]]と権利論の[[トム・リーガン|T.レーガン]]が挙げられる&lt;ref&gt;「[http://tiseda.sakura.ne.jp/works/animal1.pdf 動物の心と動物解放論]」(PDF)『生命・環境・科学技術倫理研究VI』、[[千葉大学]]、2001年、176-183頁。&lt;/ref&gt;が、いずれも工場畜産を否定している。[[トム・リーガン|T.レーガン]]は食物（および狩猟、捕獲、試験、教育、研究）のために動物を利用することに対して明確に反対する立場をとっている&lt;ref&gt;{{Cite web |url=https://www.animallaw.info/article/animal-rights-theory-and-utilitarianism-relative-normative-guidance |title=Animal Rights Theory and Utilitarianism: Relative Normative Guidance |accessdate=20220305}}&lt;/ref&gt;。法学者で動物の権利を主張する[[ゲイリー・フランシオン|フランシオン]]は、一般に不必要な動物への危害は避けるべきだとされているが、肉食も不必要な危害の禁止に反し、やめるべきだと指摘する&lt;ref&gt;{{Cite book|和書 |author=ゲイリー・L・フランシオン |title=動物の権利入門 |date=2018 |publisher=[[緑風出版]] |page=88}}&lt;/ref&gt;。
+
+また、歴史学者のユヴァル・ノア・ハラリは畜産業を「史上最大の犯罪」だと指摘する&lt;ref&gt;{{Cite web |url=https://www.theguardian.com/books/2015/sep/25/industrial-farming-one-worst-crimes-history-ethical-question |title=Industrial farming is one of the worst crimes in history This article is more than 7 years oldYuval Noah Harari |access-date=20230108}}&lt;/ref&gt;。
+
+=== 差別や偏見 ===
+食肉処理業務に対する差別や偏見があり、食肉市場に誹謗・中傷する手紙やハガキが送られることがある&lt;ref&gt;{{Cite web|url=http://www.shijou.metro.tokyo.jp/syokuniku/rekisi-keihatu/rekisi-keihatu-02-01/ |title=偏見・差別について |accessdate=2018-05-09 |website=[[東京都中央卸売市場]]}}&lt;/ref&gt;。
+
+== 外国人労働者の畜産業従事状況 ==
+日本国内の外国人畜産労働者数は、およそ1万人前後と推計されている。一方国内の畜産経営（単一経営）に雇用されている常雇労働者数は4万3475人（2015年）であり、外国人畜産労働力はすでに常雇労働力の2～3割程度を占めるに至っているものとみられる&lt;ref&gt;{{Cite web |url=https://www.alic.go.jp/joho-c/joho05_001954.html |title=肉牛繁殖・肥育経営および酪農経営における外国人労働力の役割 |accessdate=20220129}}&lt;/ref&gt;。
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Notelist}}
+=== 出典 ===
+{{Reflist|30em}}
+
+== 関連項目 ==
+{{commonscat|Animal husbandry}}
+* [[魚介類#水産物|水産物]]
+* [[遺伝子工学]]
+
+== 外部リンク ==
+* [http://www.lin.gr.jp/ LIN：畜産情報ネットワーク]
+* [http://jlia.lin.gr.jp/ JLIA｜公益社団法人 中央畜産会 {{!}} Japan Livestock Industry Associaciton]
+* [https://www.dairy.co.jp/ 中央酪農会議]
+* [https://www.alic.go.jp/ alic｜独立行政法人 農畜産業振興機構]
+* [http://chikusan.net/ 畜産ネット] - エキサイティングサービス
+* {{Kotobank}}
+
+{{主要産業}}
+{{動物の権利}}
+{{森林破壊}}
+{{Normdaten}}
+{{DEFAULTSORT:ちくさん}}
+[[Category:畜産|*ちくさん]]
+[[Category:遺伝子工学]]
+[[Category:農業]]
+[[Category:産業]]</text>
+      <sha1>rh64q57zoumobouosx2xish2eow4wos</sha1>
+    </revision>
+  </page>
+  

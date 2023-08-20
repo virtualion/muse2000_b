@@ -1,0 +1,5 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/27615/title_panel.png	-176.26315789473682,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/27615/word_cloud.png	-196.2315789473684,38,148.1873684210526	0,0,1	0,1,0	-1,0,0	103.73115789473682	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/27615/31613_Birger_Bergersen.jpg	-196.2315789473684,38,146.70549473684207	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/27615/caption/caption0.png	-196.2315789473684,38,146.70549473684207	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23

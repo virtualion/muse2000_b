@@ -1,0 +1,13 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/27568/title_panel.png	-77.73684210526315,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/27568/word_cloud.png	-100.16842105263157,38,91.28842105263156	0,0,1	0,1,0	-1,0,0	63.90189473684209	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/27568/Assaut.courtine.avec.beffroi.png	-100.16842105263157,38,90.37553684210525	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/27568/caption/caption0.png	-100.16842105263157,38,90.37553684210525	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/27568/Assyrian Attack on a Town.jpg	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	-37.584210526315786	-10	0.2	2.1279352226720643	Wooden_thin	-1:-1	3
+4	./Images/27568/caption/caption1.png	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	-23.491093117408905	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/27568/MasadaRamp.jpg	100.16842105263157,38,92.21052631578945	0,0,-1	0,1,0	1,0,0	66.27539368421051	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/27568/caption/caption2.png	100.16842105263157,38,92.21052631578945	0,0,-1	0,1,0	1,0,0	88.27539368421051	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/27568/Beffroi.d.assaut.png	100.16842105263157,38,92.21052631578945	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/27568/caption/caption3.png	100.16842105263157,38,92.21052631578945	0,0,-1	0,1,0	1,0,0	22.0	-20	1.5	0.7	none(caption)	-1:-1	8
+9	./Images/27568/Grose-Francis-Pavisors-and-Moveable-Tower-Assaulting-Castle-1812.jpg	100.16842105263157,38,92.21052631578945	0,0,-1	0,1,0	1,0,0	-66.27539368421054	-10	0.2	4.5	Wooden_thin	-1:-1	9
+10	./Images/27568/caption/caption4.png	100.16842105263157,38,92.21052631578945	0,0,-1	0,1,0	1,0,0	-44.27539368421054	-20	1.5	0.7	none(caption)	-1:-1	10

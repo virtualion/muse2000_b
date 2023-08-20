@@ -1,0 +1,9 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/26587/title_panel.png	-94.15789473684211,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/26587/word_cloud.png	-116.17894736842106,38,115.67368421052629	0,0,1	0,1,0	-1,0,0	80.9715789473684	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/26587/Train on bridge of Chikuho Electric Railroad on Ongagawa River.JPG	-116.17894736842106,38,114.51694736842103	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/26587/Chikutetsu_3000.jpg	0,38,230.7631578947368	1,0,0	0,1,0	0,0,1	-62.452631578947376	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/26587/caption/caption1.png	0,38,230.7631578947368	1,0,0	0,1,0	0,0,1	-40.452631578947376	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/26587/Platform of Chikuho-Nogata Station.JPG	0,38,230.7631578947368	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/26587/caption/caption2.png	0,38,230.7631578947368	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	6
+7	Images/26587/table/fixed_駅一覧.png	116.17894736842106,38,116.84210526315788	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	17.353125000000002	Wooden_thin	-1:-1	7

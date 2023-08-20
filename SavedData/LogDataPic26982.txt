@@ -1,0 +1,5 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/26982/title_panel.png	-61.31578947368419,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/26982/word_cloud.png	-84.15789473684208,38,99.41684210526314	0,0,1	0,1,0	-1,0,0	69.5917894736842	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/26982/Freya and Heimdall by Blommer.jpg	-84.15789473684208,38,98.42267368421051	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/26982/caption/caption0.png	-84.15789473684208,38,98.42267368421051	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23

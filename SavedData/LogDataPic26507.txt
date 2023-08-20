@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/26507/title_panel.png	-135.21052631578948,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/26507/word_cloud.png	-156.20526315789473,38,164.44421052631577	0,0,1	0,1,0	-1,0,0	115.11094736842104	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/26507/Maiden Tower (Baku).jpg	-156.20526315789473,38,162.79976842105262	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/26507/caption/caption0.png	-156.20526315789473,38,162.79976842105262	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/26507/Ilham Aliyev - World Economic Forum Annual Meeting Davos 2009.jpg	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	-100.90394736842106	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/26507/caption/caption1.png	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	-78.90394736842106	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/26507/Ilham Aliyev met with Prime Minister of Malaysia Mahathir Mohamad 01.jpg	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	-30.301315789473676	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/26507/caption/caption2.png	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	-8.301315789473676	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/26507/Parad 878.jpg	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	40.301315789473705	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/26507/caption/caption3.png	0,38,328.05789473684206	1,0,0	0,1,0	0,0,1	62.301315789473705	-20	1.5	0.7	none(caption)	-1:-1	8
+9	Images/26507/table/fixed_祝祭日.png	156.20526315789473,38,166.1052631578947	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	17.690624999999997	Wooden_thin	-1:-1	9

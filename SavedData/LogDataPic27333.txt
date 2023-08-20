@@ -1,0 +1,15 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/27333/title_panel.png	-250.15789473684208,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/27333/word_cloud.png	-268.27894736842103,38,261.98526315789474	0,0,1	0,1,0	-1,0,0	183.3896842105263	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/27333/International Military Tribunal Ichigaya Court.jpg	-268.27894736842103,38,259.36541052631577	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/27333/caption/caption0.png	-268.27894736842103,38,259.36541052631577	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/27333/IMTFE court chamber.jpg	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	-197.62315789473683	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/27333/caption/caption1.png	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	-175.62315789473683	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/27333/International-Military-Tribunal-Far-East-11-Judges-July-29-1946.jpg	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	-96.31157894736839	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/27333/caption/caption2.png	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	-74.31157894736839	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/27333/Fusaaki Uzawa.jpg	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	5.000000000000028	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/27333/caption/caption3.png	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	27.00000000000003	-20	1.5	0.7	none(caption)	-1:-1	8
+9	./Images/27333/IMTFE.jpg	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	106.31157894736845	-10	0.2	4.5	Wooden_thin	-1:-1	9
+10	./Images/27333/caption/caption4.png	0,38,522.6473684210526	1,0,0	0,1,0	0,0,1	128.31157894736845	-20	1.5	0.7	none(caption)	-1:-1	10
+11	Images/27333/table/fixed_弁護側反証.png	268.27894736842103,38,264.63157894736844	0,0,-1	0,1,0	1,0,0	142.65097578947368	-10	0.2	29.953125	Wooden_thin	-1:-1	11
+12	Images/27333/table/fixed_最終的訴因.png	268.27894736842103,38,264.63157894736844	0,0,-1	0,1,0	1,0,0	-142.65097578947365	-10	0.2	11.424375000000001	Wooden_thin	-1:-1	12

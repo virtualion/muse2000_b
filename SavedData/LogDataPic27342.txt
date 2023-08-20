@@ -1,0 +1,9 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/27342/title_panel.png	-69.52631578947368,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/27342/word_cloud.png	-92.16315789473684,38,99.41684210526314	0,0,1	0,1,0	-1,0,0	69.5917894736842	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/27342/Brassica rapa ja02.jpg	-92.16315789473684,38,98.42267368421051	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/27342/Canola.jpg	0,38,198.3315789473684	1,0,0	0,1,0	0,0,1	-46.4421052631579	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/27342/caption/caption1.png	0,38,198.3315789473684	1,0,0	0,1,0	0,0,1	-24.4421052631579	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/27342/Raapstelen gekiemde zaden (Brassica campestris germinating seeds).jpg	0,38,198.3315789473684	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/27342/caption/caption2.png	0,38,198.3315789473684	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	6
+7	Images/27342/table/fixed_生産量.png	92.16315789473684,38,100.42105263157893	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	15.075000000000001	Wooden_thin	-1:-1	7

@@ -1,0 +1,7 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/10803/title_panel.png	-110.57894736842104,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/10803/word_cloud.png	-132.18947368421053,38,115.67368421052629	0,0,1	0,1,0	-1,0,0	80.9715789473684	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/10803/Tokugawa Yoshimune.jpg	-132.18947368421053,38,114.51694736842103	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/10803/Elephant by Kano Furunobu.jpg	0,38,230.7631578947368	1,0,0	0,1,0	0,0,1	-53.59473684210526	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/10803/caption/caption1.png	0,38,230.7631578947368	1,0,0	0,1,0	0,0,1	-31.594736842105263	-20	1.5	0.7	none(caption)	-1:-1	4
+5	Images/10803/table/fixed_年表.png	132.18947368421053,38,116.84210526315788	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	11.025	Wooden_thin	-1:-1	5

@@ -1,0 +1,10 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/27578/title_panel.png	-127.0,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/27578/word_cloud.png	-148.2,38,123.80210526315787	0,0,1	0,1,0	-1,0,0	86.6614736842105	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/27578/Sheep and cloud hill 2023-05-20(4) as.jpg	-148.2,38,122.56408421052629	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/27578/Shibetsu city center area Aerial photograph.2011.jpg	0,38,246.978947368421	1,0,0	0,1,0	0,0,1	-83.79999999999998	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/27578/caption/caption1.png	0,38,246.978947368421	1,0,0	0,1,0	0,0,1	-61.79999999999998	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/27578/Mount Teshio.JPG	0,38,246.978947368421	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/27578/caption/caption2.png	0,38,246.978947368421	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	6
+7	Images/27578/table/fixed_市長.png	148.2,38,125.05263157894734	0,0,-1	0,1,0	1,0,0	67.41024631578946	-10	0.2	5.670000000000001	Wooden_thin	-1:-1	7
+8	Images/27578/table/fixed_旧士別市歴代市長.png	148.2,38,125.05263157894734	0,0,-1	0,1,0	1,0,0	-67.41024631578946	-10	0.2	5.670000000000001	Wooden_thin	-1:-1	8

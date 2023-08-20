@@ -1,0 +1,4 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/10959/title_panel.png	-118.78947368421052,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/10959/word_cloud.png	-140.19473684210527,38,115.67368421052629	0,0,1	0,1,0	-1,0,0	80.9715789473684	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	Images/10959/table/fixed_君主国の一覧.png	-140.19473684210527,38,114.51694736842103	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23

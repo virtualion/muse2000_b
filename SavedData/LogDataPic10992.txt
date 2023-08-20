@@ -1,0 +1,9 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/10992/title_panel.png	-118.78947368421052,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/10992/word_cloud.png	-140.19473684210527,38,131.93052631578948	0,0,1	0,1,0	-1,0,0	92.35136842105263	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/10992/Keihan13000 Chushojima.JPG	-140.19473684210527,38,130.61122105263158	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/10992/Kyoto-Fushimi Railway Line Map.jpg	0,38,263.19473684210527	1,0,0	0,1,0	0,0,1	-78.46315789473684	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/10992/caption/caption1.png	0,38,263.19473684210527	1,0,0	0,1,0	0,0,1	-56.46315789473684	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/10992/Number prefix Keihan lines.png	0,38,263.19473684210527	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/10992/caption/caption2.png	0,38,263.19473684210527	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	6
+7	Images/10992/table/fixed_駅一覧.png	140.19473684210527,38,133.26315789473685	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	9.450000000000001	Wooden_thin	-1:-1	7

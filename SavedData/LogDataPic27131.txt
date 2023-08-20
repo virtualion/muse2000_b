@@ -1,0 +1,9 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/27131/title_panel.png	-85.94736842105262,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/27131/word_cloud.png	-108.1736842105263,38,115.67368421052629	0,0,1	0,1,0	-1,0,0	80.9715789473684	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/27131/Carboxylic-acid-group-3D.png	-108.1736842105263,38,114.51694736842103	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/27131/caption/caption0.png	-108.1736842105263,38,114.51694736842103	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/27131/Carboxyl-3D-space-filling-labelled.png	0,38,230.7631578947368	1,0,0	0,1,0	0,0,1	-41.58684210526315	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/27131/caption/caption1.png	0,38,230.7631578947368	1,0,0	0,1,0	0,0,1	-19.586842105263152	-20	1.5	0.7	none(caption)	-1:-1	4
+5	Images/27131/table/fixed_物性.png	108.1736842105263,38,116.84210526315788	0,0,-1	0,1,0	1,0,0	62.98432105263157	-10	0.2	20.4525	Wooden_thin	-1:-1	5
+6	Images/27131/table/fixed_飽和脂肪酸.png	108.1736842105263,38,116.84210526315788	0,0,-1	0,1,0	1,0,0	-62.98432105263157	-10	0.2	7.05375	Wooden_thin	-1:-1	6

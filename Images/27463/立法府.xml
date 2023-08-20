@@ -1,0 +1,808 @@
+<page>
+    <title>立法府</title>
+    <ns>0</ns>
+    <id>27463</id>
+    <revision>
+      <id>95608523</id>
+      <parentid>94953406</parentid>
+      <timestamp>2023-06-14T01:22:01Z</timestamp>
+      <contributor>
+        <username>ROE100</username>
+        <id>944206</id>
+      </contributor>
+      <comment>/* 脚注 */ 空の脚注を非表示</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55272" xml:space="preserve">{{参照方法|section=1|date=2020年2月4日}}
+{{for|[[日本]]の立法府|[[国会 (日本)]]}}
+[[File:Unibicameral_Map.png|300px|thumb|{{legend|#38b4d8|両院制（二院制）を採用する国}}{{legend|#f09c30|一院制を採用する国}}{{legend|#b0e947|一院制及び諮問機関を採用する国}}{{legend|black|議会制を採用しない国}}]]
+'''立法府'''（りっぽうふ、{{lang-en-short|Legislature}}）とは、[[立法]]を主たる職務とする[[機関]]のことである。'''立法機関'''（りっぽうきかん）とも呼ばれる。
+
+== 概要 ==
+立法を通じて[[国民]]または[[市民]]がどのような方法で何をするべきかを決定する国家機関の一部門を指す。構成員の選出には国民による[[選挙]]を用いる事が多いが、元首による任命制の場合や、少数民族・職能団体の代表を優先的に充当する場合もある。立法府は国内では中央政府と地方政府の二つの組織があるために、国家の立法権を行使し、立法を主たる職務とする中央政府の機関の一つを指す場合もあれば、特定の地方において施行される[[成文法]]（州法、[[条例]]など）を定立する州議会、[[地方議会]]、住民総会などの組織を指す場合もある。[[両院制|両院制（二院制）]]を採る国の場合、立法権は両院が共同行使する制度を採ることが多い。このため、両院制の各院を指して立法府と呼ぶこともある。また[[立憲主義|近代立憲主義]]に基づく[[憲法]]を制定している国家では[[国民]]の信任を受けた代議士により構成される[[議会]]が立法府として機能する。
+
+立法府は歴史的には17世紀のイギリスにおいて国王の課税に対して承認を与えるための[[封建議会]]として成立していたが、[[ジョン・ロック]]の研究によって立法府は近代的な形態に整えられた。ロックは人々が[[社会契約]]の中で相互に承認することではじめて政府が設置されること、そしてその政府の[[権力]]行使は国民の[[信託]]に依存していると考えた。だからこそ、政府は国民が承認する範囲内において国民の財産や自由を部分的に侵害する法律を作成することが可能となる。したがって政権が国民の意向に反するならば、国民は[[抵抗権]]によってその政権を交代させることができる。[[シャルル・ド・モンテスキュー]]はロックの研究を踏まえながら、さらに政府組織は法を執行する行政権を掌握した[[行政府]]、法を作成する立法権を掌握した立法府、法を判断する司法権を掌握した[[司法府]]に分割するべきであると主張して、現代の立法府の理論的な前提となっている[[権力分立|三権分立]]の原則を確立させた。
+
+== 国際機関における立法府 ==
+国際社会の法としては、'''[[国際法]]'''が存在する。国際法の存在形式には、国家間の合意である'''[[条約]]'''と、国際慣行に法意識が加わって形成される'''[[慣習国際法|国際慣習法]]'''がある。
+
+国際社会には、国家における統治機関のような権力団体がないため、組織的な法を定立する立法機関や、強制[[管轄権]]を有する司法機関もない。もっとも、[[国際連合]]や[[欧州連合]]など、多国間条約に基づいて定立された[[国際機関]]などが、国際法の立法機関や司法機関として働くこともある。また、国際機関における議決や勧告（[[国際連合総会|国連総会決議]]、[[国際連合安全保障理事会|安保理決議]]など）が、国際法の内容を明確にする役割を果たすこともある。
+
+{| class="wikitable"
+!style="width:30%"|機関名!!style="width:30%"|立法府の名称!!style="width:20%"|上院!!style="width:20%"|下院
+|-
+|[[アフリカ連合]]||[[全アフリカ議会]]&lt;br/&gt;&lt;small&gt;英語: {{Lang|en|Pan-African Parliament}}&lt;br/&gt;{{Lang-ar|برلمان عموم أفريقيا}}&lt;/small&gt;
+|colspan="2"|[[一院制]]
+|-
+|{{LAS}}||[[アラブ議会]]&lt;br/&gt;&lt;small&gt;英語: Arab Parliament&lt;br/&gt;アラビア語: البرلمان العربي&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{EUR}}||||[[欧州連合理事会]]&lt;br/&gt;&lt;small&gt;{{Lang-en|Council of European Union}}&lt;br/&gt;{{Lang-fr|Conseil de l'Union Européene}}&lt;/small&gt;||[[欧州議会]]&lt;br/&gt;&lt;small&gt;英語: European Parliament&lt;br/&gt;フランス語: Parlement européen&lt;/small&gt;
+|-
+|[[File:Flag of the Central American Integration System.svg|23x15px]] [[中米統合機構]]||[[中央アメリカ議会]]&lt;br/&gt;&lt;small&gt;英語: Central American Parliament&lt;br/&gt;{{Lang-es|Parlamento Centroamericano}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{Flagicon|メルコスール}} [[メルコスール]]||[[メルコスール議会]]&lt;br/&gt;&lt;small&gt;英語: Mercosur Parliament&lt;br/&gt;スペイン語: Parlamento del Mercosur&lt;br/&gt;{{Lang-pt|Parlamento do Mercosul}}
+|colspan="2"|一院制
+|-
+|[[File:Bandera Parlamento Latinoamericano.jpg|23x15px]] [[ラテンアメリカ・カリブ諸国共同体]]||[[ラテンアメリカ議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Parlamento Latinoamericano&lt;br/&gt;ポルトガル語: Parlamento Latino-americano&lt;/small&gt; 
+|colspan="2"|一院制
+|}
+
+== 各国・地域の立法府の名称 ==
+=== 国際連合に加入している国の立法府 ===
+{{OTOC|あ行|か行|さ行|た行|な行|は行|ま行|や行|ら行|他}}
+{| class="wikitable"
+!style="width:25%"|国名!!style="width:30%"|立法府の名称!!style="width:20%"|上院!!style="width:25%"|下院
+|-
+! colspan="4" style="text-align:left; background-color:#cfc" | {{Anchors|あ行}}あ行
+|-
+|{{ISL}}||[[アルシング|全国会議]]&lt;br/&gt;&lt;small&gt;{{lang-is|Alþingi}}&lt;/small&gt;
+|colspan="2"|[[一院制]]
+|-
+|{{IRL}}||[[ウラクタス|国民議会]]&lt;br/&gt;&lt;small&gt;{{Lang-ga|Oireachtas}}&lt;/small&gt;||[[シャナズ・エアラン|元老院]]&lt;br/&gt;&lt;small&gt;Seanad Éireann&lt;/small&gt;||[[ドイル・エアラン|代議院]]&lt;br/&gt;&lt;small&gt;Dáil Éireann&lt;/small&gt;
+|-
+|{{AZE}}||[[国民議会 (アゼルバイジャン)|国民議会]]&lt;br/&gt;&lt;small&gt;{{lang-az|Milli Məclis}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{AFG}}||[[アフガニスタン国民議会|国民議会]]&lt;br/&gt;&lt;small&gt;{{Lang-ps|شورای ملی}}&lt;/small&gt;||長老議会&lt;br/&gt;&lt;small&gt;Meshrano Jirga&lt;/small&gt;||人民議会&lt;br/&gt;&lt;small&gt;Wolesi Jirga&lt;/small&gt;
+|-
+|{{USA}}||[[アメリカ合衆国議会|連邦議会]]&lt;br/&gt;&lt;small&gt;{{Lang-en|Congress of the United States}}&lt;/small&gt;||[[アメリカ合衆国上院|元老院]]&lt;br/&gt;&lt;small&gt;United States Senate&lt;/small&gt;||[[アメリカ合衆国下院|代議院]]&lt;br/&gt;&lt;small&gt;United States House of Representatives&lt;/small&gt;
+|-
+|{{ARE}}||[[連邦国民評議会]]&lt;br/&gt;&lt;small&gt;{{lang-ar|المجلس الوطني الإتحادي}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{DZA}}||[[アルジェリア議会|議会]]&lt;br/&gt;&lt;small&gt;アラビア語: البرلمان الجزائري&lt;/small&gt;||[[国民評議会 (アルジェリア)|国民評議会]]||[[国民議会 (アルジェリア)|国民議会]]
+|-
+|{{ARG}}||[[国民議会 (アルゼンチン)|国民議会]]&lt;br/&gt;&lt;small&gt;{{Lang-es|Congreso de la Nación Argentina}}||元老院&lt;br/&gt;&lt;small&gt;Senado&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;Cámara de Diputados&lt;/small&gt;
+|-
+|{{ALB}}||[[アルバニア議会|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-sq|Kuvendi i Shqipërisë}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{ARM}}||[[国民議会 (アルメニア)|国民議会]]&lt;br/&gt;&lt;small&gt;{{lang-hy|Ազգային Ժողով}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{AGO}}||[[国民議会 (アンゴラ)|国民議会]]&lt;br/&gt;&lt;small&gt;{{Lang-pt|Assembleia Nacional}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{ATG}}||[[アンティグア・バーブーダ議会|議会]]&lt;br/&gt;&lt;small&gt;英語：Parliament&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;House of Representatives&lt;/small&gt;
+|-
+|{{AND}}||[[大評議会 (アンドラ)|大評議会]]&lt;br/&gt;&lt;small&gt;{{lang-ca|Consell General d'Andorra}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{YEM}}||||諮問評議会&lt;ref group="注"&gt;立法権はない。&lt;/ref&gt;||[[代議院 (イエメン)|代議院]]&lt;br/&gt;&lt;small&gt;アラビア語: مجلس النواب اليمني&lt;/small&gt;
+|-
+|{{GBR}}||[[イギリスの議会|議会]]&lt;br/&gt;&lt;small&gt;英語：Parliament&lt;/small&gt;||[[貴族院 (イギリス)|貴族院]]&lt;br/&gt;&lt;small&gt;House of Lords&lt;/small&gt;||[[庶民院 (イギリス)|庶民院]]&lt;br/&gt;&lt;small&gt;House of Commons&lt;/small&gt;
+|-
+|{{ISR}}||[[クネセト]]&lt;br/&gt;&lt;small&gt;{{lang-he|הכנסת}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{ITA}}||[[イタリア議会|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-it|Parlamento italiano}}||[[元老院 (イタリア)|元老院]]&lt;br/&gt;&lt;small&gt;Senato della Repubblica&lt;/small&gt;||[[代議院 (イタリア)|代議院]]&lt;br/&gt;&lt;small&gt;Camera dei Deputati&lt;/small&gt;
+|-
+|{{IRQ}}||[[国民議会 (イラク)|国民議会]]&lt;br/&gt;&lt;small&gt;アラビア語: {{Lang|ar|مجلس النواب العراقي}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{IRN}}||[[イスラーム諮問評議会]]&lt;br/&gt;&lt;small&gt;{{lang-fa|مجلس شورای اسلامی}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{IND}}||[[インドの国会|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-hi|भारत की संसद}}&lt;/small&gt;||[[ラージヤ・サバー|元老院]]&lt;br/&gt;&lt;small&gt;{{Lang|hi|राज्य सभा}}&lt;/small&gt;||[[ローク・サバー|衆議院]]&lt;br/&gt;&lt;small&gt;{{Lang|hi|लोक सभा}}&lt;/small&gt;
+|-
+|{{IDN}}||[[国民協議会]]&lt;br/&gt;&lt;small&gt;{{lang-id|Majelis Permusyawaratan Rakyat}}&lt;/small&gt;||地方代表院&lt;br/&gt;&lt;small&gt;Dewan Perwakilan Daerah&lt;/small&gt;||国民代表院&lt;br/&gt;&lt;small&gt;Dewan Perwakilan Rakyat&lt;/small&gt;
+|-
+|{{UGA}}||[[ウガンダ議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{UKR}}||[[ヴェルホーヴナ・ラーダ|最高議会]]&lt;br/&gt;&lt;small&gt;{{lang-uk|Верховна Рада}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{UZB}}||[[国民議会 (ウズベキスタン)|国民議会]]&lt;br/&gt;&lt;small&gt;{{lang-uz|Oliy Majlis}}&lt;/small&gt;||[[上院 (ウズベキスタン)|元老院]]&lt;br/&gt;&lt;small&gt;Senati&lt;/small&gt;||[[下院 (ウズベキスタン)|代議院]]&lt;br/&gt;&lt;small&gt;Qonunchilik palatasi&lt;/small&gt;
+|-
+|{{URY}}||[[国会 (ウルグアイ)|国会]]&lt;br/&gt;&lt;small&gt;スペイン語: Asamblea General&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Cámara de Senadores&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;Cámara de Representantes&lt;/small&gt;
+|-
+|{{ECU}}||[[国民議会 (エクアドル)|国民議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Asamblea Nacional&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{EGY}}||[[エジプト議会|議会]]&lt;br/&gt;&lt;small&gt;アラビア語: البرلمان المصري&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{EST}}||[[リーギコグ|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-et|Riigikogu}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{ETH}}||[[連邦議会 (エチオピア)|連邦議会]]&lt;br/&gt;&lt;small&gt;{{Lang-am|የፌደራል ፓርላማ}}&lt;/small&gt;&lt;br/&gt;||連邦院&lt;br/&gt;&lt;small&gt;የፌዴሬሽን ምክር ቤት&lt;/small&gt;||人民代表院&lt;br/&gt;&lt;small&gt;የሕዝብ ተወካዮች ምክር ቤት&lt;/small&gt;
+|-
+|{{ERI}}||[[国民議会 (エリトリア)|国民議会]]&lt;br/&gt;&lt;small&gt;{{lang-ti|Hagerawi Baito}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{SLV}}||[[立法議会 (エルサルバドル)|立法議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Asamblea Legislativa&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{AUS}}||[[オーストラリア連邦議会|連邦議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament of Australia&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;House of Representatives&lt;/small&gt;
+|-
+|{{AUT}}||[[オーストリアの議会|議会]]&lt;br/&gt;&lt;small&gt;{{lang-de|Österreichisches Parlament}}&lt;/small&gt;||[[連邦議会 (オーストリア)|連邦議会]]&lt;br/&gt;&lt;small&gt;Bundesrat&lt;/small&gt;||[[国民議会 (オーストリア)|国民議会]]&lt;br/&gt;&lt;small&gt;Nationalrat&lt;/small&gt;
+|-
+|{{OMN}}||[[オマーン議会|議会]]&lt;br/&gt;&lt;small&gt;アラビア語: مجلس عُـمان&lt;/small&gt;||国家評議会&lt;br/&gt;&lt;small&gt;مجلس الدولة العماني&lt;/small&gt;||諮問評議会&lt;br/&gt;&lt;small&gt;مجلس الشورى&lt;/small&gt;
+|-
+|{{NLD}}||[[スターテン・ヘネラール|連邦議会]]&lt;br/&gt;&lt;small&gt;{{Lang-nl|Staten-Generaal}}&lt;/small&gt;||[[第一院 (オランダ)|第一院]]&lt;br/&gt;&lt;small&gt;Eerste Kamer&lt;/small&gt;||[[第二院 (オランダ)|第二院]]&lt;br/&gt;&lt;small&gt;Tweede Kamer&lt;/small&gt;
+|-
+! colspan="4" style="text-align:left; background-color:#cfc" | {{Anchors|か行}}か行
+|-
+|{{GHA}}||[[国民議会 (ガーナ)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{CPV}}||[[国民議会 (カーボベルデ)|国民議会]]&lt;br/&gt;&lt;small&gt;ポルトガル語: Assembleia Nacional&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{GUY}}||[[国民議会 (ガイアナ)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: National Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{KAZ}}||[[カザフスタン議会|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-kk|Парламенті}}&lt;/small&gt;||[[元老院 (カザフスタン)|元老院]]&lt;br/&gt;&lt;small&gt;Сенаты&lt;/small&gt;||[[マジュリス (カザフスタン)|代議院]]&lt;br/&gt;&lt;small&gt;Мәжіліс&lt;/small&gt;
+|-
+|{{QAT}}||[[諮問評議会 (カタール)|諮問評議会]]&lt;br/&gt;&lt;small&gt;アラビア語: مجلس الشورى&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{CAN}}||[[カナダ議会|連邦議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament of Canada&lt;br/&gt;{{Lang-fr|Parlement du Canada}}&lt;/small&gt;||[[元老院 (カナダ)|元老院]]&lt;br/&gt;&lt;small&gt;英語: Senate&lt;br/&gt;仏語: Senat&lt;/small&gt;||[[庶民院 (カナダ)|庶民院]]&lt;br/&gt;&lt;small&gt;英語: House of Commons&lt;br/&gt;仏語: Chambre des communes&lt;/small&gt;
+|-
+|{{GAB}}||[[ガボンの議会|議会]]&lt;br/&gt;&lt;small&gt;フランス語: Parlement&lt;/small&gt;||[[元老院 (ガボン)|元老院]]&lt;br/&gt;&lt;small&gt;Senat&lt;/small&gt;||[[国民議会 (ガボン)|国民議会]]&lt;br/&gt;&lt;small&gt;Assemblée Nationale&lt;/small&gt;
+|-
+|{{CMR}}||[[カメルーン議会|議会]]&lt;br/&gt;&lt;small&gt;フランス語: Parlement&lt;/small&gt;||[[元老院 (カメルーン)|元老院]]&lt;br/&gt;&lt;small&gt;Senat&lt;/small&gt;||[[国民議会 (カメルーン)|国民議会]]&lt;br/&gt;&lt;small&gt;Assemblée Nationale&lt;/small&gt;
+|-
+|{{GMB}}||[[国民議会 (ガンビア)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: National Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{KHM}}||[[カンボジア議会|議会]]&lt;br/&gt;&lt;small&gt;{{lang-km|សភាតំណាងរាស្ត្រ}}&lt;/small&gt;||[[元老院 (カンボジア)|元老院]]&lt;br/&gt;&lt;small&gt;ព្រឹទ្ធសភានៃព្រះរាជាណាច&lt;/small&gt;||[[国民議会 (カンボジア)|国民議会]]&lt;br/&gt;&lt;small&gt;រដ្ឋសភានៃ&lt;/small&gt;
+|-
+|{{GIN}}||[[国民議会 (ギニア)|国民議会]]&lt;br/&gt;&lt;small&gt;フランス語: Assemblée nationale&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{GNB}}||[[国家人民議会 (ギニアビサウ)|国家人民議会]]&lt;br/&gt;&lt;small&gt;ポルトガル語: Assembleia Nacional Popular&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{CYP}}||[[代議院 (キプロス)|代議院]]&lt;br /&gt;&lt;small&gt;{{lang-el|Βουλή των Αντιπροσώπων}}&lt;/small&gt;&lt;br /&gt;&lt;small&gt;{{lang-tr|Temsilciler Meclisi}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{CUB}}||[[人民権力全国会議]]&lt;br/&gt;&lt;small&gt;スペイン語: Asamblea Nacional del Poder Popular&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{GRC}}||[[ギリシャ議会|議会]]&lt;br/&gt;&lt;small&gt;{{lang-el|Βουλή των Ελλήνων}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{KIR}}||[[キリバス議会|議会]]&lt;br/&gt;&lt;small&gt;英語: House of Assembly&lt;br/&gt;{{Lang-gil|Maneaba ni Maungatab}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{KGZ}}||[[ジョゴルク・ケネシ|最高会議]]&lt;br/&gt;&lt;small&gt;{{lang-ky|Жогорку Кеңеш}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{GTM}}||[[共和国議会 (グアテマラ)|共和国議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Congress of the Republic&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{KWT}}||[[国民議会 (クウェート)|国民議会]]&lt;br/&gt;&lt;small&gt;アラビア語: مجلس الأمة&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{GRD}}||[[国会 (グレナダ)|国会]]&lt;br/&gt;&lt;small&gt;英語: Parliament of the State&lt;/small&gt;||[[元老院 (グレナダ)|元老院]]&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||[[代議院 (グレナダ)|代議院]]&lt;br/&gt;&lt;small&gt;House of Representatives&lt;/small&gt;
+|-
+|{{HRV}}||[[サボル (クロアチア議会)|議会]]&lt;br/&gt;&lt;small&gt;{{lang-hr|Hrvatski sabor / Sabor}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{KEN}}||[[ケニア議会|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-sw|Bunge}}&lt;/small&gt;||[[元老院 (ケニア)|元老院]]&lt;br/&gt;&lt;small&gt;Seneti&lt;/small&gt;||[[国民議会 (ケニア)|国民議会]]&lt;br/&gt;&lt;small&gt;Bunge la Taifa&lt;/small&gt;
+|-
+|{{CIV}}||[[コートジボワール議会|議会]]&lt;br/&gt;&lt;small&gt;フランス語: {{Lang|fr|Parlement}}&lt;/small&gt;||[[元老院 (コートジボワール)|元老院]]&lt;br/&gt;&lt;small&gt;Sénat&lt;/small&gt;||[[国民議会 (コートジボワール)|国民議会]]&lt;br/&gt;&lt;small&gt;Assemblée nationale&lt;/small&gt;
+|-
+|{{CRI}}||[[立法議会 (コスタリカ)|立法議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Asamblea Legislativa&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{COM}}||[[コモロ連合議会|議会]]&lt;br/&gt;&lt;small&gt;アラビア語: جمعية اتحاد جزر القمر&lt;br/&gt;フランス語: Assemblée&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{COL}}||[[共和国議会 (コロンビア)|共和国議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Congreso de la República&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Senado&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;Cámara de Representantes&lt;/small&gt;
+|-
+|{{COG}}||[[共和国議会 (コンゴ共和国)|共和国議会]]&lt;br/&gt;&lt;small&gt;フランス語: Parlement de la République&lt;/small&gt;||[[元老院 (コンゴ共和国)|元老院]]&lt;br/&gt;&lt;small&gt;Sénat&lt;/small&gt;||[[国民議会 (コンゴ共和国)|国民議会]]&lt;br/&gt;&lt;small&gt;Assemblée nationale&lt;/small&gt;
+|-
+|{{COD}}||[[共和国議会 (コンゴ民主共和国)|共和国議会]]&lt;br/&gt;&lt;small&gt;フランス語: Parlement de la République&lt;/small&gt;||[[元老院 (コンゴ民主共和国)|元老院]]&lt;br/&gt;&lt;small&gt;Sénat&lt;/small&gt;||[[国民議会 (コンゴ民主共和国)|国民議会]]&lt;br/&gt;&lt;small&gt;Assemblée nationale&lt;/small&gt;
+|-
+! colspan="4" style="text-align:left; background-color:#cfc" | {{Anchors|さ行}}さ行
+|-
+|{{SAU}}||[[諮問評議会 (サウジアラビア)|諮問評議会]]&lt;br/&gt;&lt;small&gt;アラビア語: مجلس الشورى السعودي&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{WSM}}||[[立法議会 (サモア)|立法議会]]&lt;br/&gt;&lt;small&gt;{{Lang-sm|Fono}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{STP}}||[[国民議会 (サントメ・プリンシペ)|国民議会]]&lt;br/&gt;&lt;small&gt;ポルトガル語: Assembleia Nacional&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{ZMB}}||[[国民議会 (ザンビア)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: National Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{SMR}}||[[大評議会 (サンマリノ)|大評議会]]&lt;br/&gt;&lt;small&gt;イタリア語: Consiglio Grande e Generale&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{SLE}}||[[シエラレオネ議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{DJI}}||[[国民議会 (ジブチ)|国民議会]]&lt;br/&gt;&lt;small&gt;フランス語: Assemblée nationale&lt;br/&gt;アラビア語: الجمعية الوطنية&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{JAM}}||[[ジャマイカ議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;||[[元老院 (ジャマイカ)|元老院]]&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||[[代議院 (ジャマイカ)|代議院]]&lt;br/&gt;&lt;small&gt;House of Representatives&lt;/small&gt;
+|-
+|{{GEO}}||[[ジョージア議会|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-ka|საქართველოს პარლამენტი}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{SYR}}||[[人民議会 (シリア)|人民議会]]&lt;br/&gt;&lt;small&gt;アラビア語: مجلس الشعب&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{SIN}}||[[国会 (シンガポール)|国会]]&lt;br/&gt;&lt;small&gt;英語: {{Lang|en|Parliament}}&lt;br/&gt;{{Lang-ms|Parlimen}}&lt;br/&gt;{{Lang-ta|நாடாளுமன்றம்}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{ZWE}}||[[ジンバブエ議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;||[[元老院 (ジンバブエ)|元老院]]&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||[[代議院 (ジンバブエ)|代議院]]&lt;br/&gt;&lt;small&gt;House of Representatives&lt;/small&gt;
+|-
+|{{SDN}}||[[スーダンの国会|国民議会]]&lt;br/&gt;&lt;small&gt;英語: {{Lang|en|National Legislature}}&lt;br/&gt;アラビア語: {{lang|ar|المجلس التشريعي السوداني}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{CHE}}||[[連邦議会 (スイス)|連邦議会]]&lt;br/&gt;&lt;small&gt;ドイツ語: Bundesversammlung&lt;/small&gt;||[[全州議会]]&lt;br/&gt;&lt;small&gt;Staenderat&lt;/small&gt;||[[国民議会 (スイス)|国民議会]]&lt;br/&gt;&lt;small&gt;Nationalrat&lt;/small&gt;
+|-
+|{{SWE}}||[[リクスダーゲン|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-sv|Riksdagen}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{ESP}}||[[国会 (スペイン)|国会]]&lt;br/&gt;&lt;small&gt;スペイン語: Cortes Generales&lt;/small&gt;||[[スペイン上院|元老院]]&lt;br/&gt;&lt;small&gt;Senado&lt;/small&gt;||[[スペイン下院|代議院]]&lt;br/&gt;&lt;small&gt;Congreso de los Diputados&lt;/small&gt;
+|-
+|{{SUR}}||[[国民議会 (スリナム)|国民議会]]&lt;br/&gt;&lt;small&gt;オランダ語: De Nationale Assemblée&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{LKA}}||[[国会 (スリランカ)|国会]]&lt;br/&gt;&lt;small&gt;{{lang-si|ශ්රී ලංකා පාර්ලිමේන්තුව}}&lt;br/&gt;タミル語: {{lang|ta|இலங்கை நாடாளுமன்றம்}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{SVK}}||[[スロバキア共和国国民議会|国民議会]]&lt;br /&gt;&lt;small&gt;{{Lang-sk|Národná rada Slovenskej republiky}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{SVN}}||[[スロベニア議会|議会]]&lt;ref group="注" name="規定なし"&gt;憲法の規定では「議会」としての規定がなく、各院について記述されている。&lt;/ref&gt;&lt;br/&gt;&lt;small&gt;スロベニア語: Slovenski parlament&lt;/small&gt;||[[国民評議会 (スロベニア)|国民評議会]]&lt;br/&gt;&lt;small&gt;Državni svet&lt;/small&gt;||[[国民議会 (スロベニア)|国民議会]]&lt;br/&gt;&lt;small&gt;Državni zbor&lt;/small&gt;
+|-
+|{{SWZ}}||[[リバンドラ|議会]]&lt;br/&gt;&lt;small&gt;{{lang-ss|Libandla}}&lt;/small&gt;||[[元老院 (スワジランド)|元老院]]||[[代議院 (スワジランド)|代議院]]
+|-
+|{{SYC}}||[[国民議会 (セーシェル)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: National Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{GNQ}}||[[赤道ギニア議会|議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Parlamento&lt;/small&gt;||[[元老院 (赤道ギニア)|元老院]]&lt;br/&gt;&lt;small&gt;Senado&lt;/small&gt;||[[代議院 (赤道ギニア)|代議院]]&lt;br/&gt;&lt;small&gt;Cámara de los Diputados&lt;/small&gt;
+|-
+|{{SEN}}||[[国民議会 (セネガル)|国民議会]]&lt;br/&gt;&lt;small&gt;フランス語: Assemblée nationale du Sénégal&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{SRB}}||[[国民議会 (セルビア)|国民議会]]&lt;br/&gt;&lt;small&gt;{{Lang-sr|Народна скупштина}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{KNA}}||[[国民議会 (セントクリストファー・ネイビス)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: National Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{VCT}}||[[セントビンセント・グレナディーン議会|議会]]&lt;br/&gt;&lt;small&gt;英語: House of Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{LCA}}||[[セントルシア議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;||[[元老院 (セントルシア)|元老院]]&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||[[代議院 (セントルシア)|代議院]]&lt;br/&gt;&lt;small&gt;House of Assembly&lt;/small&gt;
+|-
+|{{SOM}}||[[連邦議会 (ソマリア)|連邦議会]]&lt;br/&gt;&lt;small&gt;{{lang-so|Golaha Shacabka}}&lt;/small&gt;||元老院&lt;ref group="注"&gt;未設置。&lt;/ref&gt;&lt;br/&gt;&lt;small&gt;Aqalka Sare&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;Aqalka Hoose&lt;/small&gt;
+|-
+|{{SLB}}||[[国民議会 (ソロモン諸島)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: National Parliament&lt;/small&gt;
+|colspan="2"|一院制
+|-
+! colspan="4" style="text-align:left; background-color:#cfc" | {{Anchors|た行}}た行
+|-
+|{{THA}}||[[国民議会 (タイ)|国民議会]]&lt;br/&gt;&lt;small&gt;{{lang-th|รัฐสภา}}&lt;/small&gt;||[[元老院 (タイ)|元老院]]&lt;br/&gt;&lt;small&gt;{{lang|th|วุฒิสภา}}&lt;/small&gt;||[[人民代表院]]&lt;br/&gt;&lt;small&gt;{{lang|th|สภาผู้แทนราษฎร}}&lt;/small&gt;
+|-
+|{{KOR2}}||[[国会 (大韓民国)|国会]]&lt;br/&gt;&lt;small&gt;{{lang-ko|국회}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{TJK}}||[[最高議会 (タジキスタン)|最高議会]]&lt;br/&gt;&lt;small&gt;{{Lang-tg|Маҷлиси Олии}}&lt;/small&gt;||国民議会||代表者議会&lt;br/&gt;&lt;small&gt;Маҷлиси намояндагон&lt;/small&gt;
+|-
+|{{TZA}}||[[国民議会 (タンザニア)|国民議会]]&lt;br/&gt;&lt;small&gt;スワヒリ語: Bunge&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{CZE}}||[[チェコの議会|議会]]&lt;br/&gt;&lt;small&gt;{{lang-cs|Parlament České republiky}}&lt;/small&gt;||[[元老院 (チェコ)|元老院]]&lt;br/&gt;&lt;small&gt;{{lang|cs|Senát}}&lt;/small&gt;||[[代議院 (チェコ)|代議院]]&lt;br/&gt;&lt;small&gt;{{lang|cs|Poslanecká sněmovna}}&lt;/small&gt;
+|-
+|{{TCD}}||[[国民議会 (チャド)|国民議会]]&lt;br/&gt;&lt;small&gt;フランス語: Assemblée Nationale&lt;br/&gt;アラビア語: الجمعية الوطنية لتشاد&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{CAF}}||[[国民議会 (中央アフリカ)|国民議会]]&lt;br/&gt;&lt;small&gt;フランス語: Assemblée Nationale&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{CHN}}||[[全国人民代表大会]]&lt;br/&gt;&lt;small&gt;{{ピン音|Quánguó Rénmín Dàibiǎo Dàhuì}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{TUN}}||[[人民議会 (チュニジア)|人民議会]]&lt;br/&gt;&lt;small&gt;アラビア語: مجلس نواب الشعب&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{PRK2}}||[[最高人民会議]]&lt;br/&gt;&lt;small&gt;{{lang-ko|최고인민회의}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{CHL}}||[[国民議会 (チリ)|国民議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Congreso Nacional&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Senado&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;Cámara de Diputados&lt;/small&gt;
+|-
+|{{TUV}}||[[ツバル議会|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-tvl|Fale i Fono}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{DNK}}||[[フォルケティング|国民議会]]&lt;br/&gt;&lt;small&gt;{{Lang-da|Folketing}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{DEU}}||[[ドイツの議会|議会]]&lt;ref group="注" name="規定なし"/&gt;&lt;br/&gt;&lt;small&gt;ドイツ語: Parlament||[[連邦参議院]]&lt;br/&gt;&lt;small&gt;Bundesrat&lt;/small&gt;||[[ドイツ連邦議会|連邦議会]]&lt;br/&gt;&lt;small&gt;Bundestag&lt;/small&gt;
+|-
+|{{TGO}}||[[国民議会 (トーゴ)|国民議会]]&lt;br/&gt;&lt;small&gt;フランス語: Assemblée Nationale&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{DOM}}||[[共和国議会 (ドミニカ共和国)|共和国議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Congreso Nacional de la República&lt;/small&gt;||[[元老院 (ドミニカ共和国)|元老院]]&lt;br/&gt;&lt;small&gt;Senado&lt;/small&gt;||[[代議院 (ドミニカ共和国)|代議院]]&lt;br/&gt;&lt;small&gt;Cámara de Diputados&lt;/small&gt;
+|-
+|{{DMA}}||[[ドミニカ国議会|議会]]&lt;br/&gt;&lt;small&gt;英語: House of Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{TTO}}||[[共和国議会 (トリニダード・トバゴ)|共和国議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament of the Republic&lt;/small&gt;||[[元老院 (トリニダード・トバゴ)|元老院]]&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||[[代議院 (トリニダード・トバゴ)|代議院]]&lt;br/&gt;&lt;small&gt;House of Representatives&lt;/small&gt;
+|-
+|{{TKM}}||[[トルクメニスタン議会|議会]]&lt;br/&gt;{{Lang-tk|Mejilis}}
+|colspan="2"|一院制
+|-
+|{{TUR}}||[[トルコ大国民議会|大国民議会]]&lt;br/&gt;{{lang-tr|Türkiye Büyük Millet Meclisi}}
+|colspan="2"|一院制
+|-
+|{{TON}}||[[立法議会 (トンガ)|立法議会]]&lt;br/&gt;&lt;small&gt;[[トンガ語 (ポリネシア)|トンガ語]]: Fale Alea&lt;/small&gt;
+|colspan="2"|一院制
+|-
+! colspan="4" style="text-align:left; background-color:#cfc" | {{Anchors|な行}}な行
+|-
+|{{NGA}}||[[国民議会 (ナイジェリア)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: National Assembly&lt;/small&gt;||[[元老院 (ナイジェリア)|元老院]]&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||[[代議院 (ナイジェリア)|代議院]]&lt;br/&gt;&lt;small&gt;House of Representatives&lt;/small&gt;
+|-
+|{{NRU}}||[[ナウル議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{NAM}}||[[ナミビア議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;||[[国民評議会 (ナミビア)|国民評議会]]&lt;br/&gt;&lt;small&gt;National Council&lt;/small&gt;||[[国民議会 (ナミビア)|国民議会]]&lt;br/&gt;&lt;small&gt;National Assembly&lt;/small&gt;
+|-
+|{{NIC}}||[[国民議会 (ニカラグア)|国民議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Asamblea Nacional&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{NER}}||[[国民議会 (ニジェール)|国民議会]]&lt;br/&gt;&lt;small&gt;フランス語: Assemblée nationale&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{JPN}}||[[国会 (日本)|国会]]||[[参議院]]||[[衆議院]]
+|-
+|{{NZL}}||[[代議院 (ニュージーランド)|代議院]]&lt;br/&gt;&lt;small&gt;英語: House of Representatives&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{NPL}}||[[連邦議会 (ネパール)|連邦議会]]&lt;br/&gt;&lt;small&gt;{{lang-ne|नेपालको संसद}}&lt;/small&gt;||[[国民議会 (ネパール)|国民議会]]&lt;br/&gt;&lt;small&gt;{{Lang|ne|राष्ट्रिय सभा}}&lt;/small&gt;||[[代議院 (ネパール)|代議院]]&lt;br/&gt;&lt;small&gt;{{Lang|ne|प्रतिनिधि सभा}}&lt;/small&gt;
+|-
+|{{NOR}}||[[ストーティング|国会]]&lt;br/&gt;&lt;small&gt;{{Lang-no|Stortinget}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+! colspan="4" style="text-align:left; background-color:#cfc" | {{Anchors|は行}}は行
+|-
+|{{BHR}}||[[国民議会 (バーレーン)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: National Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{HTI}}|||[[ハイチ議会|議会]]&lt;br/&gt;&lt;small&gt;フランス語: Parlement&lt;/small&gt;||[[元老院 (ハイチ)|元老院]]&lt;br/&gt;&lt;small&gt;Senat&lt;/small&gt;||[[代議院 (ハイチ)|代議院]]&lt;br/&gt;&lt;small&gt;Chambre des députés&lt;/small&gt;
+|-
+|{{PAK}}||[[パキスタンの国会|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-ur|مجلسِ شورىٰ}}&lt;/small&gt;||[[元老院 (パキスタン)|元老院]]&lt;br/&gt;&lt;small&gt;{{lang|ur|ایوانِ بالا پاکستان}}&lt;/small&gt;||[[国民議会 (パキスタン)|国民議会]]&lt;br/&gt;&lt;small&gt;{{Lang|ur|قومی اسمبلئ پاکستان}}&lt;/small&gt;
+|-
+|{{VAT}}||[[バチカン市国委員会|委員会]]&lt;br/&gt;&lt;small&gt;{{Lang-la|Pontifical Commission}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{PAN}}||[[国民議会 (パナマ)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: National Assembly&lt;br/&gt;スペイン語: Asamblea Nacional&lt;/small&gt; 
+|colspan="2"|一院制
+|-
+|{{VUT}}||[[バヌアツ議会|議会]]&lt;br/&gt;&lt;small&gt;ビスラマ語: Palamen&lt;br/&gt;英語: Parliament&lt;br/&gt;フランス語: Parlement&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{BHS}}||[[バハマ議会|バハマ]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;||[[元老院 (バハマ)|元老院]]&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||[[代議院 (バハマ)|代議院]]&lt;br/&gt;&lt;small&gt;House of Assembly&lt;/small&gt;
+|-
+|{{PNG}}||[[国会 (パプアニューギニア)|国会]]&lt;br/&gt;&lt;small&gt;英語: National Parliament&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{PLW}}||[[国民議会 (パラオ)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: {{lang|en|National Congress}}&lt;br/&gt;{{Lang-pau|Olbiil era Kelulau}}&lt;/small&gt;||[[元老院 (パラオ)|元老院]]&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||[[代議院 (パラオ)|代議院]]&lt;br/&gt;&lt;small&gt;House of Delegates&lt;/small&gt;
+|-
+|{{PRY}}||[[共和国議会 (パラグアイ)|共和国議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Congreso de la República&lt;/small&gt;||[[元老院 (パラグアイ)|元老院]]&lt;br/&gt;&lt;small&gt;Senado&lt;/small&gt;||[[代議院 (パラグアイ)|代議院]]&lt;br/&gt;&lt;small&gt;Cámara de Diputados&lt;/small&gt;
+|-
+|{{BRB}}||[[バルバドス議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;||[[元老院 (バルバドス)|元老院]]&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||[[代議院 (バルバドス)|代議院]]&lt;br/&gt;&lt;small&gt;House of Assembly&lt;/small&gt;
+|-
+|{{HUN}}||[[国民議会 (ハンガリー)|国民議会]]&lt;br/&gt;&lt;small&gt;{{lang-hu|Országgyűlés}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{BGD}}||[[国会 (バングラデシュ)|国会]]&lt;br/&gt;&lt;small&gt;{{lang-bn|জাতীয় সংসদ}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{TLS}}||[[国民議会 (東ティモール)|国民議会]]&lt;br/&gt;&lt;small&gt;[[テトゥン語]]: [[Parlamentu Nasionál]]&lt;br/&gt;ポルトガル語: Parlamento Nacional&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{FJI}}||[[フィジー議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{PHI}}||[[フィリピンの国会|議会]]&lt;br/&gt;&lt;small&gt;英語: {{Lang|en|Congress}}&lt;br/&gt;{{Lang-tl|Kongreso}}&lt;/small&gt;||[[元老院 (フィリピン)|元老院]]&lt;br/&gt;&lt;small&gt;英語: Senate&lt;br/&gt;タガログ語: Senado&lt;/small&gt;||[[代議院 (フィリピン)|代議院]]&lt;br/&gt;&lt;small&gt;英語: House of Assembly&lt;br/&gt;タガログ語: Kapulungan Mga Kinatawan&lt;/small&gt;
+|-
+|{{FIN}}||[[エドゥスクンタ|議会]]&lt;br/&gt;&lt;small&gt;{{lang-fi|Eduskunta}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{BTN}}||[[ブータンの国会|国会]]&lt;br/&gt;&lt;small&gt;{{lang-dz|སྤྱི་ཚོགས།}}&lt;/small&gt;||[[国家評議会 (ブータン)|国家評議会]]&lt;br/&gt;&lt;small&gt;{{lang|dz|རྒྱལ་ཡོངས་ཚོགས་སྡེ།}}&lt;/small&gt;||[[国民議会 (ブータン)|国民議会]]&lt;br/&gt;&lt;small&gt;{{lang|dz|རྒྱལ་ཡོངས་ཚོགས་འདུ།}}&lt;/small&gt;
+|-
+|{{BRA}}||[[国民会議 (ブラジル)|国民議会]]&lt;br/&gt;&lt;small&gt;ポルトガル語: {{lang|pt|Congresso Nacional}}&lt;/small&gt;||[[連邦元老院 (ブラジル)|連邦元老院]]&lt;br/&gt;&lt;small&gt;{{lang|pt|Senado Federal}}&lt;/small&gt;||[[代議院 (ブラジル)|代議院]] &lt;br/&gt;&lt;small&gt;{{lang|pt|Câmara dos Deputados}}&lt;/small&gt;
+|-
+|{{FRA}}||[[フランスの国会|国会]]&lt;br/&gt;&lt;small&gt;フランス語: {{lang|fr|Parlement français}}&lt;/small&gt;||[[元老院 (フランス)|元老院]]&lt;br/&gt;&lt;small&gt;{{lang|fr|Sénat}}&lt;/small&gt;||[[国民議会 (フランス)|国民議会]]&lt;br/&gt;&lt;small&gt;{{lang|fr|Assemblée nationale}}&lt;/small&gt;
+|-
+|{{BUL}}||[[国民議会 (ブルガリア)|国民議会]]&lt;br/&gt;&lt;small&gt;{{lang-bg|Народно събрание}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{BFA}}||[[国民議会 (ブルキナファソ)|国民議会]]&lt;br/&gt;&lt;small&gt;フランス語: Assemblée nationale&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{BRN}}||[[立法評議会 (ブルネイ)|立法評議会]]&lt;br/&gt;&lt;small&gt;{{Lang-ms|Majlis Mesyuarat Negara}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{BDI}}||[[ブルンジ議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;||[[元老院 (ブルンジ)|元老院]]&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||[[国民議会 (ブルンジ)|国民議会]]&lt;br/&gt;&lt;small&gt;National Assembly&lt;/small&gt;
+|-
+|{{VIE}}||[[国会 (ベトナム)|国会]]&lt;br/&gt;&lt;small&gt;{{Lang-vi|Quốc hội}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{BEN}}||[[国民議会 (ベナン)|国民議会]]&lt;br/&gt;&lt;small&gt;フランス語: Assemblée nationale&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{VEN}}||[[国民議会 (ベネズエラ)|国民議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Asamblea Nacional&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{BLR}}||[[国民議会 (ベラルーシ)|国民議会]]&lt;br/&gt;&lt;small&gt;{{Lang-be|Народна скупштина}}&lt;/small&gt;||共和国院&lt;br/&gt;&lt;small&gt;Савет Рэспублікі&lt;/small&gt;||代表者院&lt;br/&gt;&lt;small&gt;Палата Прадстаўнікоў&lt;/small&gt;
+|-
+|{{BLZ}}||[[国民議会 (ベリーズ)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: National Assembly&lt;/small&gt;||[[元老院 (ベリーズ)|元老院]]&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||[[代議院 (ベリーズ)|代議院]]&lt;br/&gt;&lt;small&gt;House of Representatives&lt;/small&gt;
+|-
+|{{PER}}||[[ペルー共和国議会|共和国議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Congreso de la República&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{BEL}}||連邦議会&lt;br /&gt;&lt;small&gt;フランス語：Parlement fédéral&lt;br /&gt;オランダ語：Federaal Parlement&lt;br /&gt;ドイツ語：Föderale Parlament&lt;/small&gt;||[[元老院 (ベルギー)|元老院]]&lt;br /&gt;&lt;small&gt;仏語: Sénat&lt;br /&gt;蘭語: Senaat&lt;br /&gt;独語: Senaat&lt;/small&gt;||[[代議院 (ベルギー)|代議院]]&lt;br /&gt;&lt;small&gt;仏語: Chambre des Représentants&lt;br /&gt;蘭語: Kamer van Volksvertegenwoordigers&lt;br /&gt;独語: Abgeordnetenkammer&lt;/small&gt;
+|-
+|{{POL}}||[[国会 (ポーランド)|国会]]&lt;br/&gt;&lt;small&gt;{{Lang-pl|Zgromadzenie Narodowe}}&lt;/small&gt;||[[ポーランド共和国上院|元老院]]&lt;br/&gt;&lt;small&gt;Senat Rzeczypospolitej Polskiej&lt;/small&gt;||[[ポーランド共和国下院|代議院]]&lt;br/&gt;&lt;small&gt;Sejm Rzeczypospolitej Polskiej&lt;/small&gt;
+|-
+|{{BIH}}||[[ボスニア・ヘルツェゴビナ議会|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-bs|Parlamentarna}}&lt;/small&gt;||民族院&lt;br/&gt;&lt;smallDom naroda&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;Predstavnički Dom&lt;/small&gt;
+|-
+|{{BWA}}||[[国民議会 (ボツワナ)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: National Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{BOL}}||[[多民族立法評議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Asamblea Legislativa Plurinacional&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Senado&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;Cámara de Diputados&lt;/small&gt;
+|-
+|{{PRT}}||[[共和国議会 (ポルトガル)|共和国議会]]&lt;br/&gt;&lt;small&gt;ポルトガル語: {{lang|pt|Assembleia da República}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{HND}}||[[国民議会 (ホンジュラス)|国民議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Congreso Nacional&lt;/small&gt;
+|colspan="2"|一院制
+|-
+! colspan="4" style="text-align:left; background-color:#cfc" | {{Anchors|ま行}}ま行
+|-
+|{{MHL}}||[[ニティジェラ|議会]]&lt;br/&gt;&lt;small&gt;{{lang-mh|Nitijeļā}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MKD}}||[[マケドニア議会|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-mk|Собрание}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MDG}}||[[マダガスカル議会|議会]]&lt;br/&gt;&lt;small&gt;フランス語: Parlement&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Parlement&lt;/small&gt;||国民議会&lt;br/&gt;&lt;small&gt;Assemblée Nationale&lt;/small&gt;
+|-
+|{{MWI}}||[[国民議会 (マラウイ)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: National Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MLI}}||[[国民議会 (マリ)|国民議会]]&lt;br/&gt;&lt;small&gt;フランス語: Assemblée nationale&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MLT}}||[[代議院 (マルタ)|代議院]]&lt;br /&gt;&lt;small&gt;{{Lang-mt|Karma tad-Deputati}}&lt;/small&gt;&lt;br /&gt;&lt;small&gt;英語：House of Representatives&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MYS}}||[[マレーシアの国会|議会]]&lt;br/&gt;&lt;small&gt;{{lang-ms|Parlimen}}&lt;/small&gt;||[[元老院 (マレーシア)|元老院]]&lt;br/&gt;&lt;small&gt;{{Lang|mt|Dewan Negara}}&lt;/small&gt;||[[代議院 (マレーシア)|代議院]]&lt;br/&gt;&lt;small&gt;Dewan Rakyat&lt;/small&gt;
+|-
+|{{FSM}}||[[連邦議会 (ミクロネシア連邦)|連邦議会]]&lt;br/&gt;&lt;small&gt;英語: Congress of the Federated States&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{ZAF}}||[[南アフリカ共和国の議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;||[[全国州評議会]]&lt;br/&gt;&lt;small&gt;National Council of Provinces&lt;/small&gt;||[[国民議会 (南アフリカ)|国民議会]]&lt;br/&gt;&lt;small&gt;National Assembly&lt;/small&gt;
+|-
+|{{SSD}}||[[国民議会 (南スーダン)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: National Legislature&lt;br/&gt;アラビア語: التشريعية الوطنية في جنوب السودان&lt;/small&gt;||全国州評議会&lt;br/&gt;&lt;small&gt;英語: Council of States&lt;br/&gt;アラビア語: مجلس الولايات&lt;/small&gt;||国民立法議会&lt;br/&gt;&lt;small&gt;英語: National Legislative Assembly&lt;br/&gt;アラビア語: المجلس التشريعي الوطني&lt;/small&gt;
+|-
+|{{MMR}}||[[連邦議会 (ミャンマー)|連邦議会]]&lt;br/&gt;&lt;small&gt;{{Lang-my|ပြည်ထောင်စု လွှတ်တော်}}&lt;/small&gt;||民族代表院&lt;br/&gt;&lt;small&gt;အမျိုးသားလွှတ်တော်&lt;/small&gt;||人民代表院&lt;br/&gt;&lt;small&gt;ပြည်သူ့ လွှတ်တော်&lt;/small&gt;
+|-
+|{{MEX}}||[[連邦議会 (メキシコ)|連邦議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Congreso de la Unión&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Senado&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;Chamber of Deputies&lt;/small&gt;
+|-
+|{{MUS}}||[[国民議会 (モーリシャス)|国民議会]]&lt;br/&gt;&lt;small&gt;英語: National Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MRT}}||[[国民議会 (モーリタニア)|国民議会]]&lt;br/&gt;&lt;small&gt;アラビア語: الجمعية الوطنية&lt;br/&gt;フランス語: Assemblée Nationale&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MOZ}}||[[共和国議会 (モザンビーク)|共和国議会]]&lt;br/&gt;&lt;small&gt;ポルトガル語: Assembleia da República&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MCO}}||[[国民議会 (モナコ)|国民議会]]&lt;br/&gt;&lt;small&gt;フランス語: Conseil National&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MDV}}||[[国民議会 (モルディブ)|国民議会]]&lt;br/&gt;&lt;small&gt;{{Lang-dv| ރައްޔިތުންގެ މަޖިލިސް}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MDA}}||[[モルドバ共和国議会|共和国議会]]&lt;br/&gt;&lt;small&gt;{{Lang-ro|Parlamentul Republicii Moldova}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MAR}}||[[モロッコ議会|議会]]&lt;br/&gt;&lt;small&gt;フランス語: Parlement du Maroc&lt;/small&gt;||参議院&lt;br/&gt;&lt;small&gt;仏語: Chambre des conseillers&lt;br/&gt;ベルベル語: Agraw en imessemtiren&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;仏語: Chambre des représentants&lt;br/&gt;ベルベル語: Agraw n imarayen&lt;/small&gt;
+|-
+|{{MNG}}||[[国民大会議]]&lt;br/&gt;&lt;small&gt;{{lang-mn|Улсын Их Хурал}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MNE}}||[[モンテネグロ議会|議会]]&lt;br/&gt;&lt;small&gt;[[モンテネグロ語]]: Скупштина Црне Горе&lt;/small&gt;
+|colspan="2"|一院制
+|-
+! colspan="4" style="text-align:left; background-color:#cfc" | {{Anchors|や行}}や行
+|-
+|{{JOR}}||[[ヨルダンの議会|議会]]&lt;br/&gt;&lt;small&gt;アラビア語: مجلس الأمة&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;مجلس الأعيان&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;مجلس النواب&lt;/small&gt;
+|-
+! colspan="4" style="text-align:left; background-color:#cfc" | {{Anchors|ら行}}ら行
+|-
+|{{LAO}}||[[国民議会 (ラオス)|国民議会]]&lt;br/&gt;&lt;small&gt;{{Lang-lo|ສະພາແຫ່ງຊາດ}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{LVA}}||[[サエイマ|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-lv|Saeima}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{LTU}}||[[セイマス|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-lt|lang-lt|Seimas}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{LBY}}||[[代議院 (リビア)|代議院]]&lt;br/&gt;&lt;small&gt;アラビア語: مجلس النواب&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{LIE}}||[[国会 (リヒテンシュタイン)|国会]]&lt;br/&gt;&lt;small&gt;ドイツ語: Landtag&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{LBR}}||[[リベリア議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Legislature&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;House of Representatives&lt;/small&gt;
+|-
+|{{ROM}}||[[ルーマニアの議会|議会]]&lt;br /&gt;&lt;small&gt;ルーマニア語: Parlamentul&lt;/small&gt;||[[元老院 (ルーマニア)|元老院]]&lt;br /&gt;&lt;small&gt;Senatul&lt;/small&gt;||[[代議院 (ルーマニア)|代議院]]&lt;br /&gt;&lt;small&gt;Camera Deputaţilor&lt;/small&gt;
+|-
+|{{LUX}}||[[代議院 (ルクセンブルク)|代議院]]&lt;br/&gt;&lt;small&gt;フランス語: Chambre des Députés&lt;br /&gt;ドイツ語: Abgeordnetenkammer&lt;br /&gt;[[ルクセンブルク語]]: Châmber vun Députéirten&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{RWA}}||[[ルワンダ議会|議会]]&lt;br/&gt;&lt;small&gt;フランス語: {{Lang|fr|Parlement du Rwanda}}&lt;br/&gt;{{Lang-rw|Inteko Ishinga Amategeko}}&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;仏語: Sénat&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;仏語: Chambre des Députés&lt;br/&gt;ルワンダ語: Umutwe w'Abadepite&lt;/small&gt;
+|-
+|{{LSO}}|||[[レソト王国議会|王国議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament of the kingdom&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||国民議会&lt;br/&gt;&lt;small&gt;National Assembly&lt;/small&gt;
+|-
+|{{LBN}}||[[国民議会 (レバノン)|国民議会]]&lt;br/&gt;&lt;small&gt;アラビア語: مجلس النواب&lt;br/&gt;フランス語: Chambre des députés&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{RUS}}||[[ロシア連邦議会|連邦議会]]&lt;br/&gt;&lt;small&gt;{{lang-ru|Федеральное Собрание}}&lt;/small&gt;||[[連邦会議]]&lt;br/&gt;&lt;small&gt;{{lang|ru|Совет Федерации}}&lt;/small&gt;||[[国家会議]]&lt;br/&gt;&lt;small&gt;{{lang|ru|Государственная дума}}&lt;/small&gt;
+|}
+
+=== 国際連合に加盟していない国の立法府 ===
+{| class="wikitable"
+!style="width:25%"|国名!!style="width:30%"|立法府の名称!!style="width:20%"|上院!!style="width:25%"|下院
+|-
+|{{Flagicon|アブハジア}} [[アブハジア]]||[[人民議会 (アブハジア)|人民議会]]&lt;br/&gt;&lt;small&gt;{{lang-ab|жәлар реизара}}&lt;br/&gt;グルジア語: {{lang|ka|რესპუბლიკის სახალხო კრება}}&lt;br/&gt;ロシア語: {{lang|ru|Народное Собрание Республики}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{Flagicon|アルツァフ}} [[アルツァフ]]||[[国民議会 (アルツァフ)|国民議会]]&lt;br/&gt;&lt;small&gt;アルメニア語: Ազգային ժողով&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{Flagicon|沿ドニエストル共和国}} [[沿ドニエストル共和国]]||[[沿ドニエストル共和国の議会|最高会議]]&lt;br/&gt;&lt;small&gt;ロシア語: Верховный Совет&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{TRNC}}||[[共和国議会 (北キプロス)|共和国議会]]&lt;br/&gt;&lt;small&gt;トルコ語: Cumhuriyet Meclisi&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{COK}}||[[クック諸島議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{KOS}}||[[コソボ議会|議会]]&lt;br/&gt;&lt;small&gt;アルバニア語: Kuvendi&lt;br/&gt;セルビア語: Скупштина&lt;/small&gt; 
+|colspan="2"|一院制
+|-
+|{{EH}}||[[サハラ国民評議会|国民評議会]]&lt;br/&gt;&lt;small&gt;アラビア語: المجلس الوطني الصحراوي&lt;br/&gt;スペイン語: Consejo Nacional&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{Flagicon|ソマリランド}} [[ソマリランド]]||[[ソマリランド議会|議会]]&lt;br/&gt;&lt;small&gt;ソマリ語: Baarlamaanka&lt;br/&gt;アラビア語: البرلمان في ارض الصومال&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;ソマリ語: Golaha Guurtida&lt;br/&gt;アラビア語: أرض الصومال برلمان&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;ソマリ語: Golaha Wakiilada&lt;br/&gt;アラビア語: أرض الصومال برلمان&lt;/small&gt;
+|-
+|{{ROC}}||[[立法院 (中華民国)|立法院]]&lt;br/&gt;&lt;small&gt;{{注音|ㄌㄧˋㄈㄚˇㄩㄢˋ}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{NIU}}||[[ニウエ議会|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-niu|Fono Ekepule}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{PSE}}||[[立法評議会 (パレスチナ)|立法評議会]]&lt;br/&gt;&lt;small&gt;アラビア語: المجلس التشريعي الفلسطيني&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{Flagicon|南オセチア}} [[南オセチア]]||[[南オセチア議会|議会]]&lt;br/&gt;&lt;small&gt;ロシア語: Парламент&lt;/small&gt;
+|colspan="2"|一院制
+|}
+
+=== 海外領土・自治領の立法府 ===
+{| class="wikitable"
+!style="width:25%"|領名!!style="width:30%"|立法府の名称!!style="width:20%"|上院!!style="width:25%"|下院
+|-
+|{{ABW}}||[[アルバ議会|議会]]&lt;br/&gt;&lt;small&gt;オランダ語: Staten&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{AIA}}||[[アンギラ議会|議会]]&lt;br/&gt;&lt;small&gt;英語: House of Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{VIR}}||[[アメリカ領ヴァージン諸島議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Legislature&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|[[アメリカ合衆国の州]]||州議会&lt;br/&gt;&lt;small&gt;英語: State Legislature&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{VGB}}||[[イギリス領ヴァージン諸島議会|議会]]&lt;br/&gt;&lt;small&gt;英語: House of Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{WAL}}||[[ウェールズ議会|議会]]&lt;br/&gt;&lt;small&gt;英語: {{lang|en|National Assembly}}&lt;br/&gt;{{lang-cy|Cynulliad Cenedlaethol}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{WLF}}||[[ウォリス・フツナ地域議会|地域議会]]&lt;br/&gt;&lt;small&gt;フランス語: Assemblée territoriale&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{ALA}}||[[ラグティング|議会]]&lt;br/&gt;&lt;small&gt;スウェーデン語: Lagting&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{GGY}}||[[ガーンジー議会|議会]]&lt;br/&gt;&lt;small&gt;英語: States&lt;br/&gt;フランス語: États&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{NIR}}||[[北アイルランド議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Assembly&lt;br/&gt;アイルランド語: Tionól Thuaisceart&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MNP}}||[[自治連邦議会 (北マリアナ諸島)|自治連邦議会]]&lt;br/&gt;&lt;small&gt;英語: Commonwealth Legislature&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;House of Representatives&lt;/small&gt;
+|-
+|{{CUW}}||[[キュラソー議会|議会]]&lt;br/&gt;&lt;small&gt;オランダ語: Staten&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{GUM}}||[[グアム議会|議会]]&lt;br/&gt;&lt;small&gt;英語: {{Lang|en|Legislature}}&lt;br/&gt;{{Lang-ch|Liheslaturan}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{GRL}}||[[ランスティング (グリーンランド)|議会]]&lt;br/&gt;&lt;small&gt;デンマーク語: Landsting&lt;br/&gt;{{lang-kl|Inatsisartut}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{CYM}}||[[立法議会 (ケイマン諸島)|立法議会]]&lt;br/&gt;&lt;small&gt;英語: Legislative Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{ASM}}||[[アメリカ領サモア議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Legislature&lt;br/&gt;{{Lang-sm|Fono}}&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;House of Representatives&lt;/small&gt;
+|-
+|{{BLM}}||[[地域評議会 (サン・バルテルミー)|地域評議会]]&lt;br/&gt;&lt;small&gt;フランス語: Territorial Council&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{SPM}}||[[地域評議会 (サンピエール・ミクロン)|地域評議会]]&lt;br/&gt;&lt;small&gt;フランス語: Territorial Council&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MAF}}||[[サン・マルタン議会|議会]]&lt;br/&gt;&lt;small&gt;オランダ語: Staten&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{GIB}}||[[ジブラルタル議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{JEY}}||[[ジャージー議会|議会]]&lt;br/&gt;&lt;small&gt;フランス語: États&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{SXM}}||[[シント・マールテン議会|議会]]&lt;br/&gt;&lt;small&gt;オランダ語: Staten&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{SCO}}||[[スコットランド議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;br/&gt;{{Lang-gd|Pàrlamaid}}&lt;br/&gt;{{Lang-sco|Pairliament}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{SHN}}||[[立法評議会 (セントヘレナ)|立法評議会]]&lt;br/&gt;&lt;small&gt;英語: Legislative Council&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{TCA}}||[[タークス・カイコス諸島議会|議会]]&lt;br/&gt;&lt;small&gt;英語: House of Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{TKL}}||[[トケラウ議会|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-tkl|Fono}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{NCL}}||[[ニューカレドニア議会|議会]]&lt;br/&gt;&lt;small&gt;フランス語: Congrès&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{BMU}}||[[バミューダ諸島議会|議会]]&lt;br/&gt;&lt;small&gt;英語: Parliament&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Senate&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;House of Representatives&lt;/small&gt;
+|-
+|{{PCN}}||[[諸島評議会 (ピトケアン諸島)|諸島評議会]]&lt;br/&gt;&lt;small&gt;英語: Island Council&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{PRI}}|||[[立法議会 (プエルトリコ)|立法議会]]&lt;br/&gt;&lt;small&gt;スペイン語: Asamblea Legislativa&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Senado&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;Cámara de Representantes&lt;/small&gt;
+|-
+|{{FRO}}||[[レクティング|議会]]&lt;br/&gt;&lt;small&gt;{{lang-fo|Løgting}}&lt;br/&gt;デンマーク語: {{lang|da|Lagtinget}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{FLK}}||[[立法議会 (フォークランド諸島)|立法議会]]&lt;br/&gt;&lt;small&gt;英語: Legislative Assembly&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{PYF}}||[[フランス領ポリネシア議会|議会]]&lt;br/&gt;&lt;small&gt;フランス語: Assemblée&lt;br/&gt;{{Lang-ty|Te âpooraa rahi o te fenua Māòhi}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{HKG}}||[[香港特別行政区立法会|立法会]]&lt;br/&gt;&lt;small&gt;英語: Legislative Council&lt;br/&gt;{{lang-zh|立法會}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{MAC}}||[[マカオ特別行政区立法会|立法会]]&lt;br/&gt;&lt;small&gt;ポルトガル語: Assembleia Legislativa&lt;br/&gt;中国語: {{lang|zh|立法會}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+|{{IMN}}||[[ティンワルド|議会]]&lt;br/&gt;&lt;small&gt;{{Lang-gv|Tinvaal}}&lt;/small&gt;||立法議会&lt;br/&gt;&lt;small&gt;Yn Choonceil Slattyssagh&lt;/small&gt;||鍵の院&lt;br/&gt;&lt;small&gt;Yn Kiare as Feed&lt;/small&gt;
+|-
+|{{MSR}}||[[立法評議会 (モントセラト)|立法評議会]]&lt;br/&gt;&lt;small&gt;英語: Legislative Council&lt;/small&gt;
+|colspan="2"|一院制
+|}
+
+== 過去に存在した立法府 ==
+{| class="wikitable"
+!style="width:25%"|領名!!style="width:30%"|立法府の名称!!style="width:20%"|上院!!style="width:25%"|下院
+|-
+|{{CSA-3}}||[[アメリカ連合国議会]]&lt;br/&gt;&lt;small&gt;{{Lang-en|Congress of the Confederate States}}&lt;/small&gt;||元老院&lt;br/&gt;&lt;small&gt;Confederate Senate&lt;/small&gt;||代議院&lt;br/&gt;&lt;small&gt;Confederate House of Representatives&lt;/small&gt;
+|-
+|{{DEU1871}}||[[帝国議会 (ドイツ帝国)|帝国議会]]&lt;br/&gt;&lt;small&gt;{{lang-de|Reichstag}}&lt;/small&gt;||連邦参議院&lt;br/&gt;&lt;small&gt;{{lang|de|Bundesrat}}&lt;/small&gt;||帝国議会&lt;br/&gt;&lt;small&gt;{{lang|de|Reichstag}}&lt;/small&gt;
+|-
+|{{DEU1919}}&lt;br/&gt;{{DEU1935}}||[[国会 (ドイツ)|国会]]&lt;br/&gt;&lt;small&gt;ドイツ語: {{lang|de|Reichstag}}&lt;/small&gt;||上院&lt;br/&gt;&lt;small&gt;{{lang|de|Reichsrat}}&lt;/small&gt;||国会&lt;br/&gt;&lt;small&gt;{{lang|de|Reichstag}}&lt;/small&gt;
+|-
+|{{DDR}}||[[人民議会 (東ドイツ)|人民議会]]&lt;ref group="注"&gt;1958年から一院制に移行。&lt;/ref&gt;&lt;br/&gt;&lt;small&gt;ドイツ語: {{lang|de|Volkskammer}}&lt;/small&gt;||参議院&lt;br/&gt;&lt;small&gt;{{lang|de|Landeskammer}}&lt;/small&gt;||人民議会&lt;br/&gt;&lt;small&gt;{{lang|de|Volkskammer}}&lt;/small&gt;
+|-
+|rowspan="7"|{{JPN1889}}||[[議事所]]||上ノ議事所||下ノ議事所
+|-
+|[[議政官]]||上局||下局
+|-
+|[[公議所]]
+|colspan="2"|一院制
+|-
+|[[集議院]]
+|colspan="2"|一院制
+|-
+|[[左院]]
+|colspan="2"|一院制
+|-
+|[[元老院 (日本)|元老院]]
+|colspan="2"|一院制
+|-
+|[[帝国議会]]||[[貴族院 (日本)|貴族院]]||[[大日本帝国憲法#議会制|衆議院]]
+|-
+|-
+|{{MCK}}||[[立法院 (満州国)|立法院]]&lt;ref group="注"&gt;正式には開設されず。&lt;/ref&gt;&lt;br/&gt;&lt;small&gt;{{ピン音|Lìfǎ Yuàn}}&lt;/small&gt;
+|colspan="2"|一院制
+|-
+||{{CSK}}||連邦議会||民族会議||人民議会
+|-
+|{{YUG}}||連邦議会||共和国議会||市民議会
+|-
+|{{LBY1977}}||全国人民会議
+|colspan="2"|一院制
+|-
+|{{RUS1883}}||[[ドゥーマ|議会]]&lt;br/&gt;&lt;small&gt;{{lang-ru|Ду́ма}}&lt;/small&gt;||[[ロシア帝国国家評議会|国家評議会]]&lt;br/&gt;&lt;small&gt;{{lang|ru|Государственный Совет}}&lt;/small&gt;||ドゥーマ&lt;br/&gt;&lt;small&gt;{{lang|ru|Ду́ма}}&lt;/small&gt;
+|-
+|{{SSR}}||[[最高会議]]&lt;br/&gt;&lt;small&gt;ロシア語: {{lang|ru|Верховный}}&lt;/small&gt;||連邦会議&lt;br/&gt;&lt;small&gt;{{lang|ru|Федерации}}&lt;/small&gt;||民族会議&lt;br/&gt;
+|}
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Reflist|group="注"}}
+&lt;!--=== 出典 ===
+{{Reflist}}--&gt;
+
+== 参考文献 ==
+* Boynton, G. R., Kim C. L. eds. 1975. Legislative systems in developing countries. Durham, N.C.: Duke Univ. Press.
+* Fenno, R. F. 1966. the power of the purse: Appropriations politics in congress. Boston: Little, Brown &amp; Co.
+* Fiorina, M. 1977. congress: Keystone of the Washington establishment. New Haven: Yale Univ. Press.
+* Kim, C. L., Barkan, J., Turan, I., Jewell, M. 1984. The legislative connection: The politics of representation in Kenya, Korea, and Turkey. Durham, N.C.: Duke Univ. Press.
+* Loewenberg, G. L., Patterson, S. C. 1979. Comparing Legislatures. Boston: Little, Brown &amp; Co.
+* Loewenberg, G. Patterson, S. C., Jewell, M. E. Handbook of legislative research. Cambridge, Mass.: Harvard Univ. Press.
+* Mayhew, D. R. 1974. Congress: The electoral connection. New Haven: Yale Univ. Press.
+* Musolf, L, D., Smith, J. eds. Legislature in development. Durham, N.C.: Duke Univ. Press.
+* Rae, D. W. 1971. The consequences of electoral laws. New Haven: Yale Univ. Press.
+* Wahlke, J. C., Eulau, H., Buchanan, W., Ferguson, L. C. 1962. The legislative system. New York: John Wiley.
+
+== 関連項目 ==
+* [[議会]]
+** [[地方議会]]
+** [[職能議会]]
+* [[立法]]
+* [[議事堂]]
+* [[立法府の一覧]]
+{{Normdaten}}
+[[Category:立法|*りつほうふ]]</text>
+      <sha1>flz4d7dy9upqr8fpj5tq16na1xjubye</sha1>
+    </revision>
+  </page>
+  

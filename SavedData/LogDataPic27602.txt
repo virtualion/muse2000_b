@@ -1,0 +1,10 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/27602/title_panel.png	-110.57894736842104,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/27602/word_cloud.png	-132.18947368421053,38,140.05894736842106	0,0,1	0,1,0	-1,0,0	98.04126315789473	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/27602/Hyla_japonica_top_ja.jpg	-132.18947368421053,38,138.65835789473684	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/27602/Perereca-macaco - Phyllomedusa rohdei.jpg	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	-53.59473684210526	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/27602/caption/caption1.png	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	-31.594736842105263	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/27602/Chouju sumo2.jpg	132.18947368421053,38,141.47368421052633	0,0,-1	0,1,0	1,0,0	76.26209684210527	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/27602/caption/caption2.png	132.18947368421053,38,141.47368421052633	0,0,-1	0,1,0	1,0,0	98.26209684210527	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/27602/Xenopus laevis.jpg	132.18947368421053,38,141.47368421052633	0,0,-1	0,1,0	1,0,0	-76.26209684210525	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/27602/caption/caption3.png	132.18947368421053,38,141.47368421052633	0,0,-1	0,1,0	1,0,0	-54.26209684210525	-20	1.5	0.7	none(caption)	-1:-1	8

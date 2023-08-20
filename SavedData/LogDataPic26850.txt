@@ -1,0 +1,11 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/26850/title_panel.png	-159.8421052631579,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/26850/word_cloud.png	-180.22105263157894,38,196.95789473684206	0,0,1	0,1,0	-1,0,0	137.87052631578945	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/26850/Hidetoshi Nakata in Okinawa.jpg	-180.22105263157894,38,194.98831578947363	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/26850/Curva sud roma campione.jpg	0,38,392.9210526315789	1,0,0	0,1,0	0,0,1	-105.14736842105262	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/26850/caption/caption1.png	0,38,392.9210526315789	1,0,0	0,1,0	0,0,1	-83.14736842105262	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/26850/Hidetoshi Nakata November 2011.JPG	0,38,392.9210526315789	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/26850/caption/caption2.png	0,38,392.9210526315789	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	6
+7	Images/26850/table/fixed_ゴール.png	180.22105263157894,38,198.9473684210526	0,0,-1	0,1,0	1,0,0	142.99143157894736	-10	0.2	3.1500000000000004	Wooden_thin	-1:-1	7
+8	Images/26850/table/fixed_個人成績.png	180.22105263157894,38,198.9473684210526	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	6.1781250000000005	Wooden_thin	-1:-1	8
+9	Images/26850/table/fixed_日本代表における個人成績.png	180.22105263157894,38,198.9473684210526	0,0,-1	0,1,0	1,0,0	-142.9914315789473	-10	0.2	3.1500000000000004	Wooden_thin	-1:-1	9

@@ -1,0 +1,122 @@
+<page>
+    <title>調号</title>
+    <ns>0</ns>
+    <id>27066</id>
+    <revision>
+      <id>90503107</id>
+      <parentid>80501435</parentid>
+      <timestamp>2022-07-15T20:23:33Z</timestamp>
+      <contributor>
+        <username>ROE100</username>
+        <id>944206</id>
+      </contributor>
+      <comment>tmp</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4680" xml:space="preserve">{{出典の明記|date=2022年7月}}
+'''調号'''（ちょうごう、{{lang-en-short|key signature}}）は、[[西洋音楽]]の[[楽譜]]記譜にあたって用いられる、[[変化記号]]のセットである。主として、[[五線譜|五線]]の最初に置かれる。[[調]]によって、どのように置くかが決まるため、調号(もしくは調子記号)と呼ばれる。
+
+伝統的な西洋音楽においては、調号は[[嬰記号|♯]]または[[変記号|♭]]のどちらかをもっぱら使うか全く使わないかであり、♯と♭を混用することはない。
+
+調号としての♯または♭の個数は、一般に7個までである。♯の調号はヘハトニイホロの順に、♭の調号はロホイニトハヘの順に書くが、これはそれぞれの使用頻度の順である。（また、[[音部記号]]によって、それぞれの記号を五線のどこに書くかが決まっており、ト音記号（ヴァイオリン記号）の最初の♯は、[[五線譜|第1間]]には置かず、'''[[五線譜|第5線]]に'''置く。ただし、古い時代の譜面では、下第1間から上第1間に収まる範囲で、該当する全ての音に調号を付ける記譜法も見られる。例えば、ト音記号でのニ長調なら第1間、第3間と第5線の3箇所に♯を付けるというものである）
+
+これにより、調号は、[[全音階]]を規定する。一方、[[調]]によって使用する全音階は決まっているから、調によって調号は決まる。たとえば、ニ長調の調号(調子記号)はヘとハについて♯(Sharp)である、などである。
+
+調号において、シャープやフラットの効力は、[[オクターブ]]にかかわらず、その五線の同じ[[音名]]のすべての音に及ぶ。
+
+== 一覧 ==
+{|
+|
+{| class="wikitable" style="background:white; text-align:center; margin:0.5em auto"
+|-
+!調号
+!長調
+!短調
+|-
+| align=center|[[File:Treble clef with empty staff.svg|100px|C Major key signature]]&lt;br&gt;{{music|sharp}}{{music|flat}}なし
+| [[ハ長調]]
+| [[イ短調]]
+|}
+{| class="wikitable" style="background:white; text-align:center; margin:0.5em auto"
+|-
+!調号
+!追加する{{music|sharp}}
+!長調
+!短調
+!調号
+!追加する{{music|flat}}
+!長調
+!短調
+|-
+| align=center|[[File:G-major e-minor.svg|100px|G Major key signature]]&lt;br&gt;{{music|sharp}}1個
+| F{{music|sharp}}
+| [[ト長調]]
+| [[ホ短調]]
+| align=center|[[File:F-major d-minor.svg|100px|F Major key signature]]&lt;br&gt;{{music|flat}}1個
+| B{{music|flat}}
+| [[ヘ長調]]
+| [[ニ短調]]
+|-
+| align=center|[[File:D-major b-minor.svg|100px|D Major key signature]]&lt;br&gt;{{music|sharp}}2個
+| C{{music|sharp}}
+| [[ニ長調]]
+| [[ロ短調]]
+| align=center|[[File:B-flat-major g-minor.svg|100px|B-flat Major key signature]]&lt;br&gt;{{music|flat}}2個
+| E{{music|flat}}
+| [[変ロ長調]]
+| [[ト短調]]
+|-
+| align=center|[[File:A-major f-sharp-minor.svg|100px|A Major key signature]]&lt;br&gt;{{music|sharp}}3個
+| G{{music|sharp}}
+| [[イ長調]]
+| [[嬰ヘ短調]]
+| align=center|[[File:E-flat-major c-minor.svg|100px|E-flat Major key signature]]&lt;br&gt;{{music|flat}}3個
+| A{{music|flat}}
+| [[変ホ長調]]
+| [[ハ短調]]
+|-
+| align=center|[[File:E-major c-sharp-minor.svg|100px|E Major key signature]]&lt;br&gt;{{music|sharp}}4個
+| D{{music|sharp}}
+| [[ホ長調]]
+| [[嬰ハ短調]]
+| align=center|[[File:A-flat-major f-minor.svg|100px|A-flat Major key signature]]&lt;br&gt;{{music|flat}}4個
+| D{{music|flat}}
+| [[変イ長調]]
+| [[ヘ短調]]
+|-
+| align=center|[[File:B-major g-sharp-minor.svg|100px|B Major key signature]]&lt;br&gt;{{music|sharp}}5個
+| A{{music|sharp}}
+| [[ロ長調]]
+| [[嬰ト短調]]
+| align=center|[[File:D-flat-major b-flat-minor.svg|100px|D-flat Major key signature]]&lt;br&gt;{{music|flat}}5個
+| G{{music|flat}}
+| [[変ニ長調]]
+| [[変ロ短調]]
+|-
+| align=center|[[File:F-sharp-major d-sharp-minor.svg|100px|F-sharp Major key signature]]&lt;br&gt;{{music|sharp}}6個
+| E{{music|sharp}}
+| [[嬰ヘ長調]]
+| [[嬰ニ短調]]
+| align=center|[[File:G-flat-major e-flat-minor.svg|100px|G-flat Major key signature]]&lt;br&gt;{{music|flat}}6個
+| C{{music|flat}}
+| [[変ト長調]]
+| [[変ホ短調]]
+|-
+| align=center|[[File:C-sharp-major a-sharp-minor.svg|100px|C-sharp Major key signature]]&lt;br&gt;{{music|sharp}}7個
+| B{{music|sharp}}
+| [[嬰ハ長調]]
+| [[嬰イ短調]]
+| align=center|[[File:C-flat-major a-flat-minor.svg|100px|C-flat Major key signature]]&lt;br&gt;{{music|flat}}7個
+| F{{music|flat}}
+| [[変ハ長調]]
+| [[変イ短調]]
+|}
+|}
+{{五度圏}}
+{{Musical notation}}
+[[Category:記譜法|ちようこう]]
+[[Category:調性|ちようこう]]</text>
+      <sha1>m3doom2s1sgfzrmaf9ofr1n37abjvdc</sha1>
+    </revision>
+  </page>
+  

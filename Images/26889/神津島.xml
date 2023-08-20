@@ -1,0 +1,125 @@
+<page>
+    <title>神津島</title>
+    <ns>0</ns>
+    <id>26889</id>
+    <revision>
+      <id>94460963</id>
+      <parentid>91735253</parentid>
+      <timestamp>2023-03-24T05:39:01Z</timestamp>
+      <contributor>
+        <username>反射鏡</username>
+        <id>1827626</id>
+      </contributor>
+      <comment>神津島のweather boxを追加</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9770" xml:space="preserve">{{Infobox 島
+|島名= 神津島
+|画像=[[ファイル:Landsat Kozushima Island.jpg|250px]]
+|画像説明=&lt;small&gt;[[ランドサット]]衛星写真&lt;/small&gt;
+|座標={{Coord|34|13|1|N|139|9|15|E|region:JP-13_type:isle|display=inline,title}}
+|緯度度 = |緯度分 = |緯度秒 = 
+|経度度 = |経度分 = |経度秒 = 
+|面積=18.48
+|周囲=22
+|標高=572
+|最高峰=[[天上山 (東京都)|天上山]]
+|最大都市=
+|諸島=[[伊豆諸島]]
+|海域=[[太平洋]]
+|国={{JPN}} [[東京都]][[神津島村]]
+|地図 =
+|地図2 = Japan
+}}
+
+'''神津島'''（こうづしま）は、[[伊豆諸島]]の[[島]]の一つで、[[活火山]]の[[火山島]]。[[東京都]][[神津島村]]に属する。キャラクターは[[かんむりん]]とかんむりーな。
+
+== 地理 ==
+伊豆諸島の有人島としては最も西にある。本島と最も近い有人島は東北東へ10kmほどにある[[式根島]]。
+
+周辺の島も含め数十個の[[流紋岩]]質単成火山があり「神津島火山群」を成している&lt;ref&gt;{{Cite web|url= https://www2.nsr.go.jp/data/000311387.pdf |title=9.国内外の主な火山現象による津波観測記録一覧表、10.個別火山の津波発生要因に関する調査結果の詳細|accessdate=2022-01-10|website=原子力規制委員会}}&lt;/ref&gt;。島の形はひょうたん型をしており[[天上山 (東京都)|天上山]]（標高572m）を中心とした北部と、秩父山のある南部とに大きく分けられる。
+
+本島のシンボル的存在である天上山は、9世紀の噴火で形成された[[溶岩ドーム]]である。『[[続日本後紀]]』では、[[838年]]（[[承和 (日本)|承和]]5年）に大規模な[[噴火]]をしたことが記録されている。山頂部は比較的に平坦で、ここに「表砂漠」「裏砂漠」と呼ばれる砂地がある。また山頂部では本州では2000m級の高山に生育しているような[[高山植物]]も見られる。
+{{climate chart|神津島
+|6.4|10.7|109.6
+|6.6|11.4|107.7
+|8.3|13.4|198.5
+|12.5|17.4|177.5
+|16.2|20.5|230.5
+|19.4|23.3|230.2
+|22.7|26.5|221.1
+|24.1|28.2|281.4
+|22.0|26.0|195.4
+|17.8|21.9|368.9
+|13.9|18.1|173.7
+|9.0|13.4|129.9
+|float=right
+|clear=both
+|source=[https://www.jma.go.jp/jma/ 気象庁]
+}}
+南部と北部の間の西側の前浜沿いに主な集落がある。島の他の地域には字滝川、字高処山のように字があるが、この地域には字も町名も指定されていない。
+
+[[御蔵島]]や[[青ヶ島]]など伊豆諸島には断崖絶壁に囲まれた島が多い中、神津島は比較的平坦で砂浜海岸が多い。また近海を[[黒潮]]が流れており、観光事業は発足していないが、[[マッコウクジラ]]などの[[鯨類]]もいる。
+
+{{Weather box|location=神津島（2003年 - 2020年）|single line=Y|metric first=Y|Jan record high C=18.1|Feb record high C=19.3|Mar record high C=20.8|Apr record high C=23.2|May record high C=25.6|Jun record high C=28.5|Jul record high C=33.7|Aug record high C=31.8|Sep record high C=31.0|Oct record high C=27.8|Nov record high C=24.1|Dec record high C=22.7|year record high C=33.7|Jan high C=10.6|Feb high C=11.4|Mar high C=13.9|Apr high C=17.4|May high C=20.9|Jun high C=23.3|Jul high C=26.8|Aug high C=28.6|Sep high C=26.3|Oct high C=22.1|Nov high C=18.2|Dec high C=13.4|year high C=19.4|Jan mean C=8.5|Feb mean C=9.1|Mar mean C=11.4|Apr mean C=15.0|May mean C=18.6|Jun mean C=21.2|Jul mean C=24.6|Aug mean C=26.3|Sep mean C=24.1|Oct mean C=20.0|Nov mean C=16.1|Dec mean C=11.2|year mean C=17.2|Jan low C=6.3|Feb low C=6.6|Mar low C=8.7|Apr low C=12.6|May low C=16.4|Jun low C=19.5|Jul low C=23.0|Aug low C=24.5|Sep low C=22.2|Oct low C=18.1|Nov low C=13.9|Dec low C=9.0|year low C=15.1|Jan record low C=-0.8|Feb record low C=-0.6|Mar record low C=1.2|Apr record low C=2.2|May record low C=9.8|Jun record low C=14.0|Jul record low C=17.9|Aug record low C=18.7|Sep record low C=15.3|Oct record low C=11.9|Nov record low C=5.0|Dec record low C=1.0|year record low C=-0.8|Jan precipitation mm=98.5|Feb precipitation mm=128.0|Mar precipitation mm=198.8|Apr precipitation mm=170.5|May precipitation mm=183.4|Jun precipitation mm=262.8|Jul precipitation mm=189.4|Aug precipitation mm=197.1|Sep precipitation mm=208.1|Oct precipitation mm=334.0|Nov precipitation mm=174.4|Dec precipitation mm=126.3|year precipitation mm=2271.3|unit precipitation days=1.0 mm|Jan precipitation days=8.1|Feb precipitation days=9.6|Mar precipitation days=12.1|Apr precipitation days=10.6|May precipitation days=10.1|Jun precipitation days=13.3|Jul precipitation days=9.4|Aug precipitation days=8.2|Sep precipitation days=11.8|Oct precipitation days=12.4|Nov precipitation days=10.9|Dec precipitation days=8.9|year precipitation days=125.3|source 1=[https://www.data.jma.go.jp/obd/stats/etrn/index.php Japan Meteorological Agency ]|source 2=[[気象庁]]&lt;ref&gt;{{Cite web |url= https://www.data.jma.go.jp/obd/stats/etrn/index.php?prec_no=44&amp;block_no=1523&amp;year=&amp;month=&amp;day=&amp;view= |title=神津島 過去の気象データ検索 |accessdate=2023-03-24 |publisher=気象庁}}&lt;/ref&gt;}}
+
+== 歴史 ==
+島名の由来は、伊豆の島々を作るために、神々を集めて話し合う場がこの島であったことから&lt;ref name="profile"&gt;出典: [http://vill.kouzushima.tokyo.jp/profile/ 神津島について] - 神津島村&lt;/ref&gt;。昔は「神集島」と書いた&lt;ref name="profile" /&gt;。
+
+本島は、[[840年]]（承和7年）に[[伊豆国]][[賀茂郡]]上津嶋として名が現れる。
+
+神津島では、砂糠崎（さぬかさき）や沢尻湾、ほか[[恩馳島]]で[[黒曜石]]が産出し、[[後期旧石器時代]]から[[石器]]の材料として採取され、大量に本州に送られた。その流布範囲は広く、東は[[東京都]]、西は[[静岡県]]西部、さらに[[内陸部]]の山梨県[[北杜市]]の[[横針前久保遺跡]]にまで達し、半径約180kmまで拡がっていた。これは同時に旧石器時代の人々が船を使っていたことを示す貴重な間接証拠でもある。採掘は[[縄文時代]]まで続いた。
+
+神話によれば伊豆の島々を造った神様が集まるところということから「神集島」の名が生まれ、それが転訛して神津島といわれる。古文書の中には「神集島」と書かれたものもある。
+
+江戸時代初期、[[キリシタン]]の[[朝鮮民族|朝鮮人]]女性[[ジュリアおたあ]]が流罪になり、神津島で没したという伝説があり、島内には墓所とされるものがある。また、ジュリア祭が毎年行われている。
+
+
+
+
+&lt;gallery&gt;
+File:Sanuka-zaki, Kozushima.JPG|砂糠崎の黒曜石層
+File:Kozushima island.JPG|西方上空より
+&lt;/gallery&gt;
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 関連項目 ==
+* [[名探偵コナン 紺碧の棺]] - [[青山剛昌]]原作の映画「[[名探偵コナン (アニメ)#劇場版シリーズ|名探偵コナン]]シリーズ」の第11弾（[[2007年]]）。作中の舞台である『神海島』のモデルとされている。
+* [[STARHORSE]]シリーズ - [[セガ・インタラクティブ]]の[[競馬]][[メダルゲーム]]。架空のGI競走「[[WORLD BREEDERS' CUP]] TURF」及び「WORLD BREEDERS' CUP」で開催される架空の[[競馬場]]　極東競馬場の舞台であると表現されている。
+* [[On the way to Living Dead]] - [[comico]]に掲載されているライトゾンビ漫画。 サブキャラクター三ノ輪まもるが幼少時代を過ごしたのが神津島とされ、子供時代の回想シーンである91話では神津島の天神橋・ありま展望台・多幸湾などの風景が描かれている。
+* [[コードギアス 反逆のルルーシュ]] - [[サンライズ (アニメ制作会社)|サンライズ]]制作のテレビアニメ。作中に神根島の名称で、ギアスに関連する神殿のある場所として数回登場する。[[式根島]]も登場している。
+* [[天気の子]] - [[新海誠]]監督の劇場版アニメ（2019年）。主人公の出身地とされている。
+*[[ラブライブ!スーパースター!!]] - ライバルグループ、[[ラブライブ!スーパースター!!#Sunny_Passion（サニーパッション）|サニーパッション]]の出身地。
+
+== 外部リンク ==
+{{Commonscat|Kozushima}}
+* [https://www.data.jma.go.jp/svd/vois/data/tokyo/319_Kozushima/319_index.html 神津島] - 気象庁
+*[https://www.data.jma.go.jp/svd/vois/data/tokyo/open-data/open-data.php?id=319 神津島の火山観測データ] 気象庁
+**[https://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/monthly_v-act_doc/monthly_vact_vol.php?id=319 神津島の臨時及び過去の詳細月別火山概況・火山活動解説資料] 気象庁
+**[https://www.data.jma.go.jp/svd/vois/data/tokyo/open-data/data/eq_num_319.html 神津島の最近（２ヶ月間）の日別地震回数表] 気象庁
+* {{PDF|[https://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/souran/main/61_Kozushima.pdf 日本活火山総覧(第4版)Web掲載版 神津島]}} - 気象庁
+* [https://gbank.gsj.jp/volcano/Quat_Vol/volcano_data/G06.html 神津島] - 産業技術総合研究所 地質調査総合センター
+----
+* [http://vill.kouzushima.tokyo.jp/profile/ 神津島について] - 神津島村
+* [https://kozushima.com/ 神津島観光協会]
+----
+*{{Osmrelation|5304189}}
+*{{ウィキトラベル インライン|神津島|神津島}}
+
+{{伊豆・小笠原諸島の島々}}
+{{日本の活火山}}
+{{日本の指定離島}}
+{{Authority control}}
+{{Japan-geo-stub}}
+
+{{DEFAULTSORT:こうつしま}}
+[[Category:伊豆諸島]]
+[[Category:火山島]]
+[[Category:神津島村]]</text>
+      <sha1>t7t2gpf0t7krx6kc5cjfkueyd9mw86j</sha1>
+    </revision>
+  </page>
+  

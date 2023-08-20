@@ -1,0 +1,5 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/27524/title_panel.png	-61.31578947368419,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/27524/word_cloud.png	-84.15789473684208,38,83.16	0,0,1	0,1,0	-1,0,0	58.211999999999996	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/27524/Official portrait of The Lord Archbishop of Canterbury crop 2.jpg	-84.15789473684208,38,82.3284	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/27524/caption/caption0.png	-84.15789473684208,38,82.3284	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23

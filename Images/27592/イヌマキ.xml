@@ -1,0 +1,169 @@
+<page>
+    <title>イヌマキ</title>
+    <ns>0</ns>
+    <id>27592</id>
+    <revision>
+      <id>95517539</id>
+      <parentid>94949434</parentid>
+      <timestamp>2023-06-06T22:46:32Z</timestamp>
+      <contributor>
+        <username>HTinC23</username>
+        <id>571887</id>
+      </contributor>
+      <minor />
+      <comment>曖昧さ回避ページ[[樹脂]]へのリンクを解消、リンク先を[[天然樹脂]]に変更([[User:ネイ/DisamAssist|DisamAssist]]使用)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32794" xml:space="preserve">{{生物分類表
+|名称 = イヌマキ
+|色 = 植物界
+|画像 = [[ファイル:Podocarpus macrophyllus inumaki.JPG|250px]]
+|画像キャプション = '''1'''. イヌマキの葉と"実"
+|status = LC
+|status_ref = &lt;ref name="IUCN"&gt;{{Cite web|author=Farjon, A.|date=2013|url=https://www.iucnredlist.org/species/42517/2984343|title=''Podocarpus macrophyllus''|website=The IUCN Red List of Threatened Species 2013|publisher=IUCN|accessdate=2023-02-18}}&lt;/ref&gt;
+|界 = [[植物界]] {{Sname||Plantae}}
+|門階級なし = [[裸子植物]] {{Sname||gymnosperms}}
+|綱 = [[マツ綱]] {{Sname||Coniferopsida}}
+|目 = [[ヒノキ目]] {{Sname||Cupressales}}{{efn2|name="目"|[[ヒノキ科]]、[[イチイ科]]、[[ナンヨウスギ科]]などとともにヒノキ目に分類されるが&lt;ref name="APweb"&gt;{{Cite web|author=Stevens, P. F.|date=2001 onwards|url=http://www.mobot.org/MOBOT/research/APweb/orders/cupressalesweb.html#Cupressales|title=Cupressales|website=Angiosperm Phylogeny Website|publisher=|accessdate=2023-02-20}}&lt;/ref&gt;、これを細分したナンヨウスギ目（Araucariales）に分類することや&lt;ref name="大橋広好2015" /&gt;&lt;ref name="米倉2013"&gt;{{Cite book|last=米倉浩司・邑田仁|year=2013|title=維管束植物分類表|publisher=北隆館|isbn=978-4832609754|page=44}}&lt;/ref&gt;、逆に[[マツ科]]（および[[グネツム類]]）を加えた広義のマツ目（Pinales）に分類することもある&lt;ref name="大場2009"&gt;{{cite book|author=大場秀章|year=2009|chapter=|editor=|title=植物分類表|publisher=アボック社|isbn=978-4900358614|page=16}}&lt;/ref&gt;。}}
+|科 = [[マキ科]] {{Sname||Podocarpaceae}}
+|属 = [[マキ属]] {{Snamei||Podocarpus}}
+|種 = '''イヌマキ''' {{Snamei||Podocarpus macrophyllus|P. macrophyllus}}
+|学名 = {{Snamei||Podocarpus macrophyllus}} ({{AU|Thunb.}}) {{AUY|Sweet|1818|bio=bot}}&lt;ref name="PWO"&gt;{{Cite web|url=https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:263522-1|title=''Podocarpus macrophyllus''|date=|work=Plants of the World Online|publisher=Kew Botanical Garden|accessdate=2023-02-18}}&lt;/ref&gt;
+|シノニム = 
+* {{Snamei|Margbensonia macrophylla}} ({{AU|Thunb.}}) {{AUY|A.V.Bobrov &amp; Melikyan|1998|bio=bot}}&lt;ref name="PWO" /&gt;
+* {{Snamei|Margbensonia sweetii}} ({{AU|C.Presl}}) {{AUY|A.V.Bobrov &amp; Melikyan|1998|bio=bot}} nom. superfl.&lt;ref name="PWO" /&gt;
+* {{Snamei|Nageia macrophylla}} ({{AU|Thunb.}}) {{AUY|F.Muell.|1883|bio=bot}}&lt;ref name="PWO" /&gt;
+* {{Snamei|Podocarpus sweetii}} {{AUY|C.Presl|1845|bio=bot}} nom. superfl.&lt;ref name="PWO" /&gt;
+* {{Snamei|Taxus macrophylla}} {{AUY|Thunb.|1784|bio=bot}}&lt;ref name="PWO" /&gt;
+|和名 = イヌマキ（犬槇）、クサマキ（草槇、臭槇）&lt;ref name="中川2006" /&gt;&lt;ref name="杉本1987" /&gt;&lt;ref name="コトバンク_草槇"&gt;{{Cite Kotobank|word=草槇|encyclopedia=|accessdate=2023-02-18}}&lt;/ref&gt;、マキ（槇）&lt;ref name="中川2006" /&gt;、ホンマキ（本槇）&lt;ref name="中川2006" /&gt;、サルノキ（猿木）&lt;ref name="コトバンク_猿木"&gt;{{Cite Kotobank|word=猿木|encyclopedia=動植物名よみかた辞典　普及版|accessdate=2023-02-18}}&lt;/ref&gt;
+|英名 = Buddhist pine&lt;ref name="GBIF"&gt;{{Cite web|author=GBIF Secretariat|date=2022|url=https://www.gbif.org/species/5285930|title=''Podocarpus macrophyllus'' (Thunb.) Sweet|website=[https://doi.org/10.15468/39omei GBIF Backbone Taxonomy]|publisher=|accessdate=2023-02-18}}&lt;/ref&gt;, Japanese yew&lt;ref name="GBIF" /&gt;{{efn2|name="Japanese yew"|[[イチイ]]（[[イチイ科]]）も Japanese yew とよばれる&lt;ref name="GBIFtaxus"&gt;{{Cite web|author=GBIF Secretariat|date=2022|url=https://www.gbif.org/species/5284524|title=''Taxus cuspidata'' Siebold &amp; Zucc.|website=[https://doi.org/10.15468/39omei GBIF Backbone Taxonomy]|publisher=|accessdate=2023-02-20}}&lt;/ref&gt;。}}, yew plum pine&lt;ref name="GBIF" /&gt;, big-leaf podocarp&lt;ref name="GBIF" /&gt;
+|下位分類名 = 下位分類
+|下位分類 = {{center|[[#分類|本文参照]]}}
+}}
+'''イヌマキ'''（犬槇、[[学名]]: {{Snamei||Podocarpus macrophyllus}}）は、[[裸子植物]]の[[マキ科]][[マキ属]]に分類される[[常緑]][[針葉樹]]の1種である。葉は細長いが扁平で中央脈が明瞭（図1）。[[種子]]は鱗片が発達した套皮で包まれ、また柄の部分が赤く多肉質になる（図1）。[[日本]]の[[関東地方]]から[[台湾]]、中国南部など暖地に分布する。植栽されて庭木や生垣、防風林とされることがあり、また材が重用される。真木、槇（まき; [[スギ]]または[[コウヤマキ]]のこととされる）に対して劣るものという意味でイヌマキの名がついたとされることが多いが、イヌマキを'''マキ'''とよぶこともある。
+
+== 特徴 ==
+[[常緑性]]の[[高木]]であり、直立性、高さ20[[メートル]] (m)、幹の直径80[[センチメートル]] (cm) になる&lt;ref name="大橋広好2015"&gt;{{cite book|author=大橋広好|year=2015|chapter=マキ科|editor=大橋広好, 門田裕一, 邑田仁, 米倉浩司, 木原浩 (編)|title=改訂新版 日本の野生植物 1|publisher=平凡社|isbn=978-4582535310|page=34}}&lt;/ref&gt;&lt;ref name="中川2006"&gt;{{cite book|author=中川重年|year=2006|chapter=イヌマキ|editor=|title=樹に咲く花 離弁花1|publisher=山と渓谷社|isbn=4-635-07003-4|pages=648–649}}&lt;/ref&gt;&lt;ref name="杉本1987"&gt;{{Cite book|author=杉本順一|translator=|year=|chapter=イヌマキ|editor=|title=世界の針葉樹|publisher=井上書店|ncid=BN01674934|pages=138–139}}&lt;/ref&gt;&lt;ref name="馬場1999"&gt;{{cite book|author=馬場多久男|year=1999|chapter=イヌマキ|editor=|title=葉でわかる樹木 625種の検索|publisher=信濃毎日新聞社|isbn=978-4784098507|page=119}}&lt;/ref&gt;&lt;ref name="FOC"&gt;{{Cite web|author=Flora of China Editorial Committee|date=2008|url=http://www.efloras.org/florataxon.aspx?flora_id=2&amp;taxon_id=200005469|title=Podocarpus macrophyllus|website=[http://www.efloras.org/flora_page.aspx?flora_id=2 Flora of China]|publisher=Missouri Botanical Garden and Harvard University Herbaria|accessdate=2023-02-18}}&lt;/ref&gt;（図2a, 3a）。[[樹皮]]は灰白色から灰褐色、細かく薄く縦長に剥がれる&lt;ref name="大橋広好2015" /&gt;&lt;ref name="中川2006" /&gt;&lt;ref name="杉本1987" /&gt;&lt;ref name="FOC" /&gt;&lt;ref name="鈴木1997" /&gt;（図2b）。小枝は緑色、稜角があり、無毛、やや垂れやすい&lt;ref name="杉本1987" /&gt;。[[葉]]は互生・螺生し、広線形から長楕円状線形、長さ 8–20 cm、幅7–14[[ミリメートル]] (mm)、全縁、革質、表面は濃緑色、裏面は淡緑色、中央脈は明瞭に隆起する&lt;ref name="大橋広好2015" /&gt;&lt;ref name="中川2006" /&gt;&lt;ref name="杉本1987" /&gt;&lt;ref name="FOC" /&gt;&lt;ref name="鈴木1997" /&gt;（図2c–f）。樹脂道を欠く&lt;ref name="大橋広好2015" /&gt;。[[園芸品種]]（または[[変種]]、[[品種]]）であるラカンマキは全体に小型で葉も小さく（4–8 cm × 4–8 mm）上向きに密生する（[[#分類|下記参照]]）。
+
+{{multiple image
+ | total_width = 600
+ | align = center
+ | caption_align = left
+ | image1 = Podocarpus macrophyllus kz1.jpg
+ | caption1 = '''2a'''. 樹形
+ | image2 = Podocarpus macrophyllus (trunk).jpg
+ | caption2 = '''2b'''. 樹皮
+ | image3 = HK 南區 Southern District 華富 Wah Fu 華林徑 Wah Lam Path 羅漢松 tree green leave March 2022 Px3.jpg
+ | caption3 = '''2c'''. 葉
+}}
+
+[[雌雄異株]]で"花期"は4–6月&lt;ref name="大橋広好2015" /&gt;&lt;ref name="中川2006" /&gt;&lt;ref name="杉本1987" /&gt;。"雄花"（雄錐、花粉錐、小胞子嚢穂、雄性胞子嚢穂&lt;ref name="植物形態学"&gt;{{Cite web|author=福原達人|date=|url=http://staff.fukuoka-edu.ac.jp/fukuhara/keitai/kyuukarui.html|title=球果類|website=[http://staff.fukuoka-edu.ac.jp/fukuhara/keitai/index.html 植物形態学]|publisher=|accessdate=2023-02-17}}&lt;/ref&gt;&lt;ref name="長谷部2020"&gt;{{cite book|author=長谷部光泰|year=2020|chapter=|editor=|title=陸上植物の形態と進化|publisher=裳華房|isbn=978-4785358716|page= 205}}&lt;/ref&gt;）は円柱状、長さ 3–5 cm、黄白色、3–5個がまとまって前年枝の葉腋に束生する&lt;ref name="大橋広好2015" /&gt;&lt;ref name="中川2006" /&gt;&lt;ref name="杉本1987" /&gt;&lt;ref name="FOC" /&gt;&lt;ref name="鈴木1997" /&gt;&lt;ref name="コトバンク_イヌマキ"&gt;{{Cite Kotobank|word=イヌマキ|encyclopedia=日本大百科全書(ニッポニカ)|accessdate=2023-02-13}}&lt;/ref&gt;（図2d）。"雌花"（雌錐、種子錐、大胞子嚢穂、雌性胞子嚢穂&lt;ref name="植物形態学" /&gt;&lt;ref name="長谷部2020" /&gt;）は前年枝の葉腋に単生し、有柄（長さ約 1 cm）、数個の鱗片と1個の[[倒生胚珠]]からなる&lt;ref name="大橋広好2015" /&gt;&lt;ref name="中川2006" /&gt;&lt;ref name="FOC" /&gt;（図2e）。8–12月ごろには胚珠は[[種子]]（黄色）となり、鱗片が肉質化して粉白を帯びた緑色（熟すと紫黒色）の套皮（とうひ）となってこれを包み、広卵状球形で直径 8–10 mm になる&lt;ref name="大橋広好2015" /&gt;&lt;ref name="中川2006" /&gt;&lt;ref name="杉本1987" /&gt;&lt;ref name="FOC" /&gt;&lt;ref name="鈴木1997" /&gt;（図2f）。また種子の基部の"花托"（"花床"、"果托"、"果床"、種托&lt;ref name="杉本1987" /&gt;）が肥厚・多肉化して紅色または紫黒色になる&lt;ref name="大橋広好2015" /&gt;&lt;ref name="中川2006" /&gt;&lt;ref name="杉本1987" /&gt;&lt;ref name="FOC" /&gt;&lt;ref name="鈴木1997" /&gt;&lt;ref name="多田2010"&gt;{{Cite book|author=多田多恵子|year=2010|chapter=イヌマキ|editor=|title=身近な草木の実とタネハンドブック|publisher=文一総合出版|isbn=978-4829910757|page=144}}&lt;/ref&gt;（図1, 2f）。この部分が鳥の食料となり、種子散布される&lt;ref name="多田2010" /&gt;&lt;ref name="ネイチャーガイド" /&gt;&lt;ref name="小林2007"&gt;{{Cite book|author=小林正明|year=2007|chapter=|editor=|title=花からたねへ 種子散布を科学する|publisher=全国農村教育協会|isbn=978-4881371251|page=43}}&lt;/ref&gt;。人間には種子の部分は有毒であるが&lt;ref name="ネイチャーガイド"&gt;{{Cite book|author=鈴木庸夫・高橋冬・安延尚文|year=2018|chapter=イヌマキ|editor=|title=増補改訂 草木の種子と果実|publisher=[[誠文堂新光社]]|series=ネイチャーウォッチングガイドブック|isbn=978-4-416-51874-8|page=244}}&lt;/ref&gt;、赤く熟した種托の部分は甘みがあって食べられる&lt;ref name="大橋広好2015" /&gt;&lt;ref name="中川2006" /&gt;&lt;ref name="鈴木1997" /&gt;。種子はまだ樹上にあるときから[[発芽]]を開始することがあり&lt;ref name="中川2006" /&gt;、このような種子は[[胎生種子]]とよばれる&lt;ref name="辞典2013胎生"&gt;{{cite book|author=巌佐庸, 倉谷滋, 斎藤成也 &amp; 塚谷裕一 (編)|year=2013|chapter=胎生|editor=|title=岩波 生物学辞典 第5版|publisher=岩波書店|isbn=978-4000803144|page=855}}&lt;/ref&gt;&lt;ref name="小清水1950"&gt;{{Cite journal|author=小清水卓胎|year=1950|title=イヌマキの胎生種子に於ける体内生長素の作用機構|journal=植物学雑誌|volume=63|issue=741|pages=46-47}}&lt;/ref&gt;。XXY型の[[性染色体]]をもち、[[染色体]]数は 2n = 37（雄株）または38（雌株）&lt;ref name="大橋広好2015" /&gt;&lt;ref name="日詰1988"&gt;{{Cite journal|author=日詰雅博, 白石浩人 &amp; 田中昭男|year=1988|title=イヌマキの性染色体に関する細胞学的研究|journal=遺伝学雑誌|volume=63|issue=5|pages=413-423}}&lt;/ref&gt;。
+
+{{multiple image
+ | total_width = 600
+ | align = center
+ | caption_align = left
+ | image1 = Podocarpus macrophyllus flower.jpg
+ | caption1 = '''2d'''. "雄花"
+ | image2 = Podocarpus macrophyllus (flower female s2).jpg
+ | caption2 = '''2e'''. "雌花"（写真のものは胚珠が2個あるが、ふつう1個）
+ | image3 = Podocarpus macrophyllus (seed s5).jpg
+ | caption3 = '''2f'''. 套皮で包まれた種子と赤く熟した種托
+}}
+
+== 分布・生態 ==
+本州（[[房総半島]]以西）、四国、九州、[[南西諸島]]、[[台湾]]、中国南部の暖地に分布する&lt;ref name="大橋広好2015" /&gt;&lt;ref name="中川2006" /&gt;&lt;ref name="鈴木1997"&gt;{{Cite book|author=鈴木三男|year=1997|chapter=マキ科|editor=|title=週刊朝日百科 植物の世界 11|publisher=|isbn=9784023800106|pages=274–278}}&lt;/ref&gt;。海岸に近い山地の[[照葉樹林]]などに生育する&lt;ref name="中川2006" /&gt;。潮風に耐え、また耐陰性が高い&lt;ref name="中川2006" /&gt;&lt;ref name="杉本1987" /&gt;。
+
+[[神社林]]などではイヌマキが優占していることがあり、これは森林が小さくなると風の影響を受けやすく、風に強いイヌマキが残るためではないかとも言われている{{要出典|date=2023年1月}}。
+
+イヌマキはイヌマキラクトン（inumakilactone）やナギラクトン（nagilactone）などの[[ラクトン]]類を生成するが&lt;ref name="熊本大学薬草園"&gt;{{Cite web|author=|date=|url=https://www.pharm.kumamoto-u.ac.jp/yakusodb/detail/003459.php|title=イヌマキ|website=[https://www.pharm.kumamoto-u.ac.jp/yakusodb/ 熊本大学薬学部 薬草園 植物データベース]|publisher=|accessdate=2023-02-22}}&lt;/ref&gt;、近縁の[[ナギ]]ではラクトン類が[[アレロパシー]]物質（他の植物の発芽・成長を抑制する物質）として働くことが知られている&lt;ref name="春日山"&gt;{{Cite web|author=|date=|url=https://www.pref.nara.jp/secure/262605/%E5%8F%82%E8%80%83%E8%B3%87%E6%96%997.pdf|title=ナギの数量調整の方向性の検討|website=|publisher=奈良県|accessdate=2023-02-16}}&lt;/ref&gt;&lt;ref name="大阪"&gt;{{Cite web|author=|date=|url=https://www.pref.osaka.lg.jp/attach/2824/00111708/49-52.pdf|title=大阪府の天然記念物|website=|publisher=大阪府|accessdate=2023-02-16}}&lt;/ref&gt;。また[[キオビエダシャク]]はイヌマキを食樹とし、イヌマキに由来するラクトン類を体内に蓄積、これが天敵であるサシガメ類を殺す毒となることが報告されている&lt;ref name="安居2001"&gt;{{Cite journal|author=安居拓恵|year=2001|title=キオビエダシャクによるイヌマキ葉由来殺カメムシ活性物質の取込み蓄積|journal=日本農芸化学会誌|volume=75|issue=sup.|page=243|doi=10.1271/nogeikagaku1924.75.sup_243}}&lt;/ref&gt;。
+
+== 人間との関わり ==
+=== 植栽 ===
+古くから庭や生垣に植栽され&lt;ref name="大橋広好2015" /&gt;&lt;ref name="中川2006" /&gt;&lt;ref name="コトバンク_イヌマキ" /&gt;、世界各地で見られる&lt;ref name="GBIF" /&gt;（図3）。[[中華人民共和国]]では[[縁起#転用|縁起物]]として人気があり、日本から輸出されてきたが、[[根]]についた[[土]]による病虫害リスクに対して[[検疫]]基準が見直され、イヌマキを含めて植木や盆栽の日本からの輸出は2019年10月から停止された&lt;ref&gt;[https://www.nikkei.com/article/DGKKZO55906800R20C20A2QM8000/ 「植木・盆栽の輸出2割減 昨年／縁起物のイヌマキ 中国向け停止響く」]『[[日本経済新聞]]』朝刊2020年2月22日（マーケット商品面）同日閲覧&lt;/ref&gt;。&lt;!--今どうなっているんでしょうか？--&gt;
+
+{{multiple image
+ | total_width = 600
+ | align = center
+ | caption_align = left
+ | image1 = 小田原城跡のイヌマキ.jpg
+ | caption1 = '''3a'''. [[小田原城]]跡のイヌマキの巨木: 樹高 20 m、目通り幹囲 4.5 m もある&lt;ref name="小田原市"&gt;{{Cite web|author=|date=|url=https://www.city.odawara.kanagawa.jp/field/lifelong/property/cultural/natural/teninu.html|title=天然記念物 ・小田原城跡のイヌマキ|website=|publisher=小田原市|accessdate=2023-02-28}}&lt;/ref&gt;。
+ | image2 = Podocarpus macrophyllus,katori-city,japan.JPG
+ | caption2 = '''3b'''. 剪定されたイヌマキ
+ | image3 = Buddhist Pine (Podocarpus macrophyllus) (3563769064).jpg
+ | caption3 = '''3c'''. イヌマキの盆栽
+}}
+
+[[ファイル:Milionia basalis Day flying Moth from Namdapha Tiger Reserve, Arunachal Pradesh.jpg|thumb|right|250px|'''4'''. [[キオビエダシャク]]]]
+水はけが良い適湿な肥沃地を好む&lt;ref name="群馬県"&gt;{{Cite web|author=|date=2011-02-17|url=https://www.pref.gunma.jp/site/midorisoudan/1270.html|title=緑の相談室　樹木に関するご相談　イヌマキ|website=|publisher=群馬県|accessdate=2023-02-18}}&lt;/ref&gt;&lt;ref name="NHK"&gt;{{Cite web|author=|date=|url=https://www.shuminoengei.jp/m-pc/a-page_p_detail/target_plant_code-1060|title=イヌマキ|website=みんなの趣味の園芸|publisher=NHK出版|accessdate=2023-02-22}}&lt;/ref&gt;。日向から日陰まで植栽可能だが、日当りが良いほうがよく生育する&lt;ref name="群馬県" /&gt;&lt;ref name="NHK" /&gt;。繁殖は実生または挿し木による&lt;ref name="コトバンク_イヌマキ" /&gt;&lt;ref name="NHK" /&gt;。植え付け適期は3月から6月、剪定は3月から12月（寒冷地では10月）に行う&lt;ref name="NHK" /&gt;。さまざまな園芸品種が知られ、葉に白条があるもの（オキナマキ、シロフマキ）や黄条があるもの（キフマキ）、小枝の一部が帯化するもの（セッカマキ、シシマキ）、葉が狭線形のもの（ハリハマキ）、葉の横断面が四稜形のもの（カクバマキ）、葉が短小なもの（コハマキ）などがある&lt;ref name="杉本1987" /&gt;&lt;ref name="コトバンク_イヌマキ" /&gt;。病虫害としては、白葉枯病&lt;ref name="群馬県" /&gt;、ペスタロチア病&lt;ref name="NHK" /&gt;、すす病&lt;ref name="NHK" /&gt;、マキサビダニ&lt;ref name="久保1985"&gt;{{Cite journal|author=久保田栄|year=1985|title=イヌマキのマキサビダニの被害と発生消長|journal=関西病虫害研究会報|volume=27|issue=|page=55|doi=10.4165/kapps1958.27.0_55}}&lt;/ref&gt;、マキシンハアブラムシ&lt;ref name="群馬県" /&gt;&lt;ref name="NHK" /&gt;、[[ドウガネブイブイ]]&lt;ref name="NHK" /&gt;、[[ケブカトラカミキリ]]&lt;ref name="松原2012"&gt;{{Cite journal|author=松原功, 大木一男, 石橋亨 &amp; 有田和實|year=2012|title=千葉県東部のイヌマキ・ナギのケブカトラカミキリによる被害実態|journal=樹木医学研究|volume=16|issue=4|pages=161-163|doi=10.18938/treeforesthealth.16.4_161}}&lt;/ref&gt;&lt;ref name="松原2020"&gt;{{Cite journal|author=松原功, 大木一男, 櫻本史夫, 布施貞雄, 篠崎孔久, 北田征二 &amp; 石橋亨|year=2020|title=千葉県東部のイヌマキ・ナギのケブカトラカミキリ被害の拡大|journal=樹木医学研究|volume=24|issue=1|pages=42-43|doi=10.18938/treeforesthealth.22.2_99}}&lt;/ref&gt;、[[チャハマキ]]&lt;ref name="NHK" /&gt;、[[キオビエダシャク]]&lt;ref name="喜友名2008"&gt;{{Cite journal|author=喜友名朝次|year=2008|title=樹幹注入によるキオビエダシャク防除試験|journal=沖縄県森林資源研究センター研究報告|volume=|issue=50|pages=15-22}}&lt;/ref&gt;（図4）などが知られており、特にキオビエダシャクは大きな被害を与える。
+
+防火樹・防風樹・防音樹・防潮樹ともなる&lt;ref&gt;{{Cite book|和書|author=藤山宏|title=プロが教える住宅の植栽|page=9|publisher=学芸出版社|year=2010}}&lt;/ref&gt;&lt;ref name="コトバンク_イヌマキ" /&gt;&lt;ref name="コトバンク_防潮林"&gt;{{Cite Kotobank|word=防潮林|encyclopedia=|accessdate=2023-02-18}}&lt;/ref&gt;。そのため、しばしば[[屋敷林]]や[[畑]]の[[防風林]]に用いられる{{要出典|date=2023年2月}}。[[遠州地方]]（[[静岡県]][[浜松市]]など）では、ミカン畑や茶畑などの[[生垣]]に利用されてきた&lt;ref name="日本木材総合情報センター" /&gt;&lt;ref name="杉本1987静岡"&gt;{{Cite book|author=杉本順一|translator=|year=|chapter=針葉樹の名木と奇木（その4）|editor=|title=世界の針葉樹|publisher=井上書店|ncid=BN01674934|page=163}}&lt;/ref&gt;。[[古民家]]では必ずといっていいほどこの生垣を持っており、子供たちは[[おやつ]]感覚でその実を食べ、葉で[[手裏剣]]などを作っていた{{要出典|date=2023年2月}}。
+
+[[鹿児島県]]では江戸時代から藩主[[島津氏]]の命によりイヌマキが植えられてきたため、イヌマキの生垣や防風林、並木道が多数見られ&lt;ref name="南さつま市"&gt;{{Cite web|author=|date=|url=https://kanko-minamisatsuma.jp/feature/9161/|title=【日本遺産】加世田麓の武家屋敷群めぐり|website=|publisher=南さつま市観光協会|accessdate=2023-02-22}}&lt;/ref&gt;、ヒトツバ（一つ葉）と呼ばれ親しまれてきた{{要出典|date=2023年2月}}。神社や寺社では樹齢数百年になる巨木も多い。沖縄[[首里城]]の1992年再建時には、沖縄では既に手に入らなくなっていたイヌマキ材を補う為、鹿児島から大量に運ばれ利用された{{要出典|date=2023年2月}}（下記参照）。
+
+=== 材 ===
+[[ファイル:Nakamura House Kitanakagusuku13n3104.jpg|thumb|right|250px|'''5'''. [[中村家住宅_(沖縄県)|中村家住宅]]（沖縄県）]]
+[[材]]はやや堅く割れやすいが[[天然樹脂|樹脂]]が多く耐朽性と耐水性に優れるため、屋根、桶、棺、下駄などに用いられる&lt;ref name="大橋広好2015" /&gt;&lt;ref name="中川2006" /&gt;&lt;ref name="鈴木1997" /&gt;&lt;ref name="コトバンク_イヌマキ" /&gt;&lt;ref name="日本木材総合情報センター" /&gt;&lt;ref name="府中家具工業協同組合" /&gt;。[[心材]]と[[辺材]]の差はほとんどなく、褐色を帯びた黄白色、[[年輪]]は不明瞭&lt;ref name="日本木材総合情報センター" /&gt;&lt;ref name="府中家具工業協同組合" /&gt;。[[気乾比重]]は0.48–0.65で針葉樹としてはやや重い&lt;ref name="日本木材総合情報センター" /&gt;&lt;ref name="府中家具工業協同組合" /&gt;。木理が通直で肌目は精、加工は容易&lt;ref name="鈴木1997" /&gt;&lt;ref name="日本木材総合情報センター" /&gt;&lt;ref name="府中家具工業協同組合"&gt;{{Cite web|author=|date=|url=https://wp1.fuchu.jp/~kagu/mokuzai/inumaki.htm|title=イヌマキ 【犬槙】|website=木材図鑑|publisher=府中家具工業協同組合|accessdate=2023-02-28}}&lt;/ref&gt;。枝が多いため材に節が多く、また脂気や臭気がある&lt;ref name="府中家具工業協同組合" /&gt;。
+
+特に[[シロアリ]]に強いため、沖縄では建築材として重用される&lt;ref name="中川2006" /&gt;&lt;ref name="杉本1987" /&gt;&lt;ref name="鈴木1997" /&gt;&lt;ref name="コトバンク_イヌマキ" /&gt;&lt;ref name="日本木材総合情報センター"&gt;{{Cite web|author=|date=|url=https://www.jawic.or.jp/woods/sch.php?nam0=inumaki|title=イヌマキ、クサマキ、槙|website=木材の種類と特性|publisher=一般財団法人 日本木材総合情報センター|accessdate=2023-02-27}}&lt;/ref&gt;&lt;ref name="府中家具工業協同組合" /&gt;&lt;ref name="屋我1997"&gt;{{Cite journal|author=屋我嗣良|year=1997|title=沖縄の建築物とシロアリ防除技術|journal=木材保存|volume=23|issue=5|pages=222-228|doi=10.5990/jwpa.23.222}}&lt;/ref&gt;。国の[[重要文化財]]である[[中村家住宅_(沖縄県)|中村家住宅]]（図5）に用いられ、また[[第二次世界大戦]]で焼失する以前の[[首里城]]もイヌマキを構造材としていた&lt;ref name="中村家住宅" /&gt;&lt;ref name="屋我1997" /&gt;&lt;ref name="屋我1978"&gt;{{Cite journal|author=屋我嗣良|year=1978|title=沖縄産材の抗蟻性について(林学科)|journal=琉球大学農学部学術報告|volume=25|issue=|pages=555–613|url=https://ci.nii.ac.jp/naid/110000220029/}}&lt;/ref&gt;&lt;ref name="田中2019"&gt;{{Cite web|author=田中淳夫|date=2019-11-01|url=https://news.yahoo.co.jp/byline/tanakaatsuo/20191110-00150295|title=首里城復元に使うべき木材はスギだ。琉球の歴史をひもとけば見えてくる木材事情|website=Yahoo! JAPAN ニュース|publisher=|accessdate=2023-02-22}}&lt;/ref&gt;。しかし沖縄では第二次世界大戦後にイヌマキの植林がなされなかったため、[[1992年]]の首里城正殿再建では沖縄産のイヌマキは使用できず、鹿児島や宮崎から調達されたイヌマキが壁材や正面向拝の四本柱に用いられた&lt;ref name="屋我1997" /&gt;&lt;ref name="ニッポン放送"&gt;{{Cite web|author=NEWS ONLINE 編集部|date=2018-11-03|url=https://news.1242.com/article/159893|title=未来の大改修のために～世界遺産・首里城に欠かせない「イヌマキの木」を育てる人々のストーリー|website=ニッポン放送 NEWS ONLINE|publisher=|accessdate=2023-02-21}}&lt;/ref&gt;。2022年着工の再建でもイヌマキの調達は難航しているが、国王専用の階段手すりや外壁など象徴的な部分は沖縄産イヌマキの使用が予定されている&lt;ref name="琉球新報"&gt;{{Cite web|author=|date=2021-07-03|url=https://ryukyushimpo.jp/news/entry-1348919.html|title=イヌマキ代替はヒノキアスナロ　首里城復元委、木材議論|website=琉球新報 DIGITAL|publisher=|accessdate=2023-02-21}}&lt;/ref&gt;&lt;ref name="首里城"&gt;{{Cite web|author=林将之|date=2022-04-07|url=https://note.com/whatree/n/nbb598659daaf|title=首里城再建の木材　イヌマキとオキナワウラジロガシ|website=|publisher=|accessdate=2023-02-18}}&lt;/ref&gt;。
+
+
+
+=== その他 ===
+[[ファイル:Podocarpus macrophyllus (seed s3).jpg|thumb|right|200px|'''6'''. イヌマキの"実"]]
+イヌマキ（ラカンマキ）を原因とする[[接触皮膚炎]]（かぶれ）が報告されている&lt;ref name="宇宿2002"&gt;{{Cite journal|author=宇宿一成|year=2002|title=ラカンマキによる接触皮膚炎|journal=西日本皮膚科|volume=64|issue=6|pages=681-683|doi=10.2336/nishinihonhifu.64.681}}&lt;/ref&gt;。
+
+[[種子]]および種托は「羅漢松実（ラカンショウジツ）」とよばれる[[生薬]]となり、胃痛に用いられることがある&lt;ref name="熊本大学薬草園" /&gt;。また種托部は[[果実酒]]に使われることもある&lt;ref name="熊本大学薬草園" /&gt;。
+
+イヌマキの"実"（套皮で包まれた種子と肥大した種托）は、赤と緑の串刺し団子のような外観を呈し&lt;ref name="多田2010" /&gt;（図6）、子供が[[人形]]、[[独楽|こま]]、[[ヤジロベエ|やじろべえ]]、[[おはじき]]などにして遊ぶことがある{{要出典|date=2023年2月}}。
+
+[[千葉県]]はイヌマキの分布の東限にあたり、イヌマキは県の木に選定されている&lt;ref name="全国知事会"&gt;{{Cite web|author=|date=|url=http://www.nga.gr.jp/pref_info/symbol/|title=各都道府県のシンボル|website=|publisher=全国知事会|accessdate=2023-02-18}}&lt;/ref&gt;。
+{{-}}
+== 名称 ==
+真木（槇、まき）よりも劣ることから、イヌマキの名がついたとされることが多い&lt;ref name="コトバンク_イヌマキ" /&gt;&lt;ref name="中川2006" /&gt;。真木はふつう[[スギ]]または[[コウヤマキ]]（本槇）のこととされる&lt;ref name="コトバンク_イヌマキ" /&gt;&lt;ref name="中川2006" /&gt;&lt;ref name="コトバンク_マキ(槙)"&gt;{{Cite Kotobank|word=マキ(槙)|encyclopedia=|accessdate=2023-02-18}}&lt;/ref&gt;&lt;ref name="コトバンク_真木"&gt;{{Cite Kotobank|word=真木|encyclopedia=|accessdate=2023-02-18}}&lt;/ref&gt;。ただしイヌマキのことをマキやホンマキ（本槇）とよぶこともある&lt;ref name="中川2006" /&gt;。クサマキ（草槇、臭槇）とよばれることもある&lt;ref name="中川2006" /&gt;&lt;ref name="杉本1987" /&gt;&lt;ref name="コトバンク_草槇" /&gt;。また「マキ」は円木（まるき）を略したものともされる&lt;ref name="コトバンク_イヌマキ" /&gt;。
+
+イヌマキは比較的身近な植物であり、以下のようにさまざまな[[地方名]]がある。
+* サルモモ（静岡県、[[福井県]]、[[島根県]]、[[山口県]]）{{要出典|date=2023年2月}}
+* サルミノ（[[大阪府]]、山口県）{{要出典|date=2023年2月}}
+* サルノキンタマ（山口県）{{要出典|date=2023年2月}}
+* チャーギ（沖縄県）&lt;ref name="中村家住宅"&gt;{{Cite web|author=|date=|url=https://www.nakamurahouse.jp/|title=中村家住宅|website=|publisher=|accessdate=2023-02-18}}&lt;/ref&gt;
+* ニンギョー（山口県）{{要出典|date=2023年2月}}
+* ニンギョノキ（[[大分県]]、[[長崎県]]）{{要出典|date=2023年2月}}
+* ヒトツバ（[[宮崎県]]、[[鹿児島県]]、沖縄県）{{要出典|date=2023年2月}}
+* ネンネンゴ（静岡県）{{要出典|date=2023年2月}}
+* ヤンゾウコンゾウ（"実"の名称、静岡県）{{要出典|date=2023年2月}}
+
+== 分類 ==
+[[ファイル:イヌマキ Podocarpus macrophyllus.jpg|thumb|right|250px|'''7'''. ラカンマキ]]
+イヌマキの中でやや小型であり、枝があまり垂れず、葉が小型（4–8 × 0.4–0.8 cm）で上向きに密生するものは'''ラカンマキ'''（羅漢槇）とよばれる&lt;ref name="大橋広好2015" /&gt;&lt;ref name="中川2006" /&gt;&lt;ref name="杉本1987" /&gt;&lt;ref name="馬場1999" /&gt;（図7）。ラカンマキは分類学的には分けず、イヌマキの[[園芸品種]]（{{Snamei|Podocarpus macrophyllus}} ‘Maki’）とすることがある&lt;ref name="大橋広好2015" /&gt;。一方、[[変種]]（{{Snamei|Podocarpus macrophyllus}} var. ''maki'' {{AUY|Siebold &amp; Zucc.|1846|bio=bot}}）として分けることもある&lt;ref name="PWO" /&gt;&lt;ref name="大橋広好2015" /&gt;。ただしイヌマキの[[タイプ標本]]はラカンマキに相当するとされており&lt;ref name="大橋広好2015" /&gt;、この場合イヌマキの種内分類群の基準はラカンマキとなる。そのため、ラカンマキを {{Snamei|Podocarpus macrophyllus}} f. ''macrophyllus'' とし、典型的なイヌマキを[[品種]] {{Snamei|Podocarpus macrophyllus}} f. ''spontaneous'' {{AUY|H.Ohba &amp; S.Akiyama|2012|bio=bot}}  とすることも提唱されている&lt;ref name="大橋広好2015" /&gt;。原産地は中国とも静岡県西部ともされるが明らかではなく、古くから園芸品として育てられてきたものと考えられている&lt;ref name="大橋広好2015" /&gt;&lt;ref name="鈴木1997" /&gt;。
+&lt;!--YListではPodocarpus fasciculatusをPodocarpus neriifoliusのシノニムとしており、和名としてナンバンイヌマキを充てている。リュウキュウイヌマキはPodocarpus macrophyllus var. liukiuensisとし、これをイヌマキのシノニムとしている。
+琉球と台湾には、類似種である'''リュウキュウイヌマキ'''（{{Snamei||Podocarpus fasciculus}} {{AUY|de Laub.|1985|bio=bot}}）が分布する&lt;ref name="大橋広好2015" /&gt;&lt;ref name="PWOfasc"&gt;{{cite web|url=https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:906889-1|title=''Podocarpus fasciculus''|date=|work=Plants of the World Online|publisher=Kew Botanical Garden|accessdate=2023-02-18}}&lt;/ref&gt;。イヌマキに含められていたことや、トガリバマキの学名（{{Snamei||Podocarpus nakaii}}）が充てられていたこともある&lt;ref name="大橋広好2015" /&gt;。"雄花"が有柄であること、葉の先端がふつう鋭く尖ること、葉身がわずかに湾曲することでイヌマキとは区別される&lt;ref name="大橋広好2015" /&gt;。--&gt;
+{{-}}
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Notelist2}}
+=== 出典 ===
+{{Reflist}}
+
+== 関連項目 ==
+* [[マキ科]]: [[イラワラプラム]]、[[ナギ]]
+
+== 外部リンク ==
+{{Commonscat|Podocarpus macrophyllus}}
+{{Wikispecies|Podocarpus macrophyllus}}
+* {{Cite web|url=https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:263522-1|title=''Podocarpus macrophyllus''|date=|work=Plants of the World Online|publisher=Kew Botanical Garden|accessdate=2023-02-18}}（英語）
+* {{Cite web|author=米倉浩司・梶田忠|date=2003-|url=http://ylist.info/ylist_detail_display.php?pass=592|title=イヌマキ|website=[http://ylist.info/index.html BG Plants 和名－学名インデックス（YList）]|publisher=|accessdate=2023-02-18}}
+* [http://had0.big.ous.ac.jp/plantsdic/gymnospermae/podocarpaceae/inumaki/inumaki.htm イヌマキ ''Podocarpus macrophyllus''] [[岡山理科大学]]総合情報学部 植物生態研究室
+* {{Cite web|author=|date=|url=https://mikawanoyasou.org/data/inumaki.htm|title=イヌマキ　犬槇|website=三河の植物観察|publisher=|accessdate=2023-02-25}}
+&lt;!--* {{Cite web|author=|date=|url=http://www.jpmoth.org/Geometridae/Ennominae/Milionia_zonea_pryeri.html|title=キオビエダシャク|website=みんなで作る日本産蛾類図鑑|publisher=|accessdate=2023-02-18}}--&gt;
+
+{{デフォルトソート:いぬまき}}
+[[Category:マキ科]]
+[[Category:観賞用樹木]]
+[[Category:千葉県の象徴]]
+[[Category:有毒植物]]</text>
+      <sha1>684jrkx339uvpfcb29wluqe2kbifyr0</sha1>
+    </revision>
+  </page>
+  

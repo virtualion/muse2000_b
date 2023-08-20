@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/26847/title_panel.png	-61.31578947368419,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/26847/word_cloud.png	-84.15789473684208,38,91.28842105263156	0,0,1	0,1,0	-1,0,0	63.90189473684209	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/26847/20101130 Mount Fuji.jpg	-84.15789473684208,38,90.37553684210525	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/26847/caption/caption0.png	-84.15789473684208,38,90.37553684210525	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/26847/Landsat image of Fuji-go-ko.jpg	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	-46.86842105263156	-10	0.2	2.65991902834008	Wooden_thin	-1:-1	3
+4	./Images/26847/caption/caption1.png	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	-31.00202429149796	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/26847/Lake Motosu Aerial photograph.jpg	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	-12.28947368421052	-10	0.2	2.65991902834008	Wooden_thin	-1:-1	5
+6	./Images/26847/caption/caption2.png	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	3.57692307692308	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/26847/Aeral Photo of Lake Shoji 1975.jpg	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	22.28947368421052	-10	0.2	2.65991902834008	Wooden_thin	-1:-1	7
+8	./Images/26847/caption/caption3.png	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	38.15587044534412	-20	1.5	0.7	none(caption)	-1:-1	8
+9	Images/26847/table/fixed_地理.png	84.15789473684208,38,92.21052631578945	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	9.450000000000001	Wooden_thin	-1:-1	9

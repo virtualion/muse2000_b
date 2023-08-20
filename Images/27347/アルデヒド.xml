@@ -1,0 +1,133 @@
+<page>
+    <title>アルデヒド</title>
+    <ns>0</ns>
+    <id>27347</id>
+    <revision>
+      <id>95805143</id>
+      <parentid>95152407</parentid>
+      <timestamp>2023-06-28T14:02:52Z</timestamp>
+      <contributor>
+        <username>ベルナト-ギリェム</username>
+        <id>2069446</id>
+      </contributor>
+      <comment>官能基について追記</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="13781" xml:space="preserve">{{Otheruses||イラストレーター|アルデヒド (イラストレーター)}}
+[[File:Aldehyde_general_structure.svg|thumb|100px|アルデヒドの一般構造式]]
+[[ファイル:Formaldehyde-2D.svg|thumb|100px|最も単純なアルデヒド：[[ホルムアルデヒド]]]]
+'''アルデヒド''' (aldehyde) とは、分子内に、[[カルボニル基|カルボニル炭素]]に[[水素]][[原子]]が一つ置換した構造を有する[[有機化合物]]の総称である。[[カルボニル基]]とその[[炭素]]原子に結合した水素原子および任意の[[基]](-R)から構成されるため、一般式は R-CHO で表される&lt;ref&gt;IUPAC Gold Book [http://goldbook.iupac.org/A00208.html aldehydes]&lt;/ref&gt;。任意の基(-R)を取り除いた炭化水素基を'''ホルミル基''' (formyl group)と呼称する。この官能基は'''アルデヒド基'''とも言うが、これは[[IUPAC命名法]]に沿わない名称であり、[[日本化学会]]はホルミル基の呼称を推奨している&lt;ref&gt;{{Cite web |title=公益社団法人日本化学会 {{!}} 活動 {{!}} 高等学校化学で用いる用語に関する提案（2） |url=https://www.chemistry.or.jp/activity/report/20160226.html |website=www.chemistry.or.jp |access-date=2023-06-28 |language=ja |publisher=日本化学会 |date=2016-02-26 |editor=化学用語検討小委員会}}&lt;/ref&gt;。
+
+アルデヒドと[[ケトン]]とでは、前者は炭素骨格の終端となるが、ケトンは炭素骨格の中間点となる点で異なる。多くのアルデヒドは特有の臭気を持つ。
+
+== 構造 ==
+アルデヒドは、その中心炭素が[[混成軌道|sp&lt;sup&gt;2&lt;/sup&gt;混成軌道]]であり、これに[[酸素]]原子が[[二重結合]]、水素原子が[[単結合]]で結合した平面構造をとる。この[[炭素-水素結合]](C-H)は[[酸性]]ではない。しかし、アルデヒドの[[α水素]]では、[[共役塩基]]の[[共鳴]]安定化のため[[酸解離定数|{{pKa}}]]は約17になり&lt;ref&gt;[http://pharmaxchange.info/press/2011/02/chemistry-of-enolates-and-enols-acidity-of-alpha-hydrogens/ Chemistry of Enols and Enolates - Acidity of alpha-hydrogens]&lt;/ref&gt;、一般的な[[アルカン]]の{{pKa}}=30よりも酸性度はずっと大きい。これは、ホルミル中心の[[電子求引性]]が大きいのと、共役塩基である[[エノラート]]アニオンにより[[電荷|陰電荷]]が非局在化するためと考えられている。
+
+ホルムアルデヒドを除くアルデヒドには[[ケト-エノール互変異性]]があり、[[酸]]または[[塩基]]によって[[触媒]]される。通常、平衡はケト型へ傾いている。
+
+== 命名法 ==
+[[File:Iupac-aldehyde.png|thumb|right|244px|アルデヒドのIUPAC命名法の例]]
+IUPACではアルデヒドの命名法を以下のように定めている&lt;ref&gt;[https://web.archive.org/web/20060901144219/http://www.uwc.edu/dept/chemistry/helpful_files/nomenclature.pdf Short Summary of IUPAC Nomenclature of Organic Compounds], web page, University of Wisconsin Colleges, accessed on line August 4, 2007.&lt;/ref&gt;&lt;ref&gt;[http://www.acdlabs.com/iupac/nomenclature/93/r93_449.htm §R-5.6.1, Aldehydes, thioaldehydes, and their analogues, A Guide to IUPAC Nomenclature of Organic Compounds: recommendations 1993], IUPAC, Commission on Nomenclature of Organic Chemistry, Blackwell Scientific, 1993.&lt;/ref&gt;&lt;ref&gt;[http://www.acdlabs.com/iupac/nomenclature/93/r93_480.htm §R-5.7.1, Carboxylic acids, A Guide to IUPAC Nomenclature of Organic Compounds: recommendations 1993], IUPAC, Commission on Nomenclature of Organic Chemistry, Blackwell Scientific, 1993.&lt;/ref&gt;。
+
+# 非環式の脂肪族アルデヒドはホルミル基を含む最も長い炭素鎖から誘導して命名する。従って、&lt;chem&gt;HCHO&lt;/chem&gt;は[[メタン]]から誘導され、&lt;chem&gt;CH3CH2CH2CHO&lt;/chem&gt; は[[ブタン]]から誘導される。名称はアルカンの語尾の ''-e'' （-ン）を ''-al'' （-アール）にする。つまり、HCHOは[[メタナール]](methanal)、&lt;chem&gt;CH3CH2CH2CHO&lt;/chem&gt; は[[ブタナール]](butanal)となる。
+# ホルミル基が環についているときは語尾に -carbaldehyde （-カルバルデヒド）を使う。従って、&lt;chem&gt;C6H11CHO&lt;/chem&gt; はシクロヘキサンカルバルデヒド(cyclohexanecarbaldehyde)となる。もし、他の官能基が存在した場合は接頭辞の ''formyl-'' （ホルミル-）を使う。接頭辞は ''methanoyl-'' （メタノイル-）が推奨される。
+# 化合物が天然に生成する[[カルボン酸]]のときは、ホルミル基が結合した炭素原子を指示して[[接頭辞]] ''oxo-'' （オキソ-）を使う。例えば、&lt;chem&gt;CHOCH2COOH&lt;/chem&gt;は、3-オキソプロパン酸(3-oxopropanoic acid)と命名される。
+# ホルミル基がカルボン酸のカルボキシル基から合成された場合はそのカルボン酸の慣用名から誘導される。語尾の ''-ic acid'' または ''-oic acid'' を ''-aldehyde'' に変える。例えば、HCHOは[[ホルムアルデヒド]]、&lt;chem&gt;CH3CHO&lt;/chem&gt;は[[アセトアルデヒド]]、&lt;chem&gt;C6H5CHO&lt;/chem&gt;は[[ベンズアルデヒド]]となる。
+
+== 性質 ==
+[[水素結合]]を作らないために、[[アルコール]]に比べて[[極性溶媒]]に溶けにくいが、[[極性]]があるため[[水]]によく溶ける（水和されやすい）。また、[[炭化水素]]基をもつため[[有機溶媒]]にも溶ける。還元性を持ち、[[酸化]]されるとカルボン酸になる。[[銀鏡反応]]、[[フェーリング反応]]に陽性。アルデヒドのIUPAC名は炭化水素の語尾 -e を -al に置き換えることで命名できる。アルデヒドの語源は脱水素アルコールを意味する[[ラテン語]] alcohol dehydrogenatum の al + dehyd + eである。[[ユストゥス・フォン・リービッヒ]]が使い始めたとされる。
+
+低級アルデヒドは強い刺激臭をもつ。また、アルデヒドは全体的に[[辛味]]を有し、特に[[芳香族]]アルデヒドは一部の[[香辛料|スパイス]]の辛味成分ともなっている。
+
+[[沸点]]を同じ炭素数について比べると、[[エーテル (化学)|エーテル]]＜''アルデヒド''＜アルコール の順である。
+
+== ホルミル基 ==
+[[Image:Formyl_group.svg|thumb|100px|ホルミル基]]
+'''ホルミル基''' (formyl group) は -CHO と構造が表される1価の[[官能基]]で、「ホルミル-」は [[IUPAC命名法]]の接頭辞として用いられる。'''アルデヒド基'''とも呼ばれる。第一級アルコールの -CH&lt;sub&gt;2&lt;/sub&gt;OH の部位を[[酸化]]することで得られる。また、ホルミル基を酸化すると[[カルボキシ基]]を得ることができる。[[水素結合]]がごく弱いため、自己会合は弱く、水との親和性も弱い。
+
+[[ジカルボン酸]]の片方の[[カルボキシ基]]が[[還元]]されてホルミル基になったものは通俗的に'''セミアルデヒド'''と呼ぶことがある。（例：[[コハク酸セミアルデヒド]]、[[グルタミン酸-1-セミアルデヒド]]、[[2-アミノアジピン酸-6-セミアルデヒド]]）
+
+=== 単糖 ===
+[[単糖類]]はホルミル基と[[カルボニル基]](ケトン基)を持つものに大別されるが、前者のアルデヒドの性質を持つ糖を[[アルドース]]、後者の[[ケトン]]の性質を持つ糖を[[ケトース]]と呼ぶ。
+
+== 毒性 ==
+多くの生物にとって有害で、ホルミル基が[[タンパク質]]の側鎖の[[アミノ基]]と反応を起こし、さらには[[架橋]]反応に進むため、これを[[凝固]]させる作用を持つ。それを利用したものに生物学研究における[[ホルマリン]]固定や[[グルタールアルデヒド]]固定があり、[[グルコース|ブドウ糖]]のような[[アルドース]]が[[糖尿病]]において、次第に[[血管]]の[[コラーゲン]]や[[エラスチン]]、[[水晶体]]の[[クリスタリン]]などといった高寿命タンパク質を蝕み、こうしたタンパク質を多く含む器官に損傷を与えるのも、同じ原理による。また、アルデヒドの一種であるアセトアルデヒドは[[エタノール]]が[[アルコールデヒドロゲナーゼ]]の触媒作用によって生成し、[[アルデヒドデヒドロゲナーゼ]]の働きで[[酢酸]]となる。弱い型の[[アルデヒドデヒドロゲナーゼ]]を持つ人はアセトアルデヒドの中毒（=二日酔い）になりやすい。
+
+== 合成法 ==
+アルデヒドは実験室的には第一級アルコールを弱い[[酸化剤]]（例えば[[クロロクロム酸ピリジニウム]] (PCC)）で酸化すると生成する。
+: &lt;chem&gt;R-CH2OH + oxidant -&gt; R-CHO&lt;/chem&gt;
+
+[[クロム酸酸化#PCC酸化|PCC酸化]]の他にも多くの酸化法が知られる。[[クロム酸酸化#PDC酸化|PDC酸化]]、[[スワーン酸化]]、[[過ルテニウム酸テトラプロピルアンモニウム|TPAP酸化]]、[[デス・マーチン酸化]] 、[[TEMPO酸化]]、[[向山酸化]]  などを参照されたい。工業的な酸化方法では、[[銅]]などの[[触媒]]を用いてアルコールを[[空気]]または[[酸素]]で酸化する方法がよく用いられる。
+
+[[ワッカー酸化]]は、末端[[アルケン]]に水を付加してアルデヒドを得る手法として工業的に利用される（エチレンからアセトアルデヒドの工業的生成）。
+
+[[水素化ジイソブチルアルミニウム|DIBAL]] は、カルボン酸エステルを還元してアルデヒドを得るための試薬として用いられる。[[ニトリル]]は酸と[[塩化スズ(II)]]の作用でアルデヒドに変わる（[[スチーブン合成]]）。
+
+上記の酸化・還元反応のほか、芳香族化合物やアルケンに直接ホルミル基を導入する反応が[[ビルスマイヤー・ハック反応]]などいくつか知られる。それらはホルミル化、ホルミル化反応と総称される。{{main|ホルミル化}}
+
+工業的なアルデヒド合成法としては、ワッカー酸化とともに、アルケンの[[二重結合]]に対して水素と[[一酸化炭素]]を触媒を用いて付加させる[[ヒドロホルミル化]]（オキソ法）が多用される。
+: &lt;chem&gt;RCH=CHR' + H2 + CO -&gt; RCH2-CHR'-CHO&lt;/chem&gt;
+
+これらの酸化反応を[[第二級アルコール]]で行うと[[ケトン]]が生成し、[[第三級アルコール]]は反応しない。したがって、「第二級アルデヒド」、「第三級アルデヒド」という物質は存在しない。
+
+== 主な化学反応 ==
+アルデヒドと[[グリニャール試薬]]を反応させて、酸で処理するとアルコールが生成する。
+: &lt;chem&gt;R-CHO + R'MgBr -&gt; RR'CHOH&lt;/chem&gt; （R = 有機基または H）
+
+アルデヒドを適切な酸化剤（例えば[[亜塩素酸ナトリウム]]）で酸化するとカルボン酸になる。
+: &lt;chem&gt;R-CHO + HClO2 -&gt; R-CO2H + HOCl&lt;/chem&gt;
+
+[[水素化アルミニウムリチウム]]や[[水素化ホウ素ナトリウム]]などで還元するとアルコールに変わる。
+: &lt;chem&gt;R-CHO + NaBH4 -&gt; R-CH2OH&lt;/chem&gt;
+
+酸触媒の存在下、アルコールと脱水反応を行わせると、[[アセタール]]が得られる。この反応はホルミル基の[[保護基|保護]]に利用される。
+: &lt;chem&gt;R-CHO + 2R'OH -&gt; R-CH(OR')2&lt;/chem&gt;
+
+[[銀鏡反応]]や[[フェーリング反応]]では、アルデヒドの還元力を利用している。
+
+ほかアルデヒドは[[オキシム]]、[[イミン]]の原料となる。
+
+アルデヒドを基質とする人名反応は数多く、代表例のごく一部として[[クネーフェナーゲル縮合]]、[[ウィッティヒ反応]] を挙げる。これらはいずれも炭素-炭素結合生成として重要な反応である。
+
+== 主なアルデヒド ==
+*[[ホルムアルデヒド]] （メタナール、&lt;chem&gt;HCHO&lt;/chem&gt;） - 水溶液は[[ホルマリン]]と呼ばれる
+*[[アセトアルデヒド]] （エタナール、&lt;chem&gt;CH3CHO&lt;/chem&gt;）
+*[[プロピオンアルデヒド]] （プロパナール、&lt;chem&gt;C2H5CHO&lt;/chem&gt;）
+*[[ブタナール]] (&lt;chem&gt;C3H7CHO&lt;/chem&gt;)
+*[[ペンタナール]] (&lt;chem&gt;C4H9CHO&lt;/chem&gt;)
+*[[ヘキサナール]] (&lt;chem&gt;C5H11CHO&lt;/chem&gt;)
+*[[ヘプタナール]] (&lt;chem&gt;C6H13CHO&lt;/chem&gt;)
+*[[オクタナール]] (&lt;chem&gt;C7H15CHO&lt;/chem&gt;)
+*[[ノナナール]] (&lt;chem&gt;C8H17CHO&lt;/chem&gt;)
+*[[デカナール]] (&lt;chem&gt;C9H19CHO&lt;/chem&gt;)
+*[[アクロレイン]] （ビニルアルデヒド、&lt;chem&gt;CH2=CHCHO&lt;/chem&gt;）
+*[[ベンズアルデヒド]] （&lt;chem&gt;C6H5CHO&lt;/chem&gt;） - [[アンズ|アンズ（杏仁）]]の芳香成分。
+*[[シンナムアルデヒド]] （桂皮アルデヒド、&lt;chem&gt;C6H5CH=CHCHO&lt;/chem&gt;） - [[シナモン]]の芳香及び辛味成分。
+*[[ペリルアルデヒド]] (&lt;chem&gt;C9H13CHO&lt;/chem&gt;) - [[シソ]]の芳香及び辛味成分。
+*[[バニリン]](&lt;chem&gt;C6H3(OH)(OCH3)CHO&lt;/chem&gt;) - [[バニラ]]の芳香成分。
+*[[グリオキサール]]（ジアルデヒド、&lt;chem&gt;(CHO)2&lt;/chem&gt;）
+*[[マロンジアルデヒド]] - 体内の脂質過酸化生成物
+*[[グリセルアルデヒド]] (&lt;Chem&gt;CH2(OH)CH(OH)CHO&lt;/chem&gt;)
+
+== 脚注 ==
+{{Reflist}}
+
+== 関連項目 ==
+{{Commonscat|Aldehydes}}
+* [[カルボン酸]]
+* [[ケトン]]
+* [[アルコール]]
+* [[ユストゥス・フォン・リービッヒ]]
+
+{{官能基}}{{大気汚染}}
+{{Normdaten}}
+
+{{DEFAULTSORT:あるてひと}}
+[[Category:アルデヒド|*]]
+[[Category:有機化合物]]
+[[Category:官能基]]
+[[Category:ユストゥス・フォン・リービッヒ]]</text>
+      <sha1>m9gmtc1bd2jg46vrmnlena1xe1buzmb</sha1>
+    </revision>
+  </page>
+  

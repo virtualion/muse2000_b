@@ -1,0 +1,17 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/27225/title_panel.png	-209.10526315789474,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/27225/word_cloud.png	-228.25263157894736,38,221.34315789473683	0,0,1	0,1,0	-1,0,0	154.94021052631578	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/27225/Shotgun_Mossberg_590.jpg	-228.25263157894736,38,219.12972631578947	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/27225/Ithaca 37-Browning BPS Trap-Remington 870.jpg	0,38,441.56842105263155	1,0,0	0,1,0	0,0,1	-177.78796992481202	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/27225/Maritime Safety & Security Team (MSST) 91106.jpg	0,38,441.56842105263155	1,0,0	0,1,0	0,0,1	-116.85864661654135	-10	0.2	4.5	Wooden_thin	-1:-1	4
+5	./Images/27225/caption/caption2.png	0,38,441.56842105263155	1,0,0	0,1,0	0,0,1	-94.85864661654135	-20	1.5	0.7	none(caption)	-1:-1	5
+6	./Images/27225/Riot Control Marines.jpg	0,38,441.56842105263155	1,0,0	0,1,0	0,0,1	-55.92932330827068	-10	0.2	4.5	Wooden_thin	-1:-1	6
+7	./Images/27225/caption/caption3.png	0,38,441.56842105263155	1,0,0	0,1,0	0,0,1	-33.92932330827068	-20	1.5	0.7	none(caption)	-1:-1	7
+8	./Images/27225/Shotgun-shot-sequence-1g.jpg	0,38,441.56842105263155	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	8
+9	./Images/27225/caption/caption4.png	0,38,441.56842105263155	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	9
+10	./Images/27225/38 Spl Schrot.JPG	0,38,441.56842105263155	1,0,0	0,1,0	0,0,1	65.92932330827065	-10	0.2	4.5	Wooden_thin	-1:-1	10
+11	./Images/27225/caption/caption5.png	0,38,441.56842105263155	1,0,0	0,1,0	0,0,1	87.92932330827065	-20	1.5	0.7	none(caption)	-1:-1	11
+12	./Images/27225/Confederateshotgun.jpg	0,38,441.56842105263155	1,0,0	0,1,0	0,0,1	126.85864661654134	-10	0.2	4.5	Wooden_thin	-1:-1	12
+13	./Images/27225/caption/caption6.png	0,38,441.56842105263155	1,0,0	0,1,0	0,0,1	148.85864661654134	-20	1.5	0.7	none(caption)	-1:-1	13
+14	Images/27225/table/fixed_実包の種類.png	228.25263157894736,38,223.57894736842104	0,0,-1	0,1,0	1,0,0	120.52134947368421	-10	0.2	5.670000000000001	Wooden_thin	-1:-1	14
+15	Images/27225/table/fixed_用途による種類.png	228.25263157894736,38,223.57894736842104	0,0,-1	0,1,0	1,0,0	-120.52134947368421	-10	0.2	7.340625	Wooden_thin	-1:-1	15

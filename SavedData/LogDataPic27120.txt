@@ -1,0 +1,9 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/27120/title_panel.png	-94.15789473684211,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/27120/word_cloud.png	-116.17894736842106,38,107.54526315789474	0,0,1	0,1,0	-1,0,0	75.28168421052631	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/27120/Galaxian3 Cabinet.jpg	-116.17894736842106,38,106.46981052631578	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/27120/caption/caption0.png	-116.17894736842106,38,106.46981052631578	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/27120/Outrun-sit-down-cabinet.jpg	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	-62.452631578947376	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/27120/caption/caption1.png	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	-40.452631578947376	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/27120/BabaMikado-1F-2.png	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/27120/caption/caption2.png	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	6

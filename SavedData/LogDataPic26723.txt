@@ -1,0 +1,9 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/26723/title_panel.png	-61.31578947368419,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/26723/word_cloud.png	-84.15789473684208,38,99.41684210526314	0,0,1	0,1,0	-1,0,0	69.5917894736842	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/26723/'By @ibneAzhar'-BaltitFort-Hunza-GB-Pakistan- (71).JPG	-84.15789473684208,38,98.42267368421051	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/26723/caption/caption0.png	-84.15789473684208,38,98.42267368421051	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/26723/Hunza valley.jpg	0,38,198.3315789473684	1,0,0	0,1,0	0,0,1	-41.105263157894726	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/26723/caption/caption1.png	0,38,198.3315789473684	1,0,0	0,1,0	0,0,1	-19.105263157894726	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/26723/Passu - Hussaini Suspension Bridge.jpg	0,38,198.3315789473684	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/26723/caption/caption2.png	0,38,198.3315789473684	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	6

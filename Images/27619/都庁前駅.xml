@@ -1,0 +1,380 @@
+<page>
+    <title>都庁前駅</title>
+    <ns>0</ns>
+    <id>27619</id>
+    <revision>
+      <id>95491703</id>
+      <parentid>94588584</parentid>
+      <timestamp>2023-06-04T15:47:40Z</timestamp>
+      <contributor>
+        <username>編集中</username>
+        <id>650263</id>
+      </contributor>
+      <comment>/* のりば */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28474" xml:space="preserve">{{Otheruses|[[都営地下鉄大江戸線]]の'''都庁前駅'''|かつて[[千代田区]][[丸の内]]（現：[[東京国際フォーラム]]付近）にあった路面電車の'''都庁前停留所'''|東京都電車}}
+{{駅情報
+|社色 = #009f40
+|文字色 =
+|駅名 = 都庁前駅
+|画像 = Toei-Tocho-mae-Station-01.jpg
+|pxl = 300px
+|画像説明 = A4出入口（2012年9月撮影）
+|よみがな = とちょうまえ
+|ローマ字 = Tochomae&lt;br /&gt;&lt;nowiki&gt;[Tokyo Metropolitan Government]&lt;/nowiki&gt;
+|地図 = {{Infobox mapframe|zoom=14|frame-width=300|type=point|marker=rail-metro}}
+|電報略号 = 都（駅名略称）
+|所属事業者 = [[東京都交通局]]（[[都営地下鉄]]）
+|所在地 = [[東京都]][[新宿区]][[西新宿]]二丁目8-1
+|緯度度 = 35|緯度分 = 41|緯度秒 = 26.1
+|経度度 = 139|経度分 = 41|経度秒 = 33.2
+|地図国コード = JP
+|座標右上表示 = Yes
+|開業年月日= [[1997年]]（[[平成]]9年）[[12月19日]]&lt;ref name="RJ377"&gt;{{Cite journal|和書 |date = 1998-3 |journal = [[鉄道ジャーナル]] |volume = 32 |issue = 3 |page = 89 |publisher = [[鉄道ジャーナル社]] }}&lt;/ref&gt;
+|廃止年月日 =
+|駅構造 = [[地下駅]]
+|ホーム = 2面4線
+|乗降人員 = &lt;ref group="都交" name="toei2021" /&gt;35,587
+|統計年度 = 2021年
+|所属路線1 = {{color|#ce045b|●}}&lt;ref name="tokyosubway"&gt;[https://www.tokyometro.jp/ 東京地下鉄] 公式サイトから抽出（2019年5月26日閲覧）&lt;/ref&gt;[[都営地下鉄大江戸線|大江戸線]]&lt;br /&gt;（[[飯田橋駅|飯田橋]]・[[両国駅|両国]]方面）
+|隣の駅1 = 
+|前の駅1 =
+|駅間A1 =
+|駅間B1 = 0.8
+|次の駅1 = [[新宿西口駅|新宿西口]] E 01
+|駅番号1 = {{駅番号r|E|28|#ce045b|4}}&lt;ref name="tokyosubway"/&gt;
+|キロ程1 = 0.0
+|起点駅1 = 都庁前
+|所属路線2 = {{color|#ce045b|●}}&lt;ref name="tokyosubway"/&gt;[[都営地下鉄大江戸線|大江戸線]]&lt;br /&gt;（[[六本木駅|六本木]]・[[大門駅 (東京都)|大門]]・[[練馬駅|練馬]]・[[光が丘駅|光が丘]]方面）
+|前の駅2 = E 27 [[新宿駅|新宿]]
+|駅間A2 = 0.8
+|駅間B2 = 0.8
+|次の駅2 = [[西新宿五丁目駅|西新宿五丁目]]&lt;br /&gt;E 29
+|駅番号2 = {{駅番号r|E|28|#ce045b|4}}&lt;ref name="tokyosubway"/&gt;
+|キロ程2 = 28.6*
+|起点駅2 = 都庁前
+|乗換 =
+|備考 = [[日本の鉄道駅#管理駅|駅務管区所在駅]]&lt;br /&gt;* 環状部経由の距離
+}}
+
+'''都庁前駅'''（とちょうまええき）は、[[東京都]][[新宿区]][[西新宿]]二丁目にある、[[東京都交通局]]（[[都営地下鉄]]）[[都営地下鉄大江戸線|大江戸線]]の[[鉄道駅|駅]]である。同線の起点駅。[[駅ナンバリング|駅番号]]は'''E 28'''。
+
+駅名の通り、[[東京都庁舎]]の前にあり、最寄り駅となっている。
+
+同線が6の字型であるため、光が丘方面（放射線）と[[放射線・環状線|環状線]]との[[乗換駅|接続駅]]で、新宿西口・飯田橋方面からの列車は当駅止まりとなる。
+
+== 歴史 ==
+開業前の仮名称は「西新宿」だった&lt;ref&gt;{{Cite news |title=都営地下鉄12号線 新設の8駅名決まる 12月開業の新宿-練馬間 |newspaper=[[交通新聞]] |publisher=交通新聞社 |date=1997-02-13 |page=1 }}&lt;/ref&gt;。その「西新宿」の名称は現在[[東京メトロ丸ノ内線|丸ノ内線]]の駅名に使われている他、大江戸線でも「西新宿五丁目」という駅名の一部となっている。
+
+当駅は[[開削工法]]により施工したもので、地下3層構造、施工延長443&amp;nbsp;m、平均掘削幅32.7&amp;nbsp;m（20.2&amp;nbsp;m - 36.4&amp;nbsp;m）、平均掘削深さ21.8&amp;nbsp;m（20.6&amp;nbsp;m - 28.7&amp;nbsp;m）、路面覆工14,500&amp;nbsp;m&lt;sup&gt;2&lt;/sup&gt;、掘削土量284,000&amp;nbsp;m&lt;sup&gt;3&lt;/sup&gt;にも及び、大規模な工事となった&lt;ref name="TOEI-oedo226"&gt;{{Cite book|和書|editor=東京都交通局建設工務部管理課|edition=|date=2003-03|title=大江戸線放射部建設史|publisher=東京都交通局|pages=226-248|isbn=}}&lt;/ref&gt;。
+
+当駅[[光が丘駅|光が丘]]寄りの[[引き上げ線]]部は、駅開削工事とは別工区となる、都庁前駅 - 西新宿五丁目間の[[シールドトンネル|シールド掘削]]と同時に施工し、[[シールドマシン]]により引き上げ線123&amp;nbsp;mを施工した&lt;ref name="TOEI-oedo226"/&gt;。
+
+=== 年表 ===
+* [[1990年]]（[[平成]]2年）[[8月28日]]：当駅工区の建設工事に着工&lt;ref name="TOEI-oedo226"/&gt;。完成まで7年（88か月）を費やした&lt;ref name="TOEI-oedo226"/&gt;。
+* [[1997年]]（平成9年）
+** [[7月16日]]：西新宿駅務管理所都庁前駅務区を設置。練馬運輸管理所より練馬駅務区が移管される。
+** [[12月19日]]：都営12号線の[[練馬駅]] - [[新宿駅]]間延伸開業に伴い当駅開業&lt;ref name="RJ377"/&gt;。
+* [[1998年]]（平成10年）[[10月14日]]：[[関東の駅百選]]に選定される&lt;ref name="aramashi2020"&gt;{{Cite journal|和書|url=https://www.kotsu.metro.tokyo.jp/about/service/pdf/kotsu_aramashi_2020.pdf|archiveurl=https://web.archive.org/web/20201109043025/https://www.kotsu.metro.tokyo.jp/about/service/pdf/kotsu_aramashi_2020.pdf|archivedate=2020-11-09|title=都営交通のあゆみ|date=2020-09|publisher=東京都交通局|journal=都営交通のあらまし2020|format=PDF|page=35|accessdate=2022-01-15}}&lt;/ref&gt;。選定理由は「地下1、2階を吹き抜けにし、斬新なオブジェを設置した明るい駅」&lt;ref name="stations"&gt;{{Cite book|和書|author=（監修）「鉄道の日」関東実行委員会|title=駅の旅物語 関東の駅百選|publisher=[[人文社]]|date=2000-10-14|pages=34 - 35・227頁|edition=初版|isbn=4795912807}}&lt;/ref&gt;。
+* [[2000年]]（平成12年）
+** [[4月20日]]：都営12号線を大江戸線に改称&lt;ref name="aramashi2020" /&gt;。同時に新宿駅 - [[国立競技場駅]]間が延伸開業&lt;ref name="aramashi2020" /&gt;。
+** [[8月1日]]：西新宿駅務管理所を都庁前駅務管理所に改称。
+** [[12月12日]]：都営大江戸線が国立競技場駅から[[大門駅 (東京都)|大門駅]]経由で当駅まで延伸し、全線開業。
+* [[2007年]]（平成19年）[[3月18日]]：[[ICカード]]「[[PASMO]]」の利用が可能となる&lt;ref&gt;{{Cite press release|和書|url=https://www.tokyu.co.jp/file/061221_1.pdf|archiveurl=https://web.archive.org/web/20200501075147/https://www.tokyu.co.jp/file/061221_1.pdf|format=PDF|language=日本語|title=PASMOは3月18日（日）サービスを開始します ー鉄道23事業者、バス31事業者が導入し、順次拡大してまいりますー|publisher=PASMO協議会／パスモ|date=2006-12-21|accessdate=2020-05-06|archivedate=2020-05-01}}&lt;/ref&gt;。
+* [[2015年]]（平成27年）[[4月1日]]：[[市ケ谷駅|市ヶ谷]]駅務管理所廃止に伴い、市ヶ谷駅務区を都庁前駅務管理所に編入。
+* [[2016年]]（平成28年）4月1日：都庁前駅務管理所を都庁前駅務管区に改組。都庁前駅務区のうち[[東中野駅]]・[[中井駅]]を練馬駅務区に移管。また上野御徒町駅務区新宿西口駅務区廃止に伴い、[[牛込柳町駅]] - 新宿西口駅間が移管される。
+* [[2021年]]（[[令和]]3年）[[7月16日]] - [[9月30日]]：[[2020年東京オリンピック・パラリンピック]]開催に伴い、特別[[発車メロディ#接近メロディ|接近メロディ]]（『Make The Beat!』プロジェクトの「2020ビート」&lt;!--makethebeat.tokyo2020.org の利用規約および各種配信での楽曲タイトルに基づく--&gt;のアレンジ）を期間限定で使用&lt;ref&gt;{{Cite web|title=東京2020大会の開催にあわせて、副名称及び列車接近メロディを使用します|publisher=東京都交通局|date=2021-07-15|url=https://www.kotsu.metro.tokyo.jp/pickup_information/news/subway/2021/sub_i_2021071510013_h.html|accessdate=2021-07-15|archiveurl=https://web.archive.org/web/20210715072816/https://www.kotsu.metro.tokyo.jp/pickup_information/news/subway/2021/sub_i_2021071510013_h.html|archivedate=2021-07-15}}&lt;/ref&gt;。
+
+== 駅構造 ==
+方面別の[[島式ホーム]]2面4線の[[地下駅]]であり、1番線と4番線、2番線と3番線をそれぞれ複線扱いとして使用している（ただし3番線から光が丘方面へは基本的発着しない）。
+
+大江戸線の項でも触れているが、同路線の運転系統は光が丘から当駅を一旦通り、六本木、大門、両国、飯田橋を経由し再度当駅に戻ってくる。そして折り返し同じ経路で光が丘に戻るという6の字で運行している。すなわち、飯田橋・両国方面から来た電車は全て当駅止まりの折り返しとなり、光が丘方面との相互直通は行っていない（ただし、レールは繋がっている）。これは車両の向きが反転することにも関係している&lt;ref&gt;同様の事例はJR東日本[[外房線]]・[[内房線]][[安房鴨川駅]]などでも発生している。&lt;/ref&gt;。飯田橋・両国方面への折り返しは、3番線降車ホームに到着後、光が丘方の引き上げ線に回送し、2番線ホームに入線する形で行っている。
+
+六本木・大門方面と飯田橋・両国方面（練馬・光が丘方面からの乗客が飯田橋・両国方面へ向かう場合）および、当駅止まり降車ホームと練馬・光が丘方面（飯田橋・両国方面からの乗客が練馬・光が丘方面へ向かう場合）はそれぞれ同一ホームで乗り換えができる。一方、六本木・大門方面からの乗客が飯田橋・両国方面へ乗り換える場合および、飯田橋・両国方面からの客が六本木・大門方面へ乗り換える場合は、一旦階段・エスカレーター・エレベーターを使ってホームを移動しなければならない。
+
+かつては東京都交通局総合案内所（錦糸町から移転）や[[定期乗車券|定期券]]発売所が設置されていたが、共に廃止された（前者は定期券発売所の隣から改札前に移転した時期があった。後者は後に自動定期券発売機が設置された。）。
+
+東京都庁舎への出入り口が設けられているが、[[2004年]]4月から[[2008年]]8月まではテロ事件を理由に閉鎖されていた（2005年4月から7月にかけいったん解除）。出入口は、[[平日]]の都庁業務時間内に開放される。
+
+都庁前駅務管区の所在駅であり、都庁前駅務区（[[中野坂上駅]] - 大江戸線新宿駅間および[[新宿西口駅]] - 牛込柳町駅間）、練馬駅務区（[[光が丘駅]] - 東中野駅間）、市ヶ谷駅務区（新宿線新宿駅 - [[岩本町駅]]間、ただし[[神保町駅]]を除く）を管理している&lt;ref&gt;[http://www.reiki.metro.tokyo.jp/reiki_honbun/ag10115671.html 東京都交通局駅務管区処務規程]&lt;/ref&gt;。
+
+=== のりば ===
+{| class="wikitable"
+!番線&lt;!-- 事業者側による呼称 --&gt;!!路線!!行先&lt;ref&gt;{{Cite web |url=https://www.kotsu.metro.tokyo.jp/subway/timetable/oedo/E28BD.html |title=都庁前 時刻表 |publisher=東京都交通局 |accessdate=2023-06-04}}&lt;/ref&gt;!!備考
+|-
+! 1
+|rowspan="4"|[[File:Toei Oedo line symbol.svg|15px|E]] 都営大江戸線
+|[[六本木駅|六本木]]・[[大門駅 (東京都)|大門]]方面
+|光が丘・練馬方面からの列車。直通
+|-
+! 2
+|[[飯田橋駅|飯田橋]]・[[両国駅|両国]]方面
+|車庫・折返線からの列車。当駅始発
+|-
+! 3
+| （降車ホーム）
+|飯田橋方面からの列車。当駅止まり
+|-
+! 4
+|[[練馬駅|練馬]]・[[光が丘駅|光が丘]]方面
+|大門・六本木方面からの列車。直通
+|}
+（出典：[https://www.kotsu.metro.tokyo.jp/subway/stations/tochomae.html 東京都交通局:構内立体図]）
+* 3番線を除き、電車の発車時には発車ベルが鳴る（ホームドアからの発車メロディと併用）。
+* かつて光が丘 - 新宿間だけで運行していた頃は、新宿駅に上下線の渡り線がないため、当駅がその機能を代替していた。その頃は1番線と3番線が新宿方面、2番線と4番線が光が丘方面であり、当駅と新宿の間は上下線それぞれを[[単線並列]]で運転していた。[[駅名標]]もそれぞれの番線に合ったものが設置されていた。
+* 大江戸線の駅では[[清澄白河駅]]と並んで、コンコースに[[発車標]]が設置されている。
+&lt;gallery&gt;
+Tochomae-STA Gate.jpg|改札口（2022年12月）
+Tochomae-STA Concourse.jpg|コンコース（2022年12月）
+Tochomae-STA Home1-2.jpg|1・2番線ホーム（2022年5月）
+Tochomae-STA Home3-4.jpg|3・4番線ホーム（2022年5月）
+&lt;/gallery&gt;
+
+=== 配線図 ===
+{{駅配線図
+|image = Rail Tracks map Toei Tochomae Station.svg
+|title = [[都営地下鉄]] 都庁前駅 鉄道配線略図
+|width = 400px
+|up = [[飯田橋駅|飯田橋]]・[[両国駅|両国]] 方面
+|up-align = right
+|left = [[練馬駅|練馬]]・&lt;br /&gt;[[光が丘駅|光が丘]]&lt;br /&gt;方面
+|left-valign = middle
+|right =
+|right-valign =
+|down = [[六本木駅|六本木]]・[[大門駅 (東京都)|大門]] 方面
+|down-align = right
+|source = * 以下を参考に作成。&lt;br /&gt;** 鉄道ファン編集部、「特集 短絡線ミステリー6 - 地下鉄の謎」、[[交友社]]、『[[鉄道ファン (雑誌)|鉄道ファン]]』&lt;br /&gt;第43巻2号（通巻第502号） 2003年2月号、16ページ、「図2-7 都庁前」、2003年。
+|note =
+}}
+
+=== 新宿付近の経由ルート変更 ===
+大江戸線中野坂上 - 西新宿（仮称時、現在の都庁前） - 国立競技場付近は、特に大幅に経由ルートが変更された区間である&lt;ref name="YOSEN-113"&gt;洋泉社「今だから話せる都営地下鉄の秘密」pp.113 - 114、177 - 178。&lt;/ref&gt;。大江戸線計画当時は、東京都都市計画局（現・[[東京都都市整備局]]）と[[運輸省]]（当時）の指示から、混雑の激しい新宿駅への一極集中を避けるため、あえてターミナル駅を通らないルートを選定した&lt;ref name="YOSEN-113"/&gt;。このため、大江戸線の新宿ターミナルとなる西新宿駅（現・都庁前駅）は[[京王プラザホテル]]前に配置する計画としていた&lt;ref name="YOSEN-113"/&gt;（このほか、新宿駅周辺には新宿西口と代々木に駅を設置する計画&lt;ref name="KOUTSU1975-5"&gt;交通協力会『交通技術』1975年5月号「新宿副都心総合整備計画の概要 その2」pp.5 - 9。&lt;/ref&gt;）。
+
+1974年（昭和49年）の大江戸線免許申請時点では、中野坂上 - 当駅間は約900 mにわたって[[東京メトロ丸ノ内線|丸ノ内線]]の直下（中野坂上 - 丸ノ内線[[西新宿駅]]付近、当時同駅は未開業）を通って[[東京都道新宿副都心九号線|9号街路]]（東通り）の京王プラザホテル前に至るルートとし&lt;ref name="JREA1976-11"&gt;日本鉄道技術協会『JREA』1976年11月号「東京都営地下鉄12号線の建設計画」pp.10 - 13。&lt;/ref&gt;、現在の六本木・大門方面にあたるホームは南北方向に1面2線の島式ホーム（上階）とすることが計画されていた&lt;ref name="YOSEN-113"/&gt;。一方、現在の飯田橋・両国方面にあたるホームは、現行の当駅が通る[[東京都道新宿副都心四号線|4号街路]]（中央通り）地下の東西方向に1面2線の島式ホーム（下階）を設置し、六本木・大門方面と合わせてT形2層構造の駅として計画されていた&lt;ref name="JREA1976-11"/&gt;&lt;ref name="YOSEN-113"/&gt;&lt;ref&gt;洋泉社「今だから話せる都営地下鉄の秘密」では、4号街路（中央通り）の1本 北側にある[[東京都道新宿副都心五号線|5号街路]]（北通り）の地下に計画とあるが、日本鉄道技術協会『JREA』1976年11月号、交通協力会『交通技術』1975年5月号の記述内容から、これは誤りである。&lt;/ref&gt;。
+
+六本木・大門方面行きは、9号街路から西新宿二丁目交差点で[[甲州街道]]（都営新宿線新宿駅の西側で、[[京王新線]]の上を通る。駅は設置しない）と交差し、[[小田急小田原線]]の[[南新宿駅]]地下を横切って（駅は設置しない）東方向に向かう&lt;ref name="YOSEN-113"/&gt;&lt;ref name="KOUTSU1975-5"/&gt;。[[代々木駅]]はJR線の西側を並行する現行ルートではなく、代々木駅の南端で東西方向にJR線と交差し（代々木駅を設置）、中央本線の北側を並走して（現行ルートは南側を並走する）[[信濃町駅]]手前（信濃町駅を設置）で南に向かい、外苑東通りで現在ルートに合流していた&lt;ref name="KOUTSU1975-5"/&gt;&lt;ref name="YOSEN-113"/&gt;。飯田橋・両国方面は現行ルートよりも緩やかな曲線で新宿西口（駅を設置）を通過して東新宿駅方面へ向かうことを計画していた&lt;ref name="YOSEN-113"/&gt;&lt;ref name="KOUTSU1975-5"/&gt;。
+
+== 利用状況 ==
+[[2021年]]（令和3年）度の1日平均[[乗降人員|'''乗降'''人員]]は'''35,587人'''（[[乗降人員#乗車人員|乗車人員]]：17,197人、[[乗降人員#降車人員|降車人員]]：18,390人）である&lt;ref group="都交" name="toei2021" /&gt;。
+
+開業以来の1日平均'''乗降'''・'''乗車'''人員の推移は下表の通りである。
+&lt;!--東京都統計年鑑を出典にしている数値については、元データが1,000人単位で掲載されているため、*1000/365 (or 366) で計算してあります--&gt;
+{|class="wikitable" style="text-align:right"
+|+年度別1日平均乗降・乗車人員&lt;ref&gt;[http://www.city.nerima.tokyo.jp/kusei/tokei/tokeisho/ 練馬区統計書] - 練馬区&lt;/ref&gt;&lt;ref&gt;[http://www.city.shinjuku.lg.jp/kusei/kikaku01_001004.html 新宿区の概況] - 新宿区&lt;/ref&gt;
+!年度
+!1日平均&lt;br /&gt;乗降人員&lt;ref&gt;[https://www.train-media.net/report.html レポート] - 関東交通広告協議会&lt;/ref&gt;
+!1日平均&lt;br /&gt;乗車人員&lt;ref&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/tn-index.htm 東京都統計年鑑] - 東京都&lt;/ref&gt;
+!出典
+|-
+|1997年（平成{{0}}9年）
+|
+|3,592
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1997/TOBB510U.HTM 東京都統計年鑑（平成9年）]&lt;/ref&gt;
+|-
+|1998年（平成10年）
+|
+|3,926
+|&lt;ref group="*"&gt;{{PDFlink|[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1998/TOBB510J.PDF 東京都統計年鑑（平成10年）]}}&lt;/ref&gt;
+|-
+|1999年（平成11年）
+|
+|4,041
+|&lt;ref group="*"&gt;{{PDFlink|[https://www.toukei.metro.tokyo.lg.jp/tnenkan/1999/TOBB510K.PDF 東京都統計年鑑（平成11年）]}}&lt;/ref&gt;
+|-
+|2000年（平成12年）
+|14,552
+|6,209
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2000/00qyti0510u.htm 東京都統計年鑑（平成12年）]&lt;/ref&gt;
+|-
+|2001年（平成13年）
+|26,157
+|11,656
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2001/01qyti0510u.htm 東京都統計年鑑（平成13年）]&lt;/ref&gt;
+|-
+|2002年（平成14年）
+|29,287
+|13,034
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2002/tn02qyti0510u.htm 東京都統計年鑑（平成14年）]&lt;/ref&gt;
+|-
+|2003年（平成15年）
+|31,788
+|14,089
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2003/tn03qyti0510u.htm 東京都統計年鑑（平成15年）]&lt;/ref&gt;
+|-
+|2004年（平成16年）
+|33,361
+|14,881
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2004/tn04qyti0510u.htm 東京都統計年鑑（平成16年）]&lt;/ref&gt;
+|-
+|2005年（平成17年）
+|35,013
+|15,683
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2005/tn05qyti0510u.htm 東京都統計年鑑（平成17年）]&lt;/ref&gt;
+|-
+|2006年（平成18年）
+|36,703
+|16,495
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2006/tn06qyti0510u.htm 東京都統計年鑑（平成18年）]&lt;/ref&gt;
+|-
+|2007年（平成19年）
+|37,809
+|17,284
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2007/tn07qyti0510u.htm 東京都統計年鑑（平成19年）]&lt;/ref&gt;
+|-
+|2008年（平成20年）
+|38,072
+|17,668
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2008/tn08qyti0510u.htm 東京都統計年鑑（平成20年）]&lt;/ref&gt;
+|-
+|2009年（平成21年）
+|37,335
+|17,517
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2009/tn09q3i004.htm 東京都統計年鑑（平成21年）]&lt;/ref&gt;
+|-
+|2010年（平成22年）
+|37,381
+|17,612
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2010/tn10q3i004.htm 東京都統計年鑑（平成22年）]&lt;/ref&gt;
+|-
+|2011年（平成23年）
+|37,545
+|17,695
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2011/tn11q3i004.htm 東京都統計年鑑（平成23年）]&lt;/ref&gt;
+|-
+|2012年（平成24年）
+|40,652
+|19,247
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2012/tn12q3i004.htm 東京都統計年鑑（平成24年）]&lt;/ref&gt;
+|-
+|2013年（平成25年）
+|42,291
+|20,105
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2013/tn13q3i004.htm 東京都統計年鑑（平成25年）]&lt;/ref&gt;
+|-
+|2014年（平成26年）
+|43,750
+|20,971
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2014/tn14q3i004.htm 東京都統計年鑑（平成26年）]&lt;/ref&gt;
+|-
+|2015年（平成27年）
+|46,518
+|22,362
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2015/tn15q3i004.htm 東京都統計年鑑（平成27年）]&lt;/ref&gt;
+|-
+|2016年（平成28年）
+|48,473
+|23,449
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2016/tn16q3i004.htm 東京都統計年鑑（平成28年）]&lt;/ref&gt;
+|-
+|2017年（平成29年）
+|50,008
+|24,239
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2017/tn17q3i004.htm 東京都統計年鑑（平成29年）]&lt;/ref&gt;
+|-
+|2018年（平成30年）
+|52,192
+|25,373
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2018/tn18q3i004.htm 東京都統計年鑑（平成30年）]&lt;/ref&gt;
+|-
+|2019年（令和元年）
+|51,967
+|25,272
+|&lt;ref group="*"&gt;[https://www.toukei.metro.tokyo.lg.jp/tnenkan/2019/tn19q3i004.htm 東京都統計年鑑（平成31年・令和元年）]&lt;/ref&gt;
+|-
+|2020年（令和{{0}}2年）
+|&lt;ref group="都交" name="toei2020"&gt;{{Cite web |url=https://www.kotsu.metro.tokyo.jp/subway/kanren/passengers.html |title=各駅乗降人員一覧｜東京都交通局 |website= |publisher=東京都交通局 |accessdate=2022-11-13 |archiveurl=https://web.archive.org/web/20211104153832/https://www.kotsu.metro.tokyo.jp/subway/kanren/passengers.html |archivedate=2021-11-04 |deadlinkdate=2022-11-12}}&lt;/ref&gt;34,114
+|&lt;ref group="都交" name="toei2020" /&gt;16,569
+|
+|-
+|2021年（令和{{0}}3年）
+|&lt;ref group="都交" name="toei2021"&gt;{{Cite web |url=https://www.kotsu.metro.tokyo.jp/subway/kanren/passengers.html |title=各駅乗降人員一覧｜東京都交通局 |website= |publisher=東京都交通局 |accessdate=2022-11-13 |archiveurl=https://web.archive.org/web/20221112011444/https://www.kotsu.metro.tokyo.jp/subway/kanren/passengers.html |archivedate=2022-11-12 |deadlinkdate=}}&lt;/ref&gt;35,587
+|&lt;ref group="都交" name="toei2021" /&gt;17,197
+|
+|}
+
+== 駅周辺 ==
+当駅は、新宿高層ビル群の中にある。
+* [[西新宿駅]]（[[東京メトロ丸ノ内線]]） - 地下通路でつながっている。
+* [[東京都庁舎]]
+* [[新宿中央公園]]
+* [[新宿住友ビルディング|新宿住友ビル]]
+**[[平和祈念展示資料館]] - 現在は到着時の最寄り案内施設放送で流れている。
+* [[新宿三井ビルディング|新宿三井ビル]]
+* [[新宿郵便局]]
+* [[京王プラザホテル]]
+* [[ハイアットリージェンシー東京]] - 一時期に到着時の最寄り施設案内放送でも流れていた。また、ホテルセンチュリーハイアット時代は駅名標の下に看板が設置されていた。
+* [[ヒルトン東京]]
+* 新宿[[ワシントンホテル (藤田観光)|ワシントンホテル]]
+* [[新宿センタービル]]
+* 新宿[[第一生命保険|第一生命]]ビル
+*[[新宿パークタワー]]
+* [[新宿モノリスビル]]
+* [[新宿NSビル]]
+* [[KDDI]]ビル
+* [[工学院大学]]
+* [[東京医科大学病院]]&lt;!--
+*[[東京都道新宿副都心2号線]]（南通り）
+* [[東京都道新宿副都心3号線]]（ふれあい通り）
+* [[東京都道新宿副都心4号線]]（中央通り）
+* [[東京都道新宿副都心5号線]]（北通り）
+* [[東京都道新宿副都心8号線]]
+* [[東京都道新宿副都心9号線]]（東通り）
+* [[東京都道新宿副都心10号線]]（議事堂通り）
+* [[東京都道新宿副都心11号線]]（都庁通り）
+* [[東京都道新宿副都心12号線]]（公園通り）
+* [[東京都道新宿副都心13号線]]（十二社通り）--&gt;
+
+== バス路線 ==
+'''「都庁第一本庁舎」''' - A4出口を出てすぐの所にある。
+* C・H01（都庁循環）：[[新宿駅のバス乗り場|新宿駅西口]]行（[[都営バス小滝橋営業所#C・H01系統|都営]]・[[京王バス東・永福町営業所#都庁線|京王]]）
+;「都庁本庁舎」
+* [[京王バス東・中野営業所#新宿WEバス|新宿WEバス（新宿駅周辺施設循環）]]：新宿駅・新宿御苑方面（京王） - 日中ルートのみ停車
+
+== その他 ==
+* 東京都庁舎が[[丸の内]]にあった頃は、[[東京都電車|都電]]5系統に「都庁前」という停留場があった。この停留場に設置されていた停留場名板が当駅改札近くに展示されている。なお、停留場は都電廃止から新宿移転まで[[都営バス]]の停留所に引き継がれ、都庁移転後「丸の内三丁目（元都庁前）」を経て現在は「東京国際フォーラム前」を名乗っている（[[東京国際フォーラム]]そのものも都庁跡地に建設されている）。
+* 都営地下鉄と[[帝都高速度交通営団|営団地下鉄]]（現：[[東京地下鉄|東京メトロ]]）が共同制作した統一駅出入口サインと駅出入口の電動サイン「くるくるシンボル」は&lt;ref&gt;{{Cite press release|和書|url=http://www.metro.tokyo.jp/INET/OSHIRASE/2000/09/20A9B200.HTM|archiveurl=https://web.archive.org/web/20051119162536/www.metro.tokyo.jp/INET/OSHIRASE/2000/09/20A9B200.HTM|language=日本語|title=「動く」シンボルデザインが決定いたしました 東京の地下鉄の「顔」をデザインしよう!|publisher=東京都交通局|date=2000-09-08|accessdate=2020-10-19|archivedate=2005-11-19}}&lt;/ref&gt;、共に当駅が設置第1号目となった。
+* [[2011年]][[12月10日]]に都営大江戸線開業20周年記念イベントが当駅で開催された時は、プロ野球・[[東京ヤクルトスワローズ]]のマスコットキャラクター「[[つば九郎]]」が登場し、「1日駅鳥」を務めた。
+
+== 隣の駅 ==
+; 東京都交通局（都営地下鉄）
+: [[File:Toei Oedo line symbol.svg|15px|E]] 都営大江戸線
+:: [[飯田橋駅|飯田橋]]・[[両国駅|両国]]方面
+::: '''都庁前駅 (E 28)''' - [[新宿西口駅]] (E 01)
+:: [[六本木駅|六本木]]・[[大門駅 (東京都)|大門]]方面／[[練馬駅|練馬]]・[[光が丘駅|光が丘]]方面
+::: [[新宿駅]] (E 27) - '''都庁前駅 (E 28)''' - [[西新宿五丁目駅]] (E 29)
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 出典 ==
+;東京都統計年鑑
+{{Reflist|group="*"|22em}}
+;東京都交通局 各駅乗降人員
+{{Reflist|group="都交"|22em}}
+
+== 参考文献 ==
+* [[日本鉄道技術協会]]『JREA』1976年11月号「東京都営地下鉄12号線の建設計画」
+* 交通協力会『交通技術』1975年5月号「新宿副都心総合整備計画の概要 その2」
+
+== 関連項目 ==
+{{commonscat|Tochōmae Station}}
+* [[日本の鉄道駅一覧]]
+
+== 外部リンク ==
+* [https://www.kotsu.metro.tokyo.jp/subway/stations/tochomae.html 都庁前 ｜ 東京都交通局]
+
+{{都営地下鉄大江戸線}}
+{{関東の駅百選}}
+
+{{DEFAULTSORT:とちようまええき}}
+[[Category:新宿区の鉄道駅|とちようまえ]]
+[[Category:日本の鉄道駅 と|ちようまえ]]
+[[Category:都営地下鉄の鉄道駅|とちようまえ]]
+[[Category:1997年開業の鉄道駅|とちようまえ]]
+[[Category:新宿]]</text>
+      <sha1>gc9q1jv7m7ex7f9yrmwrbatj2sjb1k8</sha1>
+    </revision>
+  </page>
+  

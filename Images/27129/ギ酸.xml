@@ -1,0 +1,211 @@
+<page>
+    <title>ギ酸</title>
+    <ns>0</ns>
+    <id>27129</id>
+    <revision>
+      <id>92578129</id>
+      <parentid>92499590</parentid>
+      <timestamp>2022-11-24T13:43:34Z</timestamp>
+      <contributor>
+        <username>Report0723</username>
+        <id>1003573</id>
+      </contributor>
+      <comment>/* 危険性 */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18692" xml:space="preserve">{{Chembox
+|   ImageFile2 = formic acid 85 percent.jpg
+|   ImageSize2 = 120px
+|   ImageFileL1 =Formic_acid.svg
+|   ImageNameL1 = Skeletal structure of formic acid
+|   ImageFileR1 = Formic-acid-CRC-MW-3D-balls.png
+|   ImageNameR1 = 3D model of formic acid
+| IUPACName = メタン酸 methanoic acid （系統名）&lt;br /&gt;ギ酸 formic acid （許容慣用名）
+| Section1 = {{Chembox Identifiers
+| SMILES = O=CO
+| CASNo = 64-18-6
+| RTECS = LQ4900000
+| KEGG = C00058
+  }}
+| Section2 = {{Chembox Properties
+| Formula = CH&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;
+| RationalFormula =HCOOH
+| MolarMass = 46.025 g mol&lt;sup&gt;&amp;minus;1&lt;/sup&gt;
+| Appearance = 無色の液体
+| Density = 1.2196 g cm&lt;sup&gt;&amp;minus;3&lt;/sup&gt;
+| Solubility = 任意に混和
+| BoilingPtC = 100.75
+| MeltingPtC = 8.40
+| Viscosity = 1.57 cP at 26 {{℃}}
+| pKa = 3.75
+  }}
+| Section3 = {{Chembox Structure
+| MolShape = Planar
+| Dipole = 1.41 Debye(gas)
+  }}
+| Section4 = {{Chembox Thermochemistry
+| DeltaHf = &amp;minus;424.72 kJ mol&lt;sup&gt;&amp;minus;1&lt;/sup&gt;
+| DeltaHc = &amp;minus;254.62 kJ mol&lt;sup&gt;&amp;minus;1&lt;/sup&gt;
+| Entropy = 128.95 J mol&lt;sup&gt;&amp;minus;1&lt;/sup&gt;K&lt;sup&gt;&amp;minus;1&lt;/sup&gt;
+| HeatCapacity = 99.04 J mol&lt;sup&gt;&amp;minus;1&lt;/sup&gt;K&lt;sup&gt;&amp;minus;1&lt;/sup&gt;
+  }}
+| Section7 = {{Chembox Hazards
+| MainHazards = 腐食性; 刺激性;
+| NFPA-H = 3
+| NFPA-F = 2
+| NFPA-R = 0
+| FlashPt = 69 {{℃}}
+| RPhrases = {{R10}}, {{R35}}
+| SPhrases = {{S1/2}}, {{S23}}, {{S26}}, {{S45}}
+  }}
+| Section8 = {{Chembox Related
+|   Function = [[カルボン酸]]
+|   OtherFunctn = [[酢酸]]&lt;br/&gt;[[プロピオン酸]]
+|   OtherCpds = [[ホルムアルデヒド]]&lt;br/&gt;[[メタノール]]
+  }}
+}}
+
+'''ギ酸'''（ギさん、蟻酸、{{lang-en-short|formic acid}}）は、分子量が最小の[[カルボン酸]]である。[[IUPAC命名法]]では'''メタン酸''' (methanoic acid) が系統名である。[[カルボキシ基]](-COOH)以外に[[ホルミル基]](-CHO)も持つため、性質上、[[還元|還元性]]を示す。空気中で加熱すると発火しやすい。なお、ギ酸を[[飽和脂肪酸]]として見た時は、常温常圧において他の飽和脂肪酸よりも比重が大きいことで知られる。多くの飽和脂肪酸の比重が1を下回っているのに対し、ギ酸の比重は約1.22と[[酢酸]]よりもさらに比重が大きい。ギ酸は工業的に生産されており、その水溶液は市販されている。
+
+== 生成方法 ==
+[[酢酸]]生産時の副生成物としてギ酸が得られるが、それだけでは不足するため他の方法を用いたギ酸の生成も行われている。
+
+[[メタノール]]と[[一酸化炭素]]を強塩基存在下で反応させると、[[ギ酸メチル]]が生成する。
+:&lt;chem&gt;CH3OH + CO -&gt; HCOOCH3&lt;/chem&gt;
+
+工業的にはこの反応は高圧液相下で行われる。典型的な反応条件は 80 ℃、40気圧で[[ナトリウムメトキシド]]を用いるというものである。ギ酸メチルを[[加水分解]]するとギ酸が生成する。
+: &lt;chem&gt;HCOOCH3 + H2O -&gt; HCOOH + CH3OH&lt;/chem&gt;
+
+しかしながらメチルエステルの加水分解を効率的に進行させるには大過剰の[[水]]が必要であるため、他の化合物を経由した加水分解も行われている。ギ酸メチルを[[アンモニア]]と反応させ[[ホルムアミド]]を生成後、ホルムアミドを[[硫酸]]で加水分解するというものである。
+: &lt;chem&gt;HCOOCH3 + NH3 -&gt; HCONH2 + CH3OH&lt;/chem&gt;
+: &lt;chem&gt;HCONH2 + H2O + 1/2H2SO4 -&gt; HCOOH + 1/2(NH4)2SO4&lt;/chem&gt;
+
+この方法では[[硫酸アンモニウム]]が副生成物として混入してしまうという問題点がある。このため近年、製造業者はエネルギー効率向上の観点から、ギ酸メチルを直接加水分解した後の大過剰の水からギ酸を取り出す技術を開発している。例として[[BASF]]の、有機塩基を用いて抽出するという手法が挙げられる。
+
+また高圧下で[[水酸化ナトリウム]]に一酸化炭素を反応させ、ギ酸ナトリウムをつくり、これを[[塩酸]]で分解しても得られる。これらの反応から一酸化炭素はギ酸の無水物とも見做される。
+: &lt;chem&gt;NaOH + CO -&gt; HCOONa&lt;/chem&gt;
+
+濃縮したいときは次のようにする。
+# 水溶液を強く冷却し、ギ酸の結晶を析出させる。
+# [[精留塔]]で分離する。
+# [[ギ酸プロピル]]を混ぜて蒸留すると、蒸留液は二層に分かれる。このうちギ酸プロピルの層を蒸留すると、純ギ酸が得られる。
+
+== 歴史 ==
+[[15世紀]]初頭には、[[錬金術師]]や[[博物学]]者の一部は、[[エゾアカヤマアリ]]類の[[蟻塚]]から[[酸性]]の蒸気が出ていることを知っていた。[[1671年]]、[[イギリス]]の[[博物学者]]である[[ジョン・レイ (博物学者)|ジョン・レイ]] ([[:en:John Ray|John Ray]]) が、大量の死んだ[[アリ]]の[[蒸留]]によりギ酸を初めて単離し、「アリの酸 (formic acid)」と命名した。[[ジョセフ・ルイ・ゲイ＝リュサック]]が、[[シアン化水素]]からのギ酸の合成に成功した。シアン化水素はギ酸の[[ニトリル]]とも見做せる物質である。[[1855年]]、フランスの[[マルセラン・ベルテロ]]が、今日行われている[[一酸化炭素]]からの合成を行った。
+
+== 化学的性質 ==
+ギ酸は水や多くの[[極性溶媒]]、[[炭化水素]]に溶解する。炭化水素に溶解している場合や気体の場合、[[水素結合]]によりカルボン酸の[[二量体]]を形成している。この結合の存在により、気体は[[理想気体]]の性質から大きく外れたものとなる。液体及び固体状態では効率的な水素結合のネットワークを形成している。
+
+ギ酸はカルボン酸であるが、通常の条件下では[[カルボン酸ハロゲン化物|酸塩化物]]や[[カルボン酸無水物|酸無水物]]を形成しないという特徴を持つ。これらを生成させようとした実験のほとんどは一酸化炭素が生成するという結果に終わった。その後 &amp;minus;78 ℃ でフッ化ホルミルをギ酸ナトリウムと反応させると酸無水物が、&amp;minus;60 ℃ で1-ホルムイミダゾールの[[クロロメタン]]溶液と塩酸を反応させると酸塩化物が生成するという報告がなされた&lt;ref&gt;Cohen, J. B. (1930). ''Practical Organic Chemistry''; MacMillan.&lt;/ref&gt;。加熱するとギ酸は一酸化炭素と水に分解する。
+
+カルボン酸としては独特の性質を持ち、[[アルケン]]と反応する。ギ酸とアルケンが反応すると[[ギ酸エステル]]を生成する。しかし硫酸や[[フッ化水素]]などの酸が存在すると[[コッホ反応]] (Koch reaction) によりギ酸がアルケンに付加し、炭素鎖が伸長したカルボン酸が生成する。
+
+ギ酸水溶液は、1価の脂肪族カルボン酸の中では最も強い酸であることに加えて[[腐食性]]を持ち、皮膚に触れると水泡を生じ、痛みを与える。0.1 mol dm&lt;sup&gt;&amp;minus;3&lt;/sup&gt;水溶液中の電離度は0.042である。また100%ギ酸のハメットの[[酸度関数]]は''H''&lt;sub&gt;0&lt;/sub&gt; = &amp;minus;2.22であり比較的強い酸性媒体である&lt;ref name=tanaka&gt;田中元治 『基礎化学選書8 酸と塩基』 裳華房、1971年。&lt;/ref&gt;。
+: &lt;chem&gt;HCOOH (aq) &lt;-&gt; H+ (aq) + HCOO^{-} (aq)&lt;/chem&gt;
+
+その酸解離に対する[[熱力学]]的諸量は以下の通りである&lt;ref name=tanaka /&gt;&lt;ref name=Parker&gt;{{cite report | author = Wagman, D. D.; Evans, W. H.; Parker, V. B.; Schumm, R. H.; Halow, I. | title = The NBS tables of chemical thermodynamics properties. Selected Values for Inorganic and C1 and C2 Organic Substances in SI Units | journal = J. Phys. Chem. Ref. Data | volume = 11 | pages = Suppl. 2 | year = 1982 |publisher=National Standard Reference Data System |url=https://apps.dtic.mil/sti/citations/ADD095481}}&lt;/ref&gt;。
+{| class="wikitable" style="text-align: center;"
+|-
+! Δ''H''&lt;sup&gt;○&lt;/sup&gt;
+! Δ''G''&lt;sup&gt;○&lt;/sup&gt;
+! Δ''S''&lt;sup&gt;○&lt;/sup&gt;
+! Δ''Cp''&lt;sup&gt;○&lt;/sup&gt;
+|-
+| &amp;minus;0.12 kJ mol&lt;sup&gt;&amp;minus;1&lt;/sup&gt;
+| 21.4 kJ mol&lt;sup&gt;&amp;minus;1&lt;/sup&gt;
+| &amp;minus;72 J mol&lt;sup&gt;&amp;minus;1&lt;/sup&gt;K&lt;sup&gt;&amp;minus;1&lt;/sup&gt;
+| &amp;minus;172 J mol&lt;sup&gt;&amp;minus;1&lt;/sup&gt;K&lt;sup&gt;&amp;minus;1&lt;/sup&gt;
+|-
+|}
+また、[[硫酸|濃硫酸]]または[[三酸化硫黄]]を加えて熱すると一酸化炭素を生じる。
+: &lt;chem&gt;HCOOH -&gt; CO + H2O&lt;/chem&gt;
+: &lt;chem&gt;HCOOH + SO3 -&gt; CO + H2SO4&lt;/chem&gt;
+
+ギ酸はアルデヒドでもあるため、還元性を持つ。にもかかわらず、[[フェーリング反応]]はほとんど示さない。これは、ギ酸イオンが銅イオンと安定な[[キレート|キレート錯体]]を形成するためで、ギ酸イオンが銅イオンを包み込み、銅イオンが[[酸化銅(I)]]として沈澱するのを妨げるからだと考えられる。
+
+同じく還元性に由来する[[銀鏡反応]]は問題なく起こる。
+
+ギ酸は酸化されると[[炭酸]]を生じる。
+: &lt;chem&gt;HCOOH + (O) -&gt; H2CO3&lt;/chem&gt;
+
+またギ酸は[[ホルムアルデヒド]]の[[酸化]]でも生じる。
+: &lt;chem&gt;CH2O + (O) -&gt; HCOOH&lt;/chem&gt;
+
+== 生物とギ酸 ==
+ギ酸というと[[アリ]]を思い浮かべる人が多いが、すべてのアリがギ酸を持つわけではない。[[ハチ]]の仲間であるアリは、ほとんどの種で尾端に毒針を持っており、これで巣の防衛や獲物の攻撃を行う。しかし、[[ヤマアリ亜科]]と[[カタアリ亜科]]のアリの場合はこの毒針を失っており、水鉄砲のように毒性のある毒液を外敵に吹きかけて巣を防衛したり、獲物を狩ったりする。ヤマアリ亜科の場合にはこの毒液の主成分がギ酸であり、ギ酸の腐食性と浸透性によって外敵の皮膚を損傷し、毒液を体内に浸透させる。北半球の温帯地方、特にその北部で特に繁栄していてヒトの生活圏で個体数も多い[[ヤマアリ属]] ''Formica'' spp. や[[ケアリ属]] ''Lasius'' spp. のアリがヤマアリ亜科に属すため、この地域でアリの巣を刺激した時にギ酸による攻撃を受けることが多い。
+
+ギ酸はヤマアリ亜科のアリから防御液を吹きかけられたり、[[イラクサ]]の棘に刺されたときの刺激の一因となっている（ただし、イラクサの毒作用は[[ヒスタミン]]と[[アセチルコリン]]が主成分とする説が有力になってきている）。
+
+[[メタノール]]を誤飲すると失明・死亡するが（[[メタノール毒性]]）それはメタノールの酸化により生じる[[ホルムアルデヒド]]のせいだけではなく、それがさらに酸化されて生じるギ酸が、ミトコンドリアの電子伝達系に関わるシトクロムオキシダーゼを阻害するために視神経毒性が現れるとする意見&lt;ref name="ehc196"&gt;{{cite web|url=https://inchem.org/documents/ehc/ehc/ehc196.htm|title=ENVIRONMENTAL HEALTH CRITERIA 196 Methanol|author= ICPS INCHEM|accessdate=2009年11月24日}}&lt;/ref&gt;もある。
+
+ギ酸は、10-ホルミルテトラヒドロ葉酸合成酵素により[[テトラヒドロ葉酸]]から[[10-ホルミルテトラヒドロ葉酸]]を経て代謝、分解される。ヒトではこの反応速度が遅いためギ酸が残留して毒性を示すこととなる&lt;ref&gt;佐々木庸郎, 石田順朗, 小島直樹 ほか、「[https://doi.org/10.3893/jjaam.19.160 Top of the basilar syndromeを疑われたメタノール中毒の1症例]」『日本救急医学会雑誌』 2008年 19巻 3号 p.160-167, {{doi|10.3893/jjaam.19.160}}&lt;/ref&gt;。
+
+== 利用 ==
+主な利用法としては家畜用[[飼料]]（[[サイレージ]]）の防腐剤や抗菌剤といったものが挙げられる。干し草や貯蔵牧草などに噴霧すると腐食を抑え、栄養価を保持するなどの特徴から冬季の牛の飼料などに広く用いられる。養鶏業では[[サルモネラ菌]]除去のため時々飼料に加えられる。養蜂業ではミツバチヘギイタダニ等のダニ殺虫剤として用いる場合がある。また繊維工業や皮なめしの場でも用いられることがある。ある種のギ酸エステルは香料となる。
+
+有機合成化学では、しばしば[[水素化物イオン]]源として用いられる。[[エシュバイラー・クラーク反応]]や[[ロイカート反応|ロイカート・ヴァラッハ反応]]は良い例である。
+
+研究室内では、硫酸と混合することで一酸化炭素源として用いられる。ホルミル源としても用いられることがあり、トルエン中でメチルアニリンからN-メチルホルムアニリドを生成する反応が例として挙げられる&lt;ref&gt;{{OrgSynth | author = Fieser, L. F.; Jones, J. E. | year =1940 | title = ''N''-Methylformanilide | volume= 20 | pages = 66 | collvol = 3 | collvolpages = 590 | prep = cv3p0590}}&lt;/ref&gt;。
+
+ギ酸を燃料とする[[ギ酸燃料電池]]も開発中である。
+
+ロジウム単核金属錯体触媒を用い常温常圧下でギ酸を分解し[[水素]]を高効率に取り出すことに成功した。これにより、取扱いに不便な水素貯蔵にかえてギ酸による安全貯蔵、運搬に道が開けたことになる&lt;ref&gt;[https://www.aist.go.jp/aist_j/press_release/pr2015/pr20151211/pr20151211.html 圧縮機を使わない高圧水素連続供給法を開発] 産業技術総合研究所 記事:2015/12/11&lt;/ref&gt;&lt;ref&gt;{{Cite journal|和書|title=ギ酸の力で水素エネルギーを有効利用 |url=https://doi.org/10.1241/jstnews.2019.4_8 |author=国立研究開発法人科学技術振興機構 |journal=JSTnews |year=2019 |volume=2019 |issue=4 |pages=8-11 |doi=10.1241/jstnews.2019.4_8}}&lt;/ref&gt;。
+
+ギ酸純粋物を直接利用する手法ではないが、[[ヨーグルト]]製造においては、まずギ酸を生成する[[サーモフィルス菌]]（{{Snamei||Streptococcus thermophilus}}）によって凝固し殺菌された固形のヨーグルト原料を作り&lt;ref&gt;{{Cite journal|和書|url=https://doi.org/10.4109/jslab.26.109 |title=ヨーグルトを造る乳酸菌共生発酵研究の最近の知見 |author=佐々木泰子 |journal=日本乳酸菌学会誌 |volume=26 |issue=2 |pages=109-117 |year=2015 |doi=10.4109/jslab.26.109}}&lt;/ref&gt;、それを基礎として更に独自の[[乳酸菌]]を用いて最終的な製品に仕上げるという方法が取られる場合が多い。（このプロセスは、製造過程でサーモフィルス菌を使っている事を明示しているヨーグルトはもちろん、そうでないヨーグルトでも用いられる。また、ハードヨーグルト、ソフトヨーグルト、ドリンクヨーグルトを問わず広く用いられている。）
+
+== 危険性 ==
+液体のギ酸溶液や蒸気は皮膚や目に対して有害である。特に目に対して回復不能な障害を与えてしまう場合がある。吸入すると[[肺水腫]]などの障害を与えることがある。ギ酸の蒸気中には一酸化炭素も含まれていることが多いため、大量のギ酸の蒸気を扱う際には注意しなければならない。
+
+慢性的な暴露により肝臓や腎臓に悪影響を及ぼすと考えられている。またアレルギー源としての可能性も考えられている。
+
+動物実験により[[変異原性]]が確認されていたが、変異原性はギ酸のみに見られ、ギ酸ナトリウムなどの塩には見られないことから、変異原性はその低いpHによるものだと考えられている&lt;ref&gt;[https://web.archive.org/web/20081101004445/http://epa.gov/hpv/pubs/summaries/formates/c13438rs.pdf High Production Volume (HPV) Challenge Robust Summaries &amp; Test Plans: Formates]&lt;/ref&gt;。
+
+== 法的規制 ==
+日本では90%以上の水溶液は[[毒物及び劇物取締法]]により[[劇物]]に、[[消防法]]により[[危険物]]第4類に、また安衛法による文書交付対象物質に指定されている。
+
+== 関連化合物 ==
+=== ギ酸塩 ===
+[[Image:Formate.svg|thumb|120px|ギ酸イオン]]
+ギ酸の[[電離]]により生成する[[イオン]]を'''ギ酸イオン''' (&lt;chem&gt;HCOO-&lt;/chem&gt;) と呼び、ギ酸イオンを含む塩を[[ギ酸塩]]と呼ぶ。
+
+ギ酸イオンは多くの金属イオンおよび[[アンモニウム]]と塩を生成するが、[[銀]]塩は室温で不安定である。多くのものはギ酸イオンを含む[[イオン結晶]]であるが、[[ベリリウム]]、[[クロム]](III)および[[鉄]](III)などはギ酸イオンで架橋した金属[[多核錯体]]を形成している&lt;ref name=kagakudaijiten&gt;化学大辞典編集委員会 『化学大辞典』 共立出版、1993年。&lt;/ref&gt;。
+
+多くのものが水溶性であるが、[[スズ]]塩、[[鉛]]塩および[[ビスマス]]塩などは難溶性である。
+
+[[ギ酸ナトリウム]] HCOONa は繊維の染色や印刷の過程などで用いられる。
+
+=== ギ酸エステル ===
+[[Image:Methyl formate.png|thumb|120px|ギ酸メチル]]
+ギ酸と[[アルコール]]が[[脱水縮合]]した構造を持つ[[エステル]]を'''ギ酸エステル'''と呼び、&lt;chem&gt;HCOOR&lt;/chem&gt; の構造を持つ。
+
+ギ酸エステルには果実の芳香の成分となっているものが存在し、ギ酸エチル {{chem|HCOOC|2|H|5}} は[[桃]]、ギ酸アミル {{chem|HCOOC|5|H|11}} は[[リンゴ]]、ギ酸イソアミル {{chem|HCOOCH|2|C|2|CH|(CH|3|)|2}} は[[ナシ|梨]]の香りの成分の一つであり、[[香料]]として用いられる&lt;ref name=kagakudaijiten /&gt;。
+
+[[ギ酸メチル]] {{chem|HCOOCH|3}} はエーテル様芳香を持ち、化成品原料として用いられる。
+
+その他、ギ酸誘導体には、[[ニトリル]]として[[シアン化水素]] HCN、[[アミド]]として[[ホルムアミド]] {{chem|HCONH|2}} などが存在する。また[[カルボン酸ハロゲン化物]]としてのギ酸クロリド HCOCl は室温では安定でない。
+
+== 脚注 ==
+{{脚注ヘルプ}}
+
+=== 出典 ===
+{{Reflist}}
+
+== 関連項目 ==
+{{Commonscat|Formic_acid}}
+* [[カルボニル基]]
+
+==外部リンク==
+* [https://anzeninfo.mhlw.go.jp/anzen/gmsds/64-18-6.html 職場のあんぜんサイト：化学物質：ぎ酸] 厚生労働省
+
+{{脂肪酸}}
+{{Normdaten}}
+
+{{DEFAULTSORT:きさん}}
+[[Category:脂肪酸]]
+[[Category:アルデヒド]]
+[[Category:ギ酸塩|*]]
+[[Category:カルボン酸]]</text>
+      <sha1>5u8mxogfge48qwmy1m4pd1hig4x13ru</sha1>
+    </revision>
+  </page>
+  

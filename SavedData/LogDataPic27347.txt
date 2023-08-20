@@ -1,0 +1,5 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/27347/title_panel.png	-85.94736842105262,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/27347/word_cloud.png	-108.1736842105263,38,99.41684210526314	0,0,1	0,1,0	-1,0,0	69.5917894736842	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/27347/Iupac-aldehyde.png	-108.1736842105263,38,98.42267368421051	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/27347/caption/caption0.png	-108.1736842105263,38,98.42267368421051	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23

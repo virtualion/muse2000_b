@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/26782/title_panel.png	-127.0,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/26782/word_cloud.png	-148.2,38,107.54526315789474	0,0,1	0,1,0	-1,0,0	75.28168421052631	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/26782/Ronaldo em campo.jpg	-148.2,38,106.46981052631578	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/26782/caption/caption0.png	-148.2,38,106.46981052631578	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/26782/Ronaldo2009Corinthians.jpg	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	-94.89999999999999	-10	0.2	3.133603238866397	Wooden_thin	-1:-1	3
+4	./Images/26782/caption/caption1.png	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	-77.45465587044534	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/26782/Football against poverty 2014 - Ronaldo.jpg	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	-28.299999999999997	-10	0.2	3.133603238866397	Wooden_thin	-1:-1	5
+6	./Images/26782/caption/caption2.png	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	-10.854655870445342	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/26782/Ronaldo Real Madrid.jpg	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	38.30000000000001	-10	0.2	3.133603238866397	Wooden_thin	-1:-1	7
+8	./Images/26782/caption/caption3.png	0,38,214.54736842105262	1,0,0	0,1,0	0,0,1	55.74534412955467	-20	1.5	0.7	none(caption)	-1:-1	8
+9	Images/26782/table/fixed_FIFAワールドカップでの得点.png	148.2,38,108.63157894736842	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	12.178124999999998	Wooden_thin	-1:-1	9

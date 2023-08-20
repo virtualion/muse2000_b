@@ -1,0 +1,11 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/26922/title_panel.png	-127.0,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/26922/word_cloud.png	-148.2,38,140.05894736842106	0,0,1	0,1,0	-1,0,0	98.04126315789473	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/26922/Newman Laugh-O-Gram (1921).webm	-148.2,38,138.65835789473684	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/26922/caption/caption0.png	-148.2,38,138.65835789473684	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/26922/Walt_Disney_1935.jpg	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	-61.599999999999994	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/26922/caption/caption1.png	0,38,279.4105263157895	1,0,0	0,1,0	0,0,1	-39.599999999999994	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/26922/Walt Disney Molina Campos.jpg	148.2,38,141.47368421052633	0,0,-1	0,1,0	1,0,0	76.26209684210527	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/26922/caption/caption2.png	148.2,38,141.47368421052633	0,0,-1	0,1,0	1,0,0	98.26209684210527	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/26922/Walt_Disney_and_Dr._Wernher_von_Braun_-_GPN-2000-000060.jpg	148.2,38,141.47368421052633	0,0,-1	0,1,0	1,0,0	-76.26209684210525	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/26922/caption/caption3.png	148.2,38,141.47368421052633	0,0,-1	0,1,0	1,0,0	-54.26209684210525	-20	1.5	0.7	none(caption)	-1:-1	8

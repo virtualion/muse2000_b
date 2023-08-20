@@ -1,0 +1,8 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/27289/title_panel.png	-77.73684210526315,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/27289/word_cloud.png	-100.16842105263157,38,99.41684210526314	0,0,1	0,1,0	-1,0,0	69.5917894736842	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/27289/wiki-c-ooruri.jpg	-100.16842105263157,38,98.42267368421051	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+3	./Images/27289/Cyanoptila cyanomelana.jpg	0,38,198.3315789473684	1,0,0	0,1,0	0,0,1	-51.77894736842104	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/27289/caption/caption1.png	0,38,198.3315789473684	1,0,0	0,1,0	0,0,1	-29.778947368421044	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/27289/Cyanoptila cyanomelana juveniles male.JPG	0,38,198.3315789473684	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/27289/caption/caption2.png	0,38,198.3315789473684	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	6

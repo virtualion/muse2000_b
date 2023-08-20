@@ -1,0 +1,7 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/26800/title_panel.png	-200.89473684210526,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/26800/word_cloud.png	-220.24736842105264,38,221.34315789473683	0,0,1	0,1,0	-1,0,0	154.94021052631578	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/26800/Half rim glasses.JPG	-220.24736842105264,38,219.12972631578947	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/26800/caption/caption0.png	-220.24736842105264,38,219.12972631578947	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/26800/Hugh specs.jpg	0,38,441.56842105263155	1,0,0	0,1,0	0,0,1	-97.62368421052632	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/26800/caption/caption1.png	0,38,441.56842105263155	1,0,0	0,1,0	0,0,1	-75.62368421052632	-20	1.5	0.7	none(caption)	-1:-1	4

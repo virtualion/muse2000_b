@@ -1,0 +1,9 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/27522/title_panel.png	-94.15789473684211,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/27522/word_cloud.png	-116.17894736842106,38,91.28842105263156	0,0,1	0,1,0	-1,0,0	63.90189473684209	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/27522/National_Cathedral.jpg	-116.17894736842106,38,90.37553684210525	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/27522/caption/caption0.png	-116.17894736842106,38,90.37553684210525	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/27522/GeneRobinson.jpg	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	-62.452631578947376	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/27522/caption/caption1.png	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	-40.452631578947376	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/27522/2018MichaelBruceCurry.jpg	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	5.0	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/27522/caption/caption2.png	0,38,182.11578947368417	1,0,0	0,1,0	0,0,1	27.0	-20	1.5	0.7	none(caption)	-1:-1	6

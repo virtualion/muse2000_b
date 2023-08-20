@@ -1,0 +1,5 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/11067/title_panel.png	-151.6315789473684,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/11067/word_cloud.png	-172.2157894736842,38,131.93052631578948	0,0,1	0,1,0	-1,0,0	92.35136842105263	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/11067/Hasu1.jpg	-172.2157894736842,38,130.61122105263158	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/11067/caption/caption0.png	-172.2157894736842,38,130.61122105263158	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23

@@ -1,0 +1,16 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/27572/title_panel.png	-299.4210526315789,28.656,30	0,0,1	0,1,0	-1,0,0	0	-2.443498	0.2	1.4	none(caption)	4:3	22
+1	./Images/27572/word_cloud.png	-316.31052631578945,38,318.88421052631577	0,0,1	0,1,0	-1,0,0	223.21894736842103	5	0.2	2.5	Wooden_thin2	-1:-1	23
+1	./Images/27572/Central Shimonoseki and Kanmon Strait.JPG	-316.31052631578945,38,315.6953684210526	0,0,1	0,1,0	-1,0,0	0	5	0.2	5.6	Wooden_thin2	-1:-1	23
+1	./Images/27572/caption/caption0.png	-316.31052631578945,38,315.6953684210526	0,0,1	0,1,0	-1,0,0	35	-2	1	0.8	Wooden_thin2	-1:-1	23
+3	./Images/27572/Shimonoseki-city.jpg	0,38,636.1578947368421	1,0,0	0,1,0	0,0,1	-236.04842105263157	-10	0.2	4.5	Wooden_thin	-1:-1	3
+4	./Images/27572/caption/caption1.png	0,38,636.1578947368421	1,0,0	0,1,0	0,0,1	-214.04842105263157	-20	1.5	0.7	none(caption)	-1:-1	4
+5	./Images/27572/Kanmon Straits from space cropped rotated 90 degrees CCW.jpg	0,38,636.1578947368421	1,0,0	0,1,0	0,0,1	-115.52421052631576	-10	0.2	4.5	Wooden_thin	-1:-1	5
+6	./Images/27572/caption/caption2.png	0,38,636.1578947368421	1,0,0	0,1,0	0,0,1	-93.52421052631576	-20	1.5	0.7	none(caption)	-1:-1	6
+7	./Images/27572/Shimonoseki city center area Aerial photograph.2009.jpg	0,38,636.1578947368421	1,0,0	0,1,0	0,0,1	5.000000000000057	-10	0.2	4.5	Wooden_thin	-1:-1	7
+8	./Images/27572/caption/caption3.png	0,38,636.1578947368421	1,0,0	0,1,0	0,0,1	27.000000000000057	-20	1.5	0.7	none(caption)	-1:-1	8
+9	./Images/27572/Dan-no-ura kosen-jo.JPG	0,38,636.1578947368421	1,0,0	0,1,0	0,0,1	125.52421052631581	-10	0.2	4.5	Wooden_thin	-1:-1	9
+10	./Images/27572/caption/caption4.png	0,38,636.1578947368421	1,0,0	0,1,0	0,0,1	147.5242105263158	-20	1.5	0.7	none(caption)	-1:-1	10
+11	Images/27572/table/fixed_市長.png	316.31052631578945,38,322.10526315789474	0,0,-1	0,1,0	1,0,0	231.50993684210522	-10	0.2	6.309374999999999	Wooden_thin	-1:-1	11
+12	Images/27572/table/fixed_県議会.png	316.31052631578945,38,322.10526315789474	0,0,-1	0,1,0	1,0,0	0.0	-10	0.2	3.1500000000000004	Wooden_thin	-1:-1	12
+13	Images/27572/table/fixed_衆議院.png	316.31052631578945,38,322.10526315789474	0,0,-1	0,1,0	1,0,0	-231.50993684210528	-10	0.2	3.1500000000000004	Wooden_thin	-1:-1	13
